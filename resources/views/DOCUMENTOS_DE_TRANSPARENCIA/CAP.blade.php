@@ -7,9 +7,11 @@
         .banner {
             position: relative;
             width: 100%;
-            height: 400px;
+            height: 340px;
             background: linear-gradient(to left, rgba(204, 204, 204, 0.4), rgba(0, 14, 139, 0.9)),
-                url('images/boletin1.jpg') no-repeat center center/cover;
+            url('images/Gobierno_Regional_Junin.jpg') no-repeat;
+            background-size: cover;
+            background-position: 50% 35%;
             display: flex;
             align-items: center;
             justify-content: start;
@@ -17,11 +19,13 @@
         }
 
         .banner h1 {
-            color: white;
+            color: #fff;
             font-size: 50px;
             font-weight: bold;
-            margin-left: 140px;
+            margin-left: 180px;
+            margin-top: 50px;
             font-family: 'Panton Narrow Black Italic', sans-serif;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
 
         .container-pag{
@@ -32,27 +36,23 @@
             align-content: center;
             justify-content: center;
         }
-        .pagination{
+
+        .pag{
             display: flex;
-            align-items: center;
-            background: #fff;
-            color: #383838;
-            width: 800px;
-            height: 100px;
-            padding: 10px 40px;
-            border-radius: 6px;
+            align-content: center;
+            justify-content: center;
         }
+
         .link-ul{
             margin: 20px 30px;
         }
         .link-ul .link-li{
             display: inline-block;
-            margin: 0 10px;
             width: 45px;
             height: 45px;
             border-radius: 50%;
             text-align: center;
-            font-size: 22px;
+            font-size: 18px;
             font-weight: 500;
             line-height: 45px;
             cursor: pointer;
@@ -62,7 +62,7 @@
 
         .link-li.active{
             color: #fff;
-            background-image: linear-gradient(#ffaf02, #ffaf02);
+            background-image: linear-gradient(#f44336, #f44336);
             background-repeat: no-repeat;
             background-position: 0 0;
         }
@@ -70,7 +70,7 @@
         .btn1, .btn2{
             display: inline-flex;
             align-items: center;
-            font-size: 22px;
+            font-size: 18px;
             font-weight: 500;
             color: #383838;
             background: transparent;
@@ -89,54 +89,177 @@
             transform: rotate(180deg);
         }
 
-        .container-a {
-    max-width: 500px;
-    margin: auto;
-    background-color: white;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-.holiday {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 15px;
-    border-bottom: 1px solid #ddd;
-    background-color: white;
-}
-
-.holiday:nth-child(odd) {
-    background-color: #f2f2f2;
-}
-
-.holiday i {
-    font-size: 20px;
-    color: #333;
-}
-
-.holiday-info {
-    flex: 1;
-    margin-left: 10px;
-}
-
-.holiday-info strong {
-    display: block;
-    font-size: 16px;
-    color: #000;
-}
-
-.holiday-info span {
-    font-size: 14px;
-    color: #777;
-}
+        .filter-container {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+        .input-group-text {
+            background-color: #fff;
+        }
+        .input-group{
+            width: 420px;
+        }
+        .input-group .form-control {
+            padding: 12px 16px; /* Más alto y con más espacio lateral */
+            font-size: 16px; /* Para que el texto se vea bien con más padding */
+        }
+        .header-alert {
+            background-color: #f44336;
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 16px;
+        }
+        .event-card {
+            display: flex;
+            align-items: center;
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .event-icon {
+            background: #f44336;
+            color: white;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+            font-size: 24px;
+            margin-right: 15px;
+        }
+        .event-info {
+            flex-grow: 1;
+        }
+        .event-title {
+            font-weight: bold;
+            color: #ff5722;
+        }
     </style>
     <div class="banner">
         <h1>CUADRO DE ASIGNACIÓN<br>PARA EL PERSONAL (CAP)</h1>
     </div>
 
-    <div class="container-pag">
+    <div class="container mt-4">
+        <div class="filter-container">
+            <!-- Filtro por fecha -->
+            <div class="filter-group">
+                <label class="fw-bold">Filtrar por fecha de publicación</label>
+                <div class="d-flex gap-2">
+                    <div class="input-group">
+                        <input type="date" class="form-control">
+                        <span class="input-group-text"><i class="bi bi-calendar"></i></span>
+                    </div>
+                    <div class="input-group">
+                        <input type="date" class="form-control">
+                        <span class="input-group-text"><i class="bi bi-calendar"></i></span>
+                    </div>
+                </div>
+            </div>
+    
+            <!-- Filtro por palabra clave -->
+            <div class="filter-group">
+                <label class="fw-bold">Filtrar por palabra clave</label>
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Buscar...">
+                    <span class="input-group-text"><i class="bi bi-search"></i></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container mt-4">
+        <div class="header-alert text-center">
+            <strong>SEDE REGIONAL</strong><br>
+        </div>
+    
+        <div class="mt-3">
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>22/10/2021</small><br>
+                    <span class="event-title">CAP 2018 - Sede Regional Junín - VIGENTE</span><br>
+                    <small>4.5 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff5722;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff5722;"></a>
+            </div>
+    
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>22/10/2021</small><br>
+                    <span class="event-title">CAP 2017 - Sede Regional Junín</span><br>
+                    <small>2.4 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff5722;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff5722;"></a>
+            </div>
+    
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>25/07/2015</small><br>
+                    <span class="event-title">CAP 2012 - Sede Regional Junín</span><br>
+                    <small>13 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff5722;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff5722;"></a>
+            </div>
+    
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>31/12/2011</small><br>
+                    <span class="event-title">CAP 2011 - Sede Regional Junín</span><br>
+                    <small>11.5 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff5722;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff5722;"></a>
+            </div>
+        </div>
+        <div class="header-alert text-center">
+            <strong>Norma que aprueba el CAP</strong><br>
+        </div>
+        <div class="mt-3">
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>29/08/2016</small><br>
+                    <span class="event-title">Norma que aprueba el CAP (Cuadro de Asignación de Personal)</span><br>
+                    <small>615.8 KB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff5722;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff5722;"></a>
+            </div>
+        </div>
+        <div class="header-alert text-center">
+            <strong>Elecciones</strong><br>
+        </div>
+        <div class="mt-3">
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>29/08/2016</small><br>
+                    <span class="event-title">Norma que aprueba el CAP (Cuadro de Asignación de Personal)</span><br>
+                    <small>615.8 KB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff5722;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff5722;"></a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pag">
         <div class="pagination">
             <button class="btn1" onclick="backBtn()"> <img src="images/arrow.png" alt=""> Volver</button>
             <ul class="link-ul">
@@ -150,94 +273,6 @@
             <button class="btn2" onclick="nextBtn()">Sig <img src="images/arrow.png" alt=""> </button>
         </div>
     </div>
-   
-    <div class="container">
-        <div class="row mb-4">
-            <div class="col-md-4">
-                <input type="date" class="form-control" placeholder="mm/dd/yyyy">
-            </div>
-            <div class="col-md-4">
-                <input type="date" class="form-control" placeholder="mm/dd/yyyy">
-            </div>
-            <div class="col-md-4">
-                <input type="text" class="form-control" placeholder="Filtrar por palabra clave">
-            </div>
-        </div>
-    </div>
-    <div class="container-a">
-        <div class="holiday">
-            <img src="images/pdf-icon.png" alt="" style="width: 30px; height: 30px;">
-            <div class="holiday-info">
-                <strong>01/01/2019</strong>
-                <span>Confraternização Universal</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-
-        <div class="holiday">
-            <i class="bi bi-calendar3"></i>
-            <div class="holiday-info">
-                <strong>25/04/2019</strong>
-                <span>Tiradentes</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-
-        <div class="holiday">
-            <i class="bi bi-calendar3"></i>
-            <div class="holiday-info">
-                <strong>01/05/2019</strong>
-                <span>Dia do Trabalhador</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-
-        <div class="holiday">
-            <i class="bi bi-calendar3"></i>
-            <div class="holiday-info">
-                <strong>07/09/2019</strong>
-                <span>Independência</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-
-        <div class="holiday">
-            <i class="bi bi-calendar3"></i>
-            <div class="holiday-info">
-                <strong>12/10/2019</strong>
-                <span>Nossa Senhora Aparecida</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-
-        <div class="holiday">
-            <i class="bi bi-calendar3"></i>
-            <div class="holiday-info">
-                <strong>02/11/2019</strong>
-                <span>Finados</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-
-        <div class="holiday">
-            <i class="bi bi-calendar3"></i>
-            <div class="holiday-info">
-                <strong>15/11/2019</strong>
-                <span>Proclamação da República</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-
-        <div class="holiday">
-            <i class="bi bi-calendar3"></i>
-            <div class="holiday-info">
-                <strong>25/12/2019</strong>
-                <span>Natal</span>
-            </div>
-            <i class="bi bi-trash"></i>
-        </div>
-    </div>
-
     <script>
         let link = document.getElementsByClassName("link-li");
 
