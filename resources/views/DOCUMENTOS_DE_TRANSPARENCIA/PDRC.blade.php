@@ -148,7 +148,7 @@
     </style>
 
     <div class="banner">
-        <h1>CUADRO DE ASIGNACIÓN<br>PARA EL PERSONAL (CAP)</h1>
+        <h1>PLAN DE DESARROLLO REGIONAL<br>CONCERTADO (PDRC)</h1>
     </div>
 
     <div class="container mt-4">
@@ -181,79 +181,110 @@
     
     <div class="container mt-4">
         <div class="header-alert text-center">
-            <strong>SEDE REGIONAL</strong><br>
+            <strong>REPORTE DE SEGUIMIENTO DEL PDRC - JUNIN AL 2050</strong><br>
         </div>
     
         <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>22/10/2021</small><br>
-                    <span class="event-title">CAP 2018 - Sede Regional Junín - VIGENTE</span><br>
-                    <small>4.5 MB</small>
+                    <small>11/10/2024</small><br>
+                    <span class="event-title">REPORTE DE SEGUIMIENTO DEL PDRC - JUNIN AL 2050 CON METAS AL 2021 Y 2030 CORRESPONDIENTE AL AÑO 2023</span><br>
+                    <small>3.3 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-    
+        </div>
+
+        <div class="header-alert text-center">
+            <strong>REPORTE DE SEGUIMIENTO DEL PDRC</strong><br>
+        </div>
+        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>22/10/2021</small><br>
-                    <span class="event-title">CAP 2017 - Sede Regional Junín</span><br>
-                    <small>2.4 MB</small>
+                    <small>30/10/2023</small><br>
+                    <span class="event-title">REPORTE DE SEGUIMIENTO DEL PDRC - JUNÍN AL 2050 CON METAS AL 2021 Y 2030 CORRESPONDIENTE AL AÑO 2022 - EVALUACIÓN DE INDICADORES</span><br>
+                    <small>1004.6 KB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-    
+        </div>
+        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>25/07/2015</small><br>
-                    <span class="event-title">CAP 2012 - Sede Regional Junín</span><br>
-                    <small>13 MB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-    
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>31/12/2011</small><br>
-                    <span class="event-title">CAP 2011 - Sede Regional Junín</span><br>
-                    <small>11.5 MB</small>
+                    <small>30/10/2023</small><br>
+                    <span class="event-title">REPORTE DE SEGUIMIENTO DEL PRDC - JUNÍN AL 2050 CON METAS AL 2021 Y 2030 CORRESPONDIENTE AL AÑO 2022</span><br>
+                    <small>3.4 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
-            <strong>Norma que aprueba el CAP</strong><br>
+            <strong>INFORME DE EVALUACIÓN PDRC JUNIN AL 2025</strong><br>
         </div>
         <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>29/08/2016</small><br>
-                    <span class="event-title">Norma que aprueba el CAP (Cuadro de Asignación de Personal)</span><br>
-                    <small>615.8 KB</small>
+                    <small>20/12/2024</small><br>
+                    <span class="event-title">RESOLUCIÓN MATRIZ DE COMPROMISOS PDRC 2021 2023</span><br>
+                    <small>3.2 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+            </div>
+        </div>
+        <div class="mt-3">
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>25/10/2024</small><br>
+                    <span class="event-title">INFORME DE EVALUACIÓN DE RESULTADOS DEL PDRC JUNÍN AL 2050 PERIODO 2021-2023</span><br>
+                    <small>1.2 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+            </div>
+        </div>
+        <div class="mt-3">
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>28/10/2022</small><br>
+                    <span class="event-title">INFORME DE EVALUACIÓN DE RESULTADOS PDRC JUNIN 2015-2021</span><br>
+                    <small>5.3 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+            </div>
+        </div>
+        <div class="mt-3">
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>30/09/2021</small><br>
+                    <span class="event-title">INFORME DE EVALUACIÓN DE IMPLEMENTACION 2020 - PDRC JUNIN AL 2050</span><br>
+                    <small>1.9 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
-            <strong>ELECCIONES</strong><br>
+            <strong></strong><br>
         </div>
         <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">PADRÓN ELECTORAL</span><br>
-                    <small>491.1 KB</small>
+                    <small>30/06/2022</small><br>
+                    <span class="event-title">Reporte de Seguimiento del PDRC -Junín al 2050 con metas al 2021 y 2030 correspondiente al año 2021</span><br>
+                    <small>90 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
@@ -261,9 +292,9 @@
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">LISTA DE CANDIDATOS AL PLENO DEL COREJU</span><br>
-                    <small>535.2 KB</small>
+                    <small>10/06/2022</small><br>
+                    <span class="event-title">Aviso de Sinceramiento Reporte de Seguimiento del PDRC Junín al 2050 — correspondiente al año 2021</span><br>
+                    <small>41.2 KB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
@@ -271,99 +302,99 @@
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>02/12/2020</small><br>
-                    <span class="event-title">REGLAMENTO DE ELECCIONES 2020</span><br>
-                    <small>697 KB</small>
+                    <small>10/06/2022</small><br>
+                    <span class="event-title">Aviso de Sinceramiento Informe de Evaluación de Implementación del PDRC Junín al 2050— correspondiente al año 2021.</span><br>
+                    <small>41.8 KB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP DIRECCIÓN DE ENERGÍA Y MINAS</strong><br>
-        </div>
-        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2013 - Dirección Regional de Energía y Minas</span><br>
-                    <small>491.1 KB</small>
+                    <small>10/06/2022</small><br>
+                    <span class="event-title">Aviso de Sinceramiento Informe de Evaluación de Resultados del PDRC Junín al 2050— correspondiente al año 2021.</span><br>
+                    <small>40.5 KB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - RED DE SALUD CONCEPCIÓN</strong><br>
-        </div>
-        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP Provisional de la Red de Salud Concepción - 2018</span><br>
-                    <small>491.1 KB</small>
+                    <small>21/07/2021</small><br>
+                    <span class="event-title">REPORTE DE SEGUIMIENTO - PLAN DE DESARROLLO REGIONAL CONCERTADO</span><br>
+                    <small>1.1 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - DIRECCIÓN REGIONAL DE SALUD</strong><br>
-        </div>
-        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2013 - Dirección Regional de Salud Junín</span><br>
-                    <small>491.1 KB</small>
+                    <small>18/09/2020</small><br>
+                    <span class="event-title">AVISO DE SINCERAMIENTO</span><br>
+                    <small>357.8 KB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - DIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO</strong><br>
-        </div>
-        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2013 - Dirección Regional de Comercio Exterior y Turismo</span><br>
-                    <small>491.1 KB</small>
+                    <small>06/01/2016</small><br>
+                    <span class="event-title">Norma que aprueba el Plan de Desarrollo Regional Concertado al 2050 (con metas al 2021 y al 2030)</span><br>
+                    <small>1 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - ARCHIVO REGIONAL</strong><br>
-        </div>
-        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2012 - Archivo Regional</span><br>
-                    <small>491.1 KB</small>
+                    <small>06/01/2016</small><br>
+                    <span class="event-title">Plan de Desarrollo Regional Concertado 2008 - 2015</span><br>
+                    <small>4.9 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - ALDEA INFANTIL</strong><br>
-        </div>
-        <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2012 - Aldea Infantil</span><br>
-                    <small>491.1 KB</small>
+                    <small>20/11/2015</small><br>
+                    <span class="event-title">Plan de Desarrollo Regional Concertado al 2050 (con metas al 2021 y al 2030)</span><br>
+                    <small>17.5 MB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+            </div>
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>14/10/2015</small><br>
+                    <span class="event-title">Norma que aprueba el Plan de Desarrollo Regional Concertado 2008 - 2015</span><br>
+                    <small>230.9 KB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+            </div>
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>14/10/2015</small><br>
+                    <span class="event-title">Evaluación de Indicadores del PDRC</span><br>
+                    <small>128.5 KB</small>
+                </div>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+            </div>
+            <div class="event-card">
+                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
+                <div class="event-info">
+                    <small>14/10/2015</small><br>
+                    <span class="event-title">Evaluación de Indicadores del PDRC al 2015</span><br>
+                    <small>929.6 KB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>

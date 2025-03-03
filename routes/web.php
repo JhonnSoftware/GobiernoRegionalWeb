@@ -119,3 +119,12 @@ Route::get('contactanos', function(){
 Route::get('manual_identidad_corporativa', function(){
     return view('IMAGEN_INSTITUCIONAL.manual_identidad_corporativa');
 });
+Route::get('noticias', function(){
+    return view('IMAGEN_INSTITUCIONAL.noticias');
+});
+Route::get('videos', function(){
+    return view('IMAGEN_INSTITUCIONAL.videos');
+});
+Route::get('galerias_fotograficas', function(){
+    return view('IMAGEN_INSTITUCIONAL.galerias_fotograficas');
+});

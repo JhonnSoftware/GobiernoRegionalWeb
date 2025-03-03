@@ -148,7 +148,7 @@
     </style>
 
     <div class="banner">
-        <h1>CUADRO DE ASIGNACIÓN<br>PARA EL PERSONAL (CAP)</h1>
+        <h1>PRESUPUESTO ANALITICO<br>DE PERSONAL (PAP)</h1>
     </div>
 
     <div class="container mt-4">
@@ -181,7 +181,7 @@
     
     <div class="container mt-4">
         <div class="header-alert text-center">
-            <strong>SEDE REGIONAL</strong><br>
+            <strong>PAP SEDE REGIONAL (VIGENTE)</strong><br>
         </div>
     
         <div class="mt-3">
@@ -189,181 +189,36 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>22/10/2021</small><br>
-                    <span class="event-title">CAP 2018 - Sede Regional Junín - VIGENTE</span><br>
+                    <span class="event-title">Presupuesto Analitico de Personal 2021 (VIGENTE)</span><br>
                     <small>4.5 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-    
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>22/10/2021</small><br>
-                    <span class="event-title">CAP 2017 - Sede Regional Junín</span><br>
-                    <small>2.4 MB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-    
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>25/07/2015</small><br>
-                    <span class="event-title">CAP 2012 - Sede Regional Junín</span><br>
-                    <small>13 MB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-    
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>31/12/2011</small><br>
-                    <span class="event-title">CAP 2011 - Sede Regional Junín</span><br>
-                    <small>11.5 MB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
         </div>
+
         <div class="header-alert text-center">
-            <strong>Norma que aprueba el CAP</strong><br>
+            <strong>PAP SEDE REGIONAL (HISTORICO)</strong><br>
         </div>
         <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>29/08/2016</small><br>
-                    <span class="event-title">Norma que aprueba el CAP (Cuadro de Asignación de Personal)</span><br>
-                    <small>615.8 KB</small>
+                    <small>26/02/2020</small><br>
+                    <span class="event-title">Presupuesto Analitico de Personal 2018</span><br>
+                    <small>6.2 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
             </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>ELECCIONES</strong><br>
         </div>
         <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">PADRÓN ELECTORAL</span><br>
-                    <small>491.1 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">LISTA DE CANDIDATOS AL PLENO DEL COREJU</span><br>
-                    <small>535.2 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>02/12/2020</small><br>
-                    <span class="event-title">REGLAMENTO DE ELECCIONES 2020</span><br>
-                    <small>697 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP DIRECCIÓN DE ENERGÍA Y MINAS</strong><br>
-        </div>
-        <div class="mt-3">
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2013 - Dirección Regional de Energía y Minas</span><br>
-                    <small>491.1 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - RED DE SALUD CONCEPCIÓN</strong><br>
-        </div>
-        <div class="mt-3">
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP Provisional de la Red de Salud Concepción - 2018</span><br>
-                    <small>491.1 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - DIRECCIÓN REGIONAL DE SALUD</strong><br>
-        </div>
-        <div class="mt-3">
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2013 - Dirección Regional de Salud Junín</span><br>
-                    <small>491.1 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - DIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO</strong><br>
-        </div>
-        <div class="mt-3">
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2013 - Dirección Regional de Comercio Exterior y Turismo</span><br>
-                    <small>491.1 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - ARCHIVO REGIONAL</strong><br>
-        </div>
-        <div class="mt-3">
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2012 - Archivo Regional</span><br>
-                    <small>491.1 KB</small>
-                </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
-            </div>
-        </div>
-        <div class="header-alert text-center">
-            <strong>CAP - ALDEA INFANTIL</strong><br>
-        </div>
-        <div class="mt-3">
-            <div class="event-card">
-                <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
-                <div class="event-info">
-                    <small>16/12/2020</small><br>
-                    <span class="event-title">CAP 2012 - Aldea Infantil</span><br>
-                    <small>491.1 KB</small>
+                    <small>25/02/2020</small><br>
+                    <span class="event-title">Presupuesto Analitico de Personal 2006</span><br>
+                    <small>2.2 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
