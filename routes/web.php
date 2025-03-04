@@ -1,6 +1,8 @@
 <?php
 
+
 use Illuminate\Support\Facades\Route;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -12,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
+
 
 /* ============ INICIO ==============*/
 Route::get('index', function(){
@@ -34,18 +37,21 @@ Route::get('actividades_oficiales', function(){
     return view('INFORMACION_INSTITUCIONAL.actividades_oficiales');
 });
 
+
 /* ============ GERENCIA Y OFICINAS ==============*/
 Route::get('gerencia_general_regional', function(){
     return view('GERENCIA_Y_OFICINAS.gerencia_general_regional');
 });
 Route::get('procaduria_publica_regional', function(){
     return view('GERENCIA_Y_OFICINAS.procaduria_publica_regional');
-}); 
+});
 Route::get('directorio_regional', function(){
     return view('GERENCIA_Y_OFICINAS.directorio_regional');
 });
 
+
 /* ============ DOCUMENTOS DE TRANSPARENCIA ==============*/
+
 
     /*** Transparencia ****/
     Route::get('formato_para_acceso_a_la_informacion_publica', function () {
@@ -106,14 +112,16 @@ Route::get('directorio_regional', function(){
     Route::get('ROF', function () {
         return view('DOCUMENTOS_DE_TRANSPARENCIA.ROF');
     });
-    Route::get('TUFA', function () {
+    Route::get('TUPA', function () {
         return view('DOCUMENTOS_DE_TRANSPARENCIA.TUPA');
     });
+
 
 /* ============ SERVICIOS EN LINEA ==============*/
 Route::get('contactanos', function(){
     return view('SERVICIOS_EN_LINEA.contactanos');
 });
+
 
 /* ============ IMAGEN INSTITUCIONAL ==============*/
 Route::get('manual_identidad_corporativa', function(){
@@ -122,9 +130,10 @@ Route::get('manual_identidad_corporativa', function(){
 Route::get('noticias', function(){
     return view('IMAGEN_INSTITUCIONAL.noticias');
 });
-Route::get('videos', function(){
-    return view('IMAGEN_INSTITUCIONAL.videos');
+Route::get('reproducciones', function(){
+    return view('IMAGEN_INSTITUCIONAL.reproducciones');
 });
 Route::get('galerias_fotograficas', function(){
     return view('IMAGEN_INSTITUCIONAL.galerias_fotograficas');
 });
+
