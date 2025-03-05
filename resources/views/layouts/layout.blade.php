@@ -247,208 +247,185 @@
                 <li><a href="#"> INICIO </a></li>
                 <li><a href=""> INFORMACION <br> INSTITUCIONAL </a>
                     <ul>
-                        <li><a href="">Mision y Vision</a></li>
-                        <li><a
-                                href="">Estrutura
-                                Organica</a></li>
-                        <li><a href="">Gobernador
-                                Regional</a></li>
+                        <li><a href="{{ url('mision_vision') }}">Mision y Vision</a></li>
+                        <li><a href="{{ url('estructura_organica') }}">Estrutura Organica</a></li>
+                        <li><a href="{{ url('gobernador_regional') }}">Gobernador Regional</a></li>
                         <li><a href="#">Consejo Regional</a>
                             <ul>
-                                <li><a
-                                        href="">Directorio
-                                        de consejeros Regionales</a></li>
-                                <li><a
-                                        href="">Reglamento
-                                        Interno del Consejo Regional</a></li>
-                                <li><a
-                                        href="">Acuerdos
-                                        Regionales</a></li>
-                                <li><a
-                                        href="">Actas
-                                        de sesiones Ordinarias</a></li>
-                                <li><a
-                                        href="">Acuerdos
-                                        de sesiones Extraordinarias</a></li>
+                                <li><a href="{{ url('directorio_de_consejeros_regionales') }}">Directorio de consejeros Regionales</a></li>
+                                <li><a href="{{ url('reglamento_interno_de_consejo_regional') }}">Reglamento Interno del Consejo Regional</a></li>
+                                <li><a href="{{ url('acuerdos_regionales') }}">Acuerdos Regionales</a></li>
+                                <li><a href="{{ url('actas_de_sesiones_ordinarias') }}">Actas de sesiones Ordinarias</a></li>
+                                <li><a href="{{ url('actas_de_sesiones_extraordinarias') }}">Acuerdos de sesiones Extraordinarias</a></li>
                             </ul>
                         </li>
-                        <li><a href="">Consejo
-                                de Coordinacion Regional</a></li>
-                        <li><a href="">Actividades Oficiales</a></li>
+                        <li><a href="{{ url('consejo_de_coordinacion_regional') }}">Consejo de Coordinacion Regional</a></li>
+                        <li><a href="{{ url('actividades_oficiales') }}">Actividades Oficiales</a></li>
                     </ul>
                 </li>
                 <li><a href="#"> GERENCIAS <br> Y OFICINAS </a>
                     <ul>
-                        <li><a href="">Gerencia
-                                General Reegional</a></li>
-                        <li><a href="">Gerencias
-                                y Oficinas Regionales</a></li>
-                        <li><a
-                                href="">Directorio
-                                Regionales</a></li>
-                        <li><a href="">procuraduria
-                                publica regional</a></li>
-                        <li><a href="">Directorio
-                                Regional</a></li>
+                        <li><a href="{{ url('gerencia_general_regional') }}">Gerencia General Reegional</a></li>
+                        <li><a href="{{ url('gerencias_y_oficinas_regionales') }}">Gerencias y Oficinas Regionales</a></li>
+                        <li><a href="{{ url('direcciones_regionales') }}">Directorio Regionales</a></li>
+                        <li><a href="{{ url('procaduria_publica_regional') }}">procuraduria publica regional</a></li>
+                        <li><a href="{{ url('directorio_regional') }}">Directorio Regional</a></li>
                     </ul>
                 </li>
                 <li><a href="#"> DOCUMENTOS DE <br> TRANSPARENCIA </a>
                     <ul>
                         <li><a href="#">Transparencia</a>
                             <ul>
-                                <li><a
-                                        href="https://www.regionjunin.gob.pe/ver_documento/id/GRJ-16214531e38c572db677738d1c0c257ec089f3.pdf/">Formato
+                                <li><a href="{{ url('formato_para_acceso_a_la_informacion_publica') }}">Formato
                                         para acceso a la informacion Publica</a></li>
-                                <li><a href="https://www.regionjunin.gob.pe/pagina/id/contrataciones_y_adquisiciones/">Informacion
+                                <li><a href="{{ url('informacion_de_contrataciones') }}">Informacion
                                         de Contrataciones</a></li>
-                                <li><a href="https://www.regionjunin.gob.pe/pagina/id/personal_y_remuneraciones/">Informacion
+                                <li><a href="{{ url('informacion_personal') }}">Informacion
                                         de Personal</a></li>
-                                <li><a href="https://www.regionjunin.gob.pe/pagina/id/informacion_presupuestal/">Informacion
+                                <li><a href="{{ url('informacion_presupuestal') }}">Informacion
                                         Presupuestal</a></li>
-                                <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150727021634_marco_legal_de_transparencia/">Marco
+                                <li><a href="{{ url('marco_legal_de_transparencia') }}">Marco
                                         Legal de transparencia</a></li>
-                                <li><a href="https://www.regionjunin.gob.pe/pagina/id/participacion_ciudadana/">Participacion
+                                <li><a href="{{ url('participacion_cuidadana') }}">Participacion
                                         Ciudadana</a></li>
-                                <li><a href="https://www.regionjunin.gob.pe/pagina/id/planeamiento_y_organizacion/">Planeamiento
+                                <li><a href="{{ url('planeamiento_y_organizacion') }}">Planeamiento
                                         y Organizacion</a></li>
-                                <li><a href="https://www.regionjunin.gob.pe/pagina/id/proyectos_de_inversion/">Proyectos
+                                <li><a href="{{ url('proyectos_de_inversion') }}">Proyectos
                                         de Inversion</a></li>
-                                <li><a
-                                        href="https://www.regionjunin.gob.pe/pagina/id/responsables_del_acceso_a_la_informacion_publica_y_del_portal_de_transparencia/">Responsables
+                                <li><a href="{{ url('responsables_acceso_informacion_publica_pte') }}">Responsables
                                         del Acceso a la informacion Publica y PTE</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Documentos de Gestion</a>
                             <ul>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150725234915_cap/">CAP</a>
+                                        href="{{ url('CAP') }}">CAP</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150730223353_manual_de_procedimientos_administrativos_mapro/">MAPRO</a>
+                                        href="{{ url('MAPRO') }}">MAPRO</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150726163404_manual_de_organizaciones_y_funciones/">MOF</a>
+                                        href="{{ url('MOF') }}">MOF</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20151012221504_plan_anual_de_contrataciones_pac/">PAC</a>
+                                        href="{{ url('PAC') }}">PAC</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20200226160503_presupuesto_analitico_de_personal_pap/">PAP</a>
+                                        href="{{ url('PAP') }}">PAP</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20151014174839_plan_de_desarrollo_regional_concertado/">PDRC</a>
+                                        href="{{ url('PDRC') }}">PDRC</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150730223217_plan_estrategico_institucional_pei/">PEI</a>
+                                        href="{{ url('PEI') }}">PEI</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150907205354_poi/">POI</a>
+                                        href="{{ url('POI') }}">POI</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20170523191451_reglamento_interno_de_trabajo/">RIT</a>
+                                        href="{{ url('RIT') }}">RIT</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150725210439_reglamento_de_organizacion_y_funciones_rof/">ROF</a>
+                                        href="{{ url('ROF') }}">ROF</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150726175921_texto_unico_de_procesos_administrativos/">TUPA</a>
+                                        href="{{ url('TUPA') }}">TUPA</a>
                                 </li>
                             </ul>
                         </li>
                         <li><a href="#">Normatividad Regional</a>
                             <ul>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150727030452_convenios_y_addendas_2015/">Convenios
+                                        href="{{ url('convenios_y_adendas') }}">Convenios
                                         y Adendas</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20240617224336_contratos/">Contratos</a>
+                                        href="{{ url('contratos') }}">Contratos</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150730222042_decretos_regionales/">Decretos
+                                        href="{{ url('decretos_regionales') }}">Decretos
                                         Regionales</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20150727055420_directivas_regionales_2015/">Directivas
+                                        href="{{ url('directivas_regionales') }}">Directivas
                                         Regionales</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150727001333_ordenanzas_regionales_2015/">Ordenanzas
+                                        href="{{ url('ordenanzas_regionales') }}">Ordenanzas
                                         Regionales</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Resoluciones Gerenciales</a>
                             <ul>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150728085428_resoluciones_gerenciales_generales_2015/">Resoluciones
+                                        href="{{ url('resoluciones_gerencia_general_regional') }}">Resoluciones
                                         de Gerencia General Regional</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20240903140033_resoluciones_de_secretaria_general/">Resoluciones
+                                        href="{{ url('resoluciones_secretaria_regional') }}">Resoluciones
                                         de Secretaria General</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150727235305_resoluciones_gerenciales_regionales_de_desarrollo_economico_2015/">Resoluciones
+                                        href="{{ url('resoluciones_gerenciales_regionales_desarrollo_economico') }}">Resoluciones
                                         gerenciales regionales de Desarrollo Economico</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150728011944_resoluciones_gerenciales_regionales_de_desarrollo_social_2015/">Resoluciones
+                                        href="{{ url('resoluciones_gerenciales_regionales_desarrollo_social') }}">Resoluciones
                                         gerenciales regionales de Desarrollo Social</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150728055727_resoluciones_gerenciales_regionales_de_infraestructura_2015/">Resoluciones
+                                        href="{{ url('resoluciones_gerenciales_regionales_infraestructura') }}">Resoluciones
                                         gerenciales regionales de Infraestructura</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20151207210102_resoluciones_gerenciales_regionales_de_recursos_naturales_y_gestion_del_medio_ambiente/">Resoluciones
+                                        href="{{ url('resoluciones_gerenciales_regionales_recursos_naturales_gestion_medio_ambiente') }}">Resoluciones
                                         gerenciales regionales de Recursos Naturales y Gestion del Medio Ambiente</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20161108133221_resolucion_gerencial_regional_de_planeamiento_presupuesto_y_acondicionamiento_territorial/">Resoluciones
+                                        href="{{ url('resoluciones_gerenciales_regionales_planeamiento_presupuesto_atp') }}">Resoluciones
                                         gerenciales regionales de Planeamiento, Presupuesto y A.T.</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Resoluciones Directorales</a>
                             <ul>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20170807194310_resoluciones_directorales/">Resoluciones
+                                        href="{{ url('resoluciones_directorales') }}">Resoluciones
                                         Directorales</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150728013948_resolucion_directoral_administrativa/">Resoluciones
+                                        href="{{ url('resoluciones_directorales_administrativas') }}">Resoluciones
                                         Directorales Adminisrativas</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150728012246_resoluciones_sub_directorales_administrativas_2015/">Resoluciones
+                                        href="{{ url('resoluciones_sub_directorales_administrativas') }}">Resoluciones
                                         Sub Directorales Administrativas</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20240618153400_resoluciones_directorales_de_la_oficina_regional_de_desarrollo_institucional_y_tecnologia_de_la_informacion/">Resoluciones
+                                        href="{{ url('resoluciones_directorales_oficina_regional_desarrollo_institucional_y_tecnologias_informacion') }}">Resoluciones
                                         Directorales de la oficina regional de desarrollo insitutcional y tecnologias de
                                         la informacion</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20150728174507_resoluciones_ejecutivas_regionales_2015/">Resoluciones
+                                        href="{{ url('resoluciones_ejecutivas_regionales') }}">Resoluciones
                                         Ejecutivas Regionales</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20240703163300_resoluciones_directorales_de_la_direccion_regional_de_trabajo_y_promocion_del_empleo/">Resoluciones
+                                        href="{{ url('resoluciones_directorales_direccion_regional_trabajo_promocion_empleo') }}">Resoluciones
                                         Directorales de la direccion regional de trabajo y pormocion del empleo</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20170215233352_otras_resoluciones/">Otras
+                                        href="{{ url('otras_resoluciones') }}">Otras
                                         Resoluciones</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Informacion Adicional</a>
                             <ul>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20151010142550_audiencia_pblica_regional_2015/">Audencias
+                                        href="{{ url('audiencias_publicas') }}">Audencias
                                         Publicas</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20151020172857_consejo_de_coordinacion_regional/">CONCOREJ</a>
+                                        href="{{ url('concorej') }}">CONCOREJ</a>
                                 </li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20161019214403_declaraciones_juradas/">Declaraciones
+                                        href="{{ url('declaraciones_juradas_bienes_y_rentas') }}">Declaraciones
                                         Juradas de Bienes y Rentas</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe//grupo/nombre/20151026144133_informes_de_auditoria/">Informes
+                                        href="{{ url('informes_auditoria') }}">Informes
                                         de Auditoria</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe//grupo/nombre/20150728174630_memorias_anuales/">Memoria
+                                        href="{{ url('memoria_anual') }}">Memoria
                                         Anual</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo_ordenado/nombre/20151022142901_presupuesto_participativo/">Presupuesto
+                                        href="{{ url('presupuesto_participativo') }}">Presupuesto
                                         Participativo</a></li>
                                 <li><a
-                                        href="https://www.regionjunin.gob.pe/grupo/nombre/20240930133629_plan_de_prevencion_ante_desastres//">Plan
+                                        href="{{ url('plan_de_prevencion_ante_desastres') }}">Plan
                                         de Prevencion ante desastres</a></li>
                             </ul>
                         </li>
@@ -462,17 +439,15 @@
                         </li>
                         <li><a href="http://sisdore.regionjunin.gob.pe:4949/denunciaSoborno/">Denuncia posibles actos de
                                 soborno</a></li>
-                        <li><a href="">Contactanos</a></li>
+                        <li><a href="{{ url('contactanos') }}">Contactanos</a></li>
                     </ul>
                 </li>
                 <li><a href="#"> IMAGEN <br> INSTITUCIONAL </a>
                     <ul>
-                        <li><a
-                                href="">Manual
-                                de identidad coorporativa</a></li>
-                        <li><a href="">Noticias</a></li>
-                        <li><a href="">Videos</a></li>
-                        <li><a href="">Galerias Fotograficas</a></li>
+                        <li><a href="{{ url('manual_identidad_corporativa') }}">Manualde identidad coorporativa</a></li>
+                        <li><a href="{{ url('noticias') }}">Noticias</a></li>
+                        <li><a href="{{ url('reproducciones') }}">Videos</a></li>
+                        <li><a href="{{ url('galerias_fotograficas') }}">Galerias Fotograficas</a></li>
                     </ul>
                 </li>
 

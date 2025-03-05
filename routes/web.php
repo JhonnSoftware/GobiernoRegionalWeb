@@ -3,19 +3,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
-
-
 /* ============ INICIO ==============*/
 Route::get('index', function(){
     return view('index');
@@ -30,6 +17,24 @@ Route::get('estructura_organica', function(){
 Route::get('gobernador_regional', function(){
     return view('INFORMACION_INSTITUCIONAL.gobernador_regional');
 });
+
+    /*** Consejo Regional ****/
+    Route::get('directorio_de_consejeros_regionales', function(){
+        return view('INFORMACION_INSTITUCIONAL.directorio_de_consejeros_regionales');
+    });
+    Route::get('reglamento_interno_de_consejo_regional', function(){
+        return view('INFORMACION_INSTITUCIONAL.reglamento_interno_de_consejo_regional');
+    });
+    Route::get('acuerdos_regionales', function(){
+        return view('INFORMACION_INSTITUCIONAL.acuerdos_regionales');
+    });
+    Route::get('actas_de_sesiones_ordinarias', function(){
+        return view('INFORMACION_INSTITUCIONAL.actas_de_sesiones_ordinarias');
+    });
+    Route::get('actas_de_sesiones_extraordinarias', function(){
+        return view('INFORMACION_INSTITUCIONAL.actas_de_sesiones_extraordinarias');
+    });
+
 Route::get('consejo_de_coordinacion_regional', function(){
     return view('INFORMACION_INSTITUCIONAL.consejo_de_coordinacion_regional');
 });
@@ -42,13 +47,18 @@ Route::get('actividades_oficiales', function(){
 Route::get('gerencia_general_regional', function(){
     return view('GERENCIA_Y_OFICINAS.gerencia_general_regional');
 });
+Route::get('gerencias_y_oficinas_regionales', function(){
+    return view('GERENCIA_Y_OFICINAS.gerencias_y_oficinas_regionales');
+});
+Route::get('direcciones_regionales', function(){
+    return view('GERENCIA_Y_OFICINAS.direcciones_regionales');
+});
 Route::get('procaduria_publica_regional', function(){
     return view('GERENCIA_Y_OFICINAS.procaduria_publica_regional');
 });
 Route::get('directorio_regional', function(){
     return view('GERENCIA_Y_OFICINAS.directorio_regional');
 });
-
 
 /* ============ DOCUMENTOS DE TRANSPARENCIA ==============*/
 
@@ -205,7 +215,6 @@ Route::get('directorio_regional', function(){
 Route::get('contactanos', function(){
     return view('SERVICIOS_EN_LINEA.contactanos');
 });
-
 
 /* ============ IMAGEN INSTITUCIONAL ==============*/
 Route::get('manual_identidad_corporativa', function(){

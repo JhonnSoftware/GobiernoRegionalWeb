@@ -30,6 +30,7 @@
             margin-left: 140px;
             font-family: 'Panton Narrow Black Italic', sans-serif;
         }
+
         .header-alert {
            
             background-color: #ff6700;
@@ -139,8 +140,7 @@
     <div class="header-alert text-center">
         <strong>ARCHIVO DE NOTICIAS</strong><br>
     </div>
-
-
+    
     <div class="container py-5">
         <div class="row g-4">
             <div class="col-md-4 d-flex">
