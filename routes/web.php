@@ -115,7 +115,22 @@ Route::get('directorio_regional', function(){
     Route::get('TUPA', function () {
         return view('DOCUMENTOS_DE_TRANSPARENCIA.TUPA');
     });
-
+    /*** Normativa Regional ****/
+    Route::get('convenios_y_adendas', function(){
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.convenios_y_adendas');
+     });
+    Route::get('contratos', function(){
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.contratos');
+     });
+    Route::get('decretos_regionales', function(){
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.decretos_regionales');
+     });
+    Route::get('directivas_regionales', function(){
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.directivas_regionales');
+     });
+     Route::get('ordenanzas_regionales', function(){
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.ordenanzas_regionales');
+     });
 
 /* ============ SERVICIOS EN LINEA ==============*/
 Route::get('contactanos', function(){
