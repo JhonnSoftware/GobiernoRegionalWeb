@@ -128,9 +128,78 @@ Route::get('directorio_regional', function(){
     Route::get('directivas_regionales', function(){
         return view('DOCUMENTOS_DE_TRANSPARENCIA.directivas_regionales');
      });
-     Route::get('ordenanzas_regionales', function(){
+    Route::get('ordenanzas_regionales', function(){
         return view('DOCUMENTOS_DE_TRANSPARENCIA.ordenanzas_regionales');
      });
+
+     /*** Resoluciones Gerenciales ****/
+    Route::get('resoluciones_gerencia_general_regional', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_gerencia_general_regional');
+    });
+    Route::get('resoluciones_secretaria_regional', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_secretaria_regional');
+    });
+    Route::get('resoluciones_gerenciales_regionales_desarrollo_economico', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_gerenciales_regionales_desarrollo_economico');
+    });
+    Route::get('resoluciones_gerenciales_regionales_desarrollo_social', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_gerenciales_regionales_desarrollo_social');
+    });
+    Route::get('resoluciones_gerenciales_regionales_infraestructura', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_gerenciales_regionales_infraestructura');
+    });
+    Route::get('resoluciones_gerenciales_regionales_recursos_naturales_gestion_medio_ambiente', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_gerenciales_regionales_recursos_naturales_gestion_medio_ambiente');
+    });
+    Route::get('resoluciones_gerenciales_regionales_planeamiento_presupuesto_atp', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_gerenciales_regionales_planeamiento_presupuesto_atp');
+    });
+
+    /*** Resoluciones Directorales ****/
+    Route::get('resoluciones_directorales', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_directorales');
+    });
+    Route::get('resoluciones_directorales_administrativas', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_directorales_administrativas');
+    });
+    Route::get('resoluciones_sub_directorales_administrativas', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_sub_directorales_administrativas');
+    });
+    Route::get('resoluciones_directorales_oficina_regional_desarrollo_institucional_y_tecnologias_informacion', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_directorales_oficina_regional_desarrollo_institucional_y_tecnologias_informacion');
+    });
+    Route::get('resoluciones_ejecutivas_regionales', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_ejecutivas_regionales');
+    });
+    Route::get('resoluciones_directorales_direccion_regional_trabajo_promocion_empleo', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.resoluciones_directorales_direccion_regional_trabajo_promocion_empleo');
+    });
+    Route::get('otras_resoluciones', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.otras_resoluciones');
+    });
+
+    /*** Informacion Adicional ****/
+    Route::get('audiencias_publicas', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.audiencias_publicas');
+    });
+    Route::get('concorej', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.concorej');
+    });
+    Route::get('declaraciones_juradas_bienes_y_rentas', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.declaraciones_juradas_bienes_y_rentas');
+    });
+    Route::get('informes_auditoria', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.informes_auditoria');
+    });
+    Route::get('memoria_anual', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.memoria_anual');
+    });
+    Route::get('presupuesto_participativo', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.presupuesto_participativo');
+    });
+    Route::get('plan_de_prevencion_ante_desastres', function () {
+        return view('DOCUMENTOS_DE_TRANSPARENCIA.plan_de_prevencion_ante_desastres');
+    });
 
 /* ============ SERVICIOS EN LINEA ==============*/
 Route::get('contactanos', function(){
