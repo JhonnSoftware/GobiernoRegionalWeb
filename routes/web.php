@@ -238,3 +238,7 @@ Route::get('galerias_fotograficas', function(){
     return view('IMAGEN_INSTITUCIONAL.galerias_fotograficas');
 });
 
+Route::get('junin_te_invita_a_tradicional_calistrada_y_herreanza', function(){
+    return view('IMAGEN_INSTITUCIONAL.junin_te_invita_a_tradicional_calistrada_y_herreanza');
+});
+

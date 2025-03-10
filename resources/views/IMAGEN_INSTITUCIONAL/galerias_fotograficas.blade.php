@@ -129,13 +129,69 @@
            margin-left: 15px;
            transform: rotate(180deg);
        }
+       .image-container {
+            position: relative;
+            max-width: 800px;
+            margin: auto;
+            overflow: hidden;
+            border-radius: 10px;
+            cursor: pointer; /* Cambia el cursor a "mano" */
+        }
 
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.3s ease-in-out; /* Agrega un pequeño efecto al pasar el mouse */
+        }
+
+        .image-container:hover img {
+            transform: scale(1.05); /* Efecto de zoom al pasar el cursor */
+        }
+
+        .overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 15px;
+            text-align: center;
+            font-weight: bold;
+            box-sizing: border-box;
+        }
+
+        .caption-footer {
+            background-color: #ff6600;
+            color: white;
+            font-size: 14px;
+            padding: 5px;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+
+        /* Para que todo el contenedor sea clickeable */
+        .image-container a {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+        }
     </style>
 
     <div class="banner">
         <h1>FOTOGALERÍA</h1>
     </div>
 
+    <div class="image-container">
+        <a href="https://www.ejemplo.com" target="_blank"> <!-- Reemplaza con tu link -->
+            <img src="images/normal_5fd72798079af87e15c47315baa47125.jpg" alt="Evento en Junín">
+            <div class="overlay">
+                <p>JUNÍN TE INVITA A TRADICIONAL CALISTRADA Y HERRANZA</p>
+                <div class="caption-footer">5 FOTOGRAFÍAS DISPONIBLES</div>
+            </div>
+        </a>
+    </div>
+    
     <div class="header-alert text-center">
         <strong>FOTOGALERÍAS ANTERIORES</strong><br>
     </div>
