@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 
-@section('title', 'Planeamiento y Organizacion')
+@section('title', 'Denuncias Posibles Actos de soborno')
 
 @section('contenido-principal')
     <style>
@@ -45,9 +45,9 @@
         }
     </style>
     <div class="banner">
-        <h1>PLANEAMIENTO Y<br>ORGANIZACIÓN</h1>
+        <h1>DENUNCIAS POSIBLES ACTOS<br>DE SOBORNO</h1>
     </div>
     <div class="iframe-container">
-        <iframe src="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=10148&id_tema=5&ver=" frameborder="0"></iframe>
+        <iframe src="http://sisdore.regionjunin.gob.pe:4949/denunciaSoborno/" frameborder="0"></iframe>
     </div>
 @endsection

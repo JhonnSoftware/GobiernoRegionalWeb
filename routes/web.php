@@ -62,7 +62,6 @@ Route::get('directorio_regional', function(){
 
 /* ============ DOCUMENTOS DE TRANSPARENCIA ==============*/
 
-
     /*** Transparencia ****/
     Route::get('formato_para_acceso_a_la_informacion_publica', function () {
         return view('DOCUMENTOS_DE_TRANSPARENCIA.formato_para_acceso_a_la_informacion_publica');
@@ -212,6 +211,15 @@ Route::get('directorio_regional', function(){
     });
 
 /* ============ SERVICIOS EN LINEA ==============*/
+Route::get('oportunidades_laborales', function(){
+    return view('SERVICIOS_EN_LINEA.oportunidades_laborales');
+});
+Route::get('libro_de_reclamaciones', function(){
+    return view('SERVICIOS_EN_LINEA.libro_de_reclamaciones');
+});
+Route::get('denuncia_posibles_actos_de_soborno', function(){
+    return view('SERVICIOS_EN_LINEA.denuncia_posibles_actos_de_soborno');
+});
 Route::get('contactanos', function(){
     return view('SERVICIOS_EN_LINEA.contactanos');
 });

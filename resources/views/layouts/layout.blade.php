@@ -256,7 +256,7 @@
                                 <li><a href="{{ url('reglamento_interno_de_consejo_regional') }}">Reglamento Interno del Consejo Regional</a></li>
                                 <li><a href="{{ url('acuerdos_regionales') }}">Acuerdos Regionales</a></li>
                                 <li><a href="{{ url('actas_de_sesiones_ordinarias') }}">Actas de sesiones Ordinarias</a></li>
-                                <li><a href="{{ url('actas_de_sesiones_extraordinarias') }}">Acuerdos de sesiones Extraordinarias</a></li>
+                                <li><a href="{{ url('actas_de_sesiones_extraordinarias') }}">Actas de sesiones Extraordinarias</a></li>
                             </ul>
                         </li>
                         <li><a href="{{ url('consejo_de_coordinacion_regional') }}">Consejo de Coordinacion Regional</a></li>
@@ -265,7 +265,7 @@
                 </li>
                 <li><a href="#"> GERENCIAS <br> Y OFICINAS </a>
                     <ul>
-                        <li><a href="{{ url('gerencia_general_regional') }}">Gerencia General Reegional</a></li>
+                        <li><a href="{{ url('gerencia_general_regional') }}">Gerencia General Regional</a></li>
                         <li><a href="{{ url('gerencias_y_oficinas_regionales') }}">Gerencias y Oficinas Regionales</a></li>
                         <li><a href="{{ url('direcciones_regionales') }}">Directorio Regionales</a></li>
                         <li><a href="{{ url('procaduria_publica_regional') }}">procuraduria publica regional</a></li>
@@ -433,11 +433,11 @@
                 </li>
                 <li><a href="#"> SERVICIOS<br> EN LINEA </a>
                     <ul>
-                        <li><a href="http://sisdore.regionjunin.gob.pe:8080/convocatoria/">Oportunidades Laborales</a>
+                        <li><a href="{{ url('oportunidades_laborales') }}">Oportunidades Laborales</a>
                         </li>
-                        <li><a href="https://reclamos.servicios.gob.pe/?institution_id=57">Libro de reclamaciones</a>
+                        <li><a href="{{ url('libro_de_reclamaciones') }}">Libro de reclamaciones</a>
                         </li>
-                        <li><a href="http://sisdore.regionjunin.gob.pe:4949/denunciaSoborno/">Denuncia posibles actos de
+                        <li><a href="{{ url('denuncia_posibles_actos_de_soborno') }}">Denuncia posibles actos de
                                 soborno</a></li>
                         <li><a href="{{ url('contactanos') }}">Contactanos</a></li>
                     </ul>

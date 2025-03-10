@@ -4,24 +4,28 @@
 
 @section('contenido-principal')
 <style>
-    .banner {
-            position: relative;
-            width: 100%;
-            height: 400px;
-            background: linear-gradient(to left, rgba(204, 204, 204, 0.4), rgba(0, 14, 139, 0.9)),
-                url('images/fondogore1.jpg') no-repeat center center/cover;
-            display: flex;
-            align-items: center;
-            justify-content: start;
-            padding-left: 20px;
+        .banner {
+                position: relative;
+                width: 100%;
+                height: 340px;
+                background: linear-gradient(to left, rgba(204, 204, 204, 0.4), rgba(0, 14, 139, 0.9)),
+                    url('images/Gobierno_Regional_Junin.jpg') no-repeat;
+                background-size: cover;
+                background-position: 50% 35%;
+                display: flex;
+                align-items: center;
+                justify-content: start;
+                padding-left: 20px;
         }
 
         .banner h1 {
-            color: white;
+            color: #fff;
             font-size: 50px;
             font-weight: bold;
-            margin-left: 140px;
+            margin-left: 180px;
+            margin-top: 50px;
             font-family: 'Panton Narrow Black Italic', sans-serif;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
         .container {
             display: flex;
@@ -121,7 +125,7 @@
         }
 </style>
 <div class="banner">
-    <h1> NUESTRA <br> IDENTIDAD</h1>
+    <h1>MISION Y VISION</h1>
 </div>
 <div class="container">
     <div class="logo">

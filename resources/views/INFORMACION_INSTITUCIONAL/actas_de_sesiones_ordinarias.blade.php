@@ -155,7 +155,7 @@
     </style>
 
     <div class="banner">
-        <h1>ACUERDOS REGIONALES</h1>
+        <h1>ACTAS DE SESIONES ORDINARIAS</h1>
     </div>
 
     <div class="container mt-4">

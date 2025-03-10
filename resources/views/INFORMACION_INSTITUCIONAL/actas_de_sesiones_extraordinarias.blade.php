@@ -155,7 +155,7 @@
     </style>
 
     <div class="banner">
-        <h1>ACTAS DE SESIÓN EXTRAORDINARIA</h1>
+        <h1>ACTAS DE SESIÓNES EXTRAORDINARIAS</h1>
     </div>
 
     <div class="container mt-4">
