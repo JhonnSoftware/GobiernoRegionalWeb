@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 
-@section('title', 'Gerencia General Regional')
+@section('title', 'Gerencia General de Desarrollo Económico')
 
 @section('contenido-principal')
 
@@ -122,14 +122,14 @@
                     <li>Ejecutar los recursos financieros, logísticos, bienes y activos, optimizando las capacidades humanas necesarias para la gestión gerencial, con arreglo a la normatividad.</li>
                     <li>Dirigir y formular perfiles en la fase que le corresponda en las acciones específicas regionales que le compete, dentro del marco de los lineamientos de política nacional, regional, Plan de Desarrollo Regional Concertado y del Sistema Nacional de Inversión Pública; identificando los susceptibles de Cooperación Técnica Internacional.</li>
                     <li>Participar en la formulación del Plan de Desarrollo Regional Concertado, Plan Estratégico Institucional, Plan Operativo Institucional, Presupuesto Institucional y  el Programa Anual de Inversiones.</li>
-                    <li>Realizar las coordinaciones interinstitucionales con las entidades públicas y privadas en el ámbito nacional, regional y local, orientadas a la gestión ambiental y defensa civil.</li>
-                    <li>Conducir la ejecución de los recursos financieros, logísticos, y humanos a cargo de la Gerencia Regional de Recursos Naturales y Gestión de Medio Ambiente.</li>
-                    <li>Promover la gestión de financiamiento para la ejecución de los planes, programas y proyectos regionales de medio ambiente y defensa civil.</li>
-                    <li>Evaluar los planes y proyectos regionales de medio ambiente y defensa civil.</li>
-                    <li>Otras que le encargue el Gerente General Regional.</li>
-                    <p>Líneas de autoridad y responsabilidad:</p>
-                    <li>Dirige, supervisa y evalúa las Sub Gerencias a su cargo.</li>
-                    <li>Coordina, recibe indicaciones y se reporta al Gerente General Regional.</li>
+                    <li>Formular, ejecutar y evaluar los planes regionales de Competitividad promoción de las exportaciones y de la Inversión Privada en el ámbito regional.</li>
+                    <li>Ejecutar los acuerdos que adopte el Comité de Coordinación Gerencial cuando corresponda en materia sectorial y administrativa de su competencia.</li>
+                    <li>Supervisar y evaluar las acciones de las unidades orgánicas a su cargo, para dar cumplimiento a los planes, programas y acuerdos de su competencia.</li>
+                    <li>Proponer procedimientos de Simplificación Administrativa que alivien cargas y obligaciones burocráticas, además de programas de modernización de la gestión pública para ser aplicados en las Direcciones Regionales sectoriales a su cargo.</li>
+                    <li>Utilizar técnicas estadísticas para establecer, controlar y verificar la capacidad de los procesos y las características de los servicios a su cargo.</li>
+                    <li>Proponer procedimientos para la mejora y modernización de la gestión de los servicios que  presta a la sociedad en el ámbito de su competencia.</li>
+                    <li>Definir indicadores de gestión que permitan evaluar el avance que se logre en el desempeño de la Unidad Orgánica, así como efectuar su seguimiento y, en función a dichos resultados reevaluar y proponer modificaciones a los objetivos, políticas y estrategias establecidas si fuera necesario.</li>
+                    <li>Realizar otras que le sean asignadas.</li>
                 </ul>    
         </div>
         <div class="divider"></div>

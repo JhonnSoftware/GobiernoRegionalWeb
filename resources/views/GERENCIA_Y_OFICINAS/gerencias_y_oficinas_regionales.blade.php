@@ -169,36 +169,28 @@
             <article class="card__article">
                 <img src="images/grdeju.png" alt="image" class="card__img" style="width: 300px; height: 180px; object-fit: cover;">
 
-
-                
-                <a href="gerenci_d_e.html" class="card__button">
+                <a href="{{ url('gerencia_regional_desarrollo_economico') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
             <article class="card__article">
                 <img src="images/grppatju.png" alt="image" class="card__img" style="width: 300px; height: 190px; object-fit: cover;">
 
-
-                
-
-                <a href="#" class="card__button">
+                <a href="{{ url('gerencia_regional_de_planeamiento_presupuesto_y_acondicionamiento_territorial') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
             <article class="card__article">
                 <img src="images/grrngaju.png" alt="image" class="card__img"style="width: 300px; height: 190px; object-fit: cover;">
 
-                
-
-                <a href="#" class="card__button">
+                <a href="{{ url('grrnga') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
             <article class="card__article">
                 <img src="images/grdsju.png" alt="image" class="card__img" style="width: 300px; height: 190px; object-fit: cover;">
 
-
-                <a href="gerencia_d_s.html" class="card__button">
+                <a href="{{ url('gerencia_regional_de_desarrollo_social') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -206,7 +198,7 @@
                 <img src="images/griju.png" alt="image" class="card__img" style="width: 300px; height: 190px; object-fit: cover;">
 
 
-                <a href="#" class="card__button">
+                <a href="{{ url('gerencia_regional_de_infraestructura') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -215,7 +207,7 @@
 
                 
 
-                <a href="#" class="card__button">
+                <a href="{{ url('oficina_regional_de_administracion_y_finanzas') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -224,7 +216,7 @@
 
                 
 
-                <a href="#" class="card__button">
+                <a href="{{ url('oficina_regional_de_asesoria_juridica') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -233,7 +225,7 @@
 
                 
 
-                <a href="#" class="card__button">
+                <a href="{{ url('oficina_regional_de_comunicaciones') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -241,19 +233,14 @@
                 <img src="images/orci.png" alt="image" class="card__img" style="width: 300px; height: 250px; object-fit: cover;">
 
             
-                <a href="#" class="card__button">
+                <a href="{{ url('oficina_regional_de_control_interno') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
             <article class="card__article">
                 <img src="images/orditiju.png" alt="image" class="card__img" style="width: 300px; height: 250px; object-fit: cover;">
 
-                <!--<div class="card__data">
-                    <h3 class="card__title">Gerencia Regional de Desarrollo Institucional y Tecnologia de la informacion</h3>
-                </div>-->
-
-
-                <a href="#" class="card__button">
+                <a href="{{ url('oficina_regional_de_desarrollo_institucional_y_tecnologia_de_la_informacion') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>

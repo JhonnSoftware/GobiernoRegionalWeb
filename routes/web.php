@@ -85,6 +85,38 @@ Route::get('gerencias_y_oficinas_regionales', function(){
 Route::get('direcciones_regionales', function(){
     return view('GERENCIA_Y_OFICINAS.direcciones_regionales');
 });
+
+    Route::get('direccion_regional_de_agricultura', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_agricultura');
+    });
+    Route::get('direccion_regional_de_archivo', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_archivo');
+    });
+    Route::get('direccion_regional_de_salud', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_salud');
+    });
+    Route::get('direccion_regional_de_comercio_exterior_y_turismo', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_comercio_exterior_y_turismo');
+    });
+    Route::get('direccion_regional_de_educacion', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_educacion');
+    });
+    Route::get('direccion_regional_de_energia_y_minas', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_energia_y_minas');
+    });
+    Route::get('direccion_regional_de_produccion', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_produccion');
+    });
+    Route::get('direccion_regional_de_trabajo_y_promocion_del_empleo', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_trabajo_y_promocion_del_empleo');
+    });
+    Route::get('direccion_regional_de_transportes_y_comunicaciones', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_transportes_y_comunicaciones');
+    });
+    Route::get('direccion_regional_de_vivienda_construccion_y_saneamiento', function(){
+        return view('GERENCIA_Y_OFICINAS.direccion_regional_de_vivienda_construccion_y_saneamiento');
+    });
+
 Route::get('procaduria_publica_regional', function(){
     return view('GERENCIA_Y_OFICINAS.procaduria_publica_regional');
 });
