@@ -180,7 +180,7 @@
 
                 <img src="images/fondodraju.png" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_agricultura') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -193,7 +193,7 @@
 
                 <img src="images/fondodrarchju.jpg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_archivo') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -206,7 +206,7 @@
 
                 <img src="images/fondodiresaju.jpg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_salud') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -219,7 +219,7 @@
 
                 <img src="images/fondodircetur.jpg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_comercio_exterior_y_turismo') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -232,7 +232,7 @@
 
                 <img src="images/fondodreju.jpeg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_educacion') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -245,7 +245,7 @@
 
                 <img src="images/fondoreymju.jpg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_energia_y_minas') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -258,7 +258,7 @@
 
                 <img src="images/fondodireproju.jpg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_produccion') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -271,7 +271,7 @@
 
                 <img src="images/fondodrtpe.png" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_trabajo_y_promocion_del_empleo') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -284,7 +284,7 @@
 
                 <img src="images/fondodrtc.jpeg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_transportes_y_comunicaciones') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
@@ -297,7 +297,7 @@
 
                 <img src="images/fondodrvysju.jpg" alt="image" class="card__bg">
 
-                <a href="#" class="card__button">
+                <a href="{{ url('direccion_regional_de_vivienda_construccion_y_saneamiento') }}" class="card__button">
                     Ver mas... <i class="ri-arrow-right-line"></i>
                 </a>
             </article>
