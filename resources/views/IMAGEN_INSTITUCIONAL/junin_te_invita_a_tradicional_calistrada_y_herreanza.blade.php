@@ -26,155 +26,232 @@
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
 
-        
         .header-alert {
-           
-           background-color: #ff6700;
-           color: white;
-           padding: 15px;
-           border-radius: 10px;
-           font-size: 16px;
-           width: 1300px;
-           margin: 40px auto; /* Centrado horizontalmente */
-           text-align: center;
-           display: flex;
-           justify-content: center;
-           align-items: center;
-       }
-       .blog-card {
-           overflow: hidden;
-           border-radius: 10px;
-           box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-           display: flex;
-           flex-direction: column;
-           height: 100%;
-           text-decoration: none;
-           color: inherit;
-           transition: transform 0.3s ease, box-shadow 0.3s ease;
-       }
-       .blog-card:hover {
-           transform: scale(1.05);
-           box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
-       }
-       .blog-card img {
-           width: 100%;
-           height: 200px;
-           object-fit: cover;
-       }
-       .blog-card .content {
-           padding: 15px;
-           flex-grow: 1;
-           display: flex;
-           flex-direction: column;
-           justify-content: space-between;
-       }
-       .btn-custom {
-           background-color: #1457b4;
-           color: white;
-           display: flex;
-           align-items: center;
-           justify-content: center;
-       }
-       .btn-custom i {
-           margin-left: 5px;
-       }
-       .pag{
-           display: flex;
-           align-content: center;
-           justify-content: center;
-       }
-       .link-ul{
-           margin: 20px 30px;
-       }
-       .link-ul .link-li{
-           display: inline-block;
-           width: 45px;
-           height: 45px;
-           border-radius: 50%;
-           text-align: center;
-           font-size: 18px;
-           font-weight: 500;
-           line-height: 45px;
-           cursor: pointer;
-           background-position: 0 -45px;
-           transition: background-position 0.5s;
-       }
-
-
-       .link-li.active{
-           color: #fff;
-           background-image: linear-gradient(#ff6700, #ff6700);
-           background-repeat: no-repeat;
-           background-position: 0 0;
-       }
-       .btn1, .btn2{
-           display: inline-flex;
-           align-items: center;
-           font-size: 18px;
-           font-weight: 500;
-           color: #383838;
-           background: transparent;
-           outline: none;
-           border: none;
-           cursor: pointer;
-       }
-
-
-       .btn1 img{
-           width: 24px;
-           margin-right: 15px;
-       }
-       .btn2 img{
-           width: 24px;
-           margin-left: 15px;
-           transform: rotate(180deg);
-       }
-       .image-container {
-            position: relative;
-            max-width: 800px;
-            margin: auto;
-            overflow: hidden;
+            background-color: #ff6700;
+            color: white;
+            padding: 15px;
             border-radius: 10px;
-            cursor: pointer; /* Cambia el cursor a "mano" */
+            font-size: 16px;
         }
 
-        .image-container img {
-            width: 100%;
-            height: auto;
+        ::-webkit-scrollbar {
+            width: 1.3rem;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            border-radius: 1rem;
+            background: #797979;
+            transition: all 0.5s ease-in-out;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #222224;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f9f9f9;
+        }
+
+        .container {
+            max-width: 110rem;
+            padding: 0 1rem;
+            margin: 0 auto;
+        }
+
+        #tranding {
+            padding: 4rem 0;
+        }
+
+        @media (max-width:1440px) {
+            #tranding {
+                padding: 7rem 0;
+            }
+        }
+
+        #tranding .tranding-slider {
+            height: 52rem;
+            padding: 2rem 0;
+            position: relative;
+        }
+
+        @media (max-width:500px) {
+            #tranding .tranding-slider {
+                height: 45rem;
+            }
+        }
+
+        .tranding-slide {
+            width: 37rem;
+            height: 42rem;
+            position: relative;
+        }
+
+        @media (max-width:500px) {
+            .tranding-slide {
+                width: 28rem !important;
+                height: 36rem !important;
+            }
+
+            .tranding-slide .tranding-slide-img img {
+                width: 28rem !important;
+                height: 36rem !important;
+            }
+        }
+
+        .tranding-slide .tranding-slide-img img {
+            width: 37rem;
+            height: 40rem;
+            border-radius: 2rem;
+            object-fit: cover;
+        }
+
+    
+
+        .food-rating {
+            padding-top: 1rem;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .rating ion-icon {
+            color: var(--primary);
+        }
+
+        .swiper-slide-shadow-left,
+        .swiper-slide-shadow-right {
+            display: none;
+        }
+
+        .tranding-slider-control {
+            position: relative;
+            bottom: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .tranding-slider-control .swiper-button-next {
+            left: 58% !important;
+            transform: translateX(-58%) !important;
+        }
+
+        @media (max-width:990px) {
+            .tranding-slider-control .swiper-button-next {
+                left: 70% !important;
+                transform: translateX(-70%) !important;
+            }
+        }
+
+        @media (max-width:450px) {
+            .tranding-slider-control .swiper-button-next {
+                left: 80% !important;
+                transform: translateX(-80%) !important;
+            }
+        }
+
+        @media (max-width:990px) {
+            .tranding-slider-control .swiper-button-prev {
+                left: 30% !important;
+                transform: translateX(-30%) !important;
+            }
+        }
+
+        @media (max-width:450px) {
+            .tranding-slider-control .swiper-button-prev {
+                left: 20% !important;
+                transform: translateX(-20%) !important;
+            }
+        }
+
+        .tranding-slider-control .slider-arrow {
+            background: var(--white);
+            width: 3.5rem;
+            height: 3.5rem;
+            border-radius: 50%;
+            left: 42%;
+            transform: translateX(-42%);
+            filter: drop-shadow(0px 8px 24px rgba(18, 28, 53, 0.1));
+        }
+
+        .tranding-slider-control .slider-arrow ion-icon {
+            font-size: 2rem;
+            color: #222224;
+        }
+
+        .tranding-slider-control .slider-arrow::after {
+            content: '';
+        }
+
+        .tranding-slider-control .swiper-pagination {
+            position: relative;
+            width: 15rem;
+            bottom: 1rem;
+        }
+
+        .tranding-slider-control .swiper-pagination .swiper-pagination-bullet {
+            filter: drop-shadow(0px 8px 24px rgba(18, 28, 53, 0.1));
+        }
+
+        .tranding-slider-control .swiper-pagination .swiper-pagination-bullet-active {
+            background: var(--primary);
+        }
+        .custom-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            display: flex;
+            align-items: flex-start;
+            gap: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .badge-box {
+            background: #1255b3;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+            width: 60px;
+            font-weight: bold;
+        }
+
+        .badge-box span {
             display: block;
-            transition: transform 0.3s ease-in-out; /* Agrega un pequeño efecto al pasar el mouse */
+            font-size: 18px;
         }
 
-        .image-container:hover img {
-            transform: scale(1.05); /* Efecto de zoom al pasar el cursor */
+        .badge-box small {
+            font-size: 12px;
         }
 
-        .overlay {
-            position: absolute;
-            bottom: 0;
+        
+        /* Modal */
+        #modal {
+            display: none;
+            position: fixed;
+            top: 0;
             left: 0;
             width: 100%;
-            background: rgba(255, 255, 255, 0.9);
-            padding: 15px;
-            text-align: center;
-            font-weight: bold;
-            box-sizing: border-box;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
         }
 
-        .caption-footer {
-            background-color: #ff6600;
+        #modal img {
+            
+            border-radius: 10px;
+            object-fit: contain;
+        }
+
+        #modal .close {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            font-size: 30px;
             color: white;
-            font-size: 14px;
-            padding: 5px;
-            font-weight: bold;
-            margin-top: 5px;
-        }
-
-        /* Para que todo el contenedor sea clickeable */
-        .image-container a {
-            display: block;
-            text-decoration: none;
-            color: inherit;
+            cursor: pointer;
         }
     </style>
 
@@ -182,8 +259,156 @@
         <h1>FOTOGALERÍA</h1>
     </div>
 
-    
-    
-    
+    <div class="container mt-4">
+        <div class="header-alert text-center">
+            <strong style="font-size: 20px;">JUNÍN TE INVITA A TRADICIONAL CALISTRADA Y HERRANZA</strong><br>
+        </div>
+    </div>
 
+    <section id="tranding">
+        <div class="container">
+            <div class="swiper tranding-slider">
+                <div class="swiper-wrapper">
+                    <!-- Slide-start -->
+                    <div class="swiper-slide tranding-slide">
+                        <div class="tranding-slide-img">
+                            <img src="images/normal_5fd72798079af87e15c47315baa47125.jpg" alt="">
+                        </div>
+                    </div>
+                    <!-- Slide-end -->
+                    <!-- Slide-start -->
+                    <div class="swiper-slide tranding-slide">
+                        <div class="tranding-slide-img">
+                            <img src="images/normal_a6de64bb8d1a62bcef7f1e6e804eaea1.jpg" alt="">
+                        </div>
+                    </div>
+                    <!-- Slide-end -->
+                    <!-- Slide-start -->
+                    <div class="swiper-slide tranding-slide">
+                        <div class="tranding-slide-img">
+                            <img src="images/normal_9d91b130c492762bf6d889d98529eb3a.jpg" alt="">
+                        </div>
+                    </div>
+                    <!-- Slide-end -->
+                    <!-- Slide-start -->
+                    <div class="swiper-slide tranding-slide">
+                        <div class="tranding-slide-img">
+                            <img src="images/normal_8fa18e18af7d921bde0e80d606d2b2a9.jpg" alt="">
+                        </div>
+                    </div>
+                    <!-- Slide-end -->
+                    <!-- Slide-start -->
+                    <div class="swiper-slide tranding-slide">
+                        <div class="tranding-slide-img">
+                            <img src="images/normal_f41e2b0bd1438960622ea89b3b039b01.jpg" alt="">
+                        </div>
+                    </div>
+                    
+                    <!-- Slide-end -->
+                </div>
+
+                <div class="tranding-slider-control">
+                    <div class="swiper-button-prev slider-arrow">
+                        <ion-icon name="arrow-back-outline"></ion-icon>
+                    </div>
+                    <div class="swiper-button-next slider-arrow">
+                        <ion-icon name="arrow-forward-outline"></ion-icon>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+    <div id="modal">
+        <span class="close">&times;</span>
+        <img id="modal-img">
+    </div>
+
+    <div class="container mt-4" style="max-width: 1000px;">
+        <div class="custom-card">
+            <div class="badge-box">
+                <span>5</span>
+                <small>FOTOS</small>
+            </div>
+            <div>
+                <p class="mb-0">
+                    <strong>Del 5 al 15 de marzo</strong>, acompáñanos en la Gran Calistrada y Herranza Junina, 
+                    una fiesta que celebra la conexión entre el pueblo andino, la naturaleza y sus costumbres ancestrales. 
+                    <em>“Los invito a vivir esta experiencia única, donde la música, la danza y la tradición se entrelazan en 
+                    una celebración que trasciende generaciones”</em>, expresó Julio Abanto, director Regional de Comercio 
+                    Exterior y Turismo – Junín.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+    <script src="script.js"></script>
+    <script>
+        var TrandingSlider = new Swiper('.tranding-slider', {
+            effect: 'coverflow',
+            grabCursor: true,
+            centeredSlides: true,
+            loop: true,
+            slidesPerView: 'auto',
+            coverflowEffect: {
+                rotate: 0,
+                stretch: 0,
+                depth: 100,
+                modifier: 2.5,
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+    </script>
+    <script>
+        // Inicializar Swiper
+        var swiper = new Swiper('.swiper-container', {
+            slidesPerView: 3,
+            spaceBetween: 10,
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+        });
+
+        // Función para abrir imágenes en pantalla completa
+        const images = document.querySelectorAll('.swiper-slide img');
+        const modal = document.getElementById('modal');
+        const modalImg = document.getElementById('modal-img');
+        const closeModal = document.querySelector('.close');
+
+        images.forEach(img => {
+            img.addEventListener('click', function () {
+                modal.style.display = 'flex';
+                modalImg.src = this.src;
+            });
+        });
+
+        closeModal.addEventListener('click', function () {
+            modal.style.display = 'none';
+        });
+
+        // Cerrar modal si se hace clic fuera de la imagen
+        modal.addEventListener('click', function (event) {
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+    </script>
 @endsection

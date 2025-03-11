@@ -153,9 +153,9 @@
             position: absolute;
             bottom: 0;
             left: 0;
-            width: 100%;
             background: rgba(255, 255, 255, 0.9);
             padding: 15px;
+            margin-left: 150px;
             text-align: center;
             font-weight: bold;
             box-sizing: border-box;
@@ -183,10 +183,10 @@
     </div>
 
     <div class="image-container">
-        <a href="https://www.ejemplo.com" target="_blank"> <!-- Reemplaza con tu link -->
+        <a href="{{ url('junin_te_invita_a_tradicional_calistrada_y_herreanza') }}" target="_blank"> <!-- Reemplaza con tu link -->
             <img src="images/normal_5fd72798079af87e15c47315baa47125.jpg" alt="Evento en Junín">
             <div class="overlay">
-                <p>JUNÍN TE INVITA A TRADICIONAL CALISTRADA Y HERRANZA</p>
+                <p>JUNÍN TE INVITA A TRADICIONAL <br>CALISTRADA Y HERRANZA</p>
                 <div class="caption-footer">5 FOTOGRAFÍAS DISPONIBLES</div>
             </div>
         </a>

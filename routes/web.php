@@ -50,6 +50,38 @@ Route::get('gerencia_general_regional', function(){
 Route::get('gerencias_y_oficinas_regionales', function(){
     return view('GERENCIA_Y_OFICINAS.gerencias_y_oficinas_regionales');
 });
+
+    Route::get('gerencia_regional_desarrollo_economico', function(){
+        return view('GERENCIA_Y_OFICINAS.gerencia_regional_desarrollo_economico');
+    });
+    Route::get('gerencia_regional_de_planeamiento_presupuesto_y_acondicionamiento_territorial', function(){
+        return view('GERENCIA_Y_OFICINAS.gerencia_regional_de_planeamiento_presupuesto_y_acondicionamiento_territorial');
+    });
+    Route::get('grrnga', function(){
+        return view('GERENCIA_Y_OFICINAS.grrnga');
+    });
+    Route::get('gerencia_regional_de_desarrollo_social', function(){
+        return view('GERENCIA_Y_OFICINAS.gerencia_regional_de_desarrollo_social');
+    });
+    Route::get('gerencia_regional_de_infraestructura', function(){
+        return view('GERENCIA_Y_OFICINAS.gerencia_regional_de_infraestructura');
+    });
+    Route::get('oficina_regional_de_administracion_y_finanzas', function(){
+        return view('GERENCIA_Y_OFICINAS.oficina_regional_de_administracion_y_finanzas');
+    });
+    Route::get('oficina_regional_de_asesoria_juridica', function(){
+        return view('GERENCIA_Y_OFICINAS.oficina_regional_de_asesoria_juridica');
+    });
+    Route::get('oficina_regional_de_comunicaciones', function(){
+        return view('GERENCIA_Y_OFICINAS.oficina_regional_de_comunicaciones');
+    });
+    Route::get('oficina_regional_de_control_interno', function(){
+        return view('GERENCIA_Y_OFICINAS.oficina_regional_de_control_interno');
+    });
+    Route::get('oficina_regional_de_desarrollo_institucional_y_tecnologia_de_la_informacion', function(){
+        return view('GERENCIA_Y_OFICINAS.oficina_regional_de_desarrollo_institucional_y_tecnologia_de_la_informacion');
+    });
+
 Route::get('direcciones_regionales', function(){
     return view('GERENCIA_Y_OFICINAS.direcciones_regionales');
 });
