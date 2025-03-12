@@ -45,7 +45,7 @@
         }
 
         .sidebar h2 {
-            color: #e91e63;
+            color: #ff6801;
             font-size: 20px;
         }
 
@@ -118,10 +118,10 @@
                 text-align: center;
         }
         .container1 {
-                background: #ff660047;
+                background: #ff6701af;
         }
         .container2 {
-                background: #12b3605f;
+                background: #1155b488;
         }
 </style>
 <div class="banner">
@@ -129,7 +129,7 @@
 </div>
 <div class="container">
     <div class="logo">
-        <img src="images/GOREJUNIN_logo.jpg" style="width: 100%; height: 50%; margin: -10px;">
+        <img src="images/logo_gore.png" style="width: 300px; height: 50%; margin-right:20px;">
     </div>
     <div class="texto">
         <h2>GOBIERNO REGIONAL JUNIN</h2>

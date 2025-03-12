@@ -77,9 +77,9 @@
             <img src="images/GRJpages0019240508a2c57eb717528e1c67157b870e96.png" alt="Huamanga Nuestra Identidad">
         </div>
         <div class="divider"></div>
-        <div class="mensaje">
-            <h2>MG. ZÓSIMO CÁRDENAS MUJE</h2>
-            <p>
+        <div class="mensaje" style="text-align: justify;">
+            <h2 style="font-weight:bold; color:#1256b0;">MG. ZÓSIMO CÁRDENAS MUJE</h2>
+            <p style="font-weight: bold; font-size: 19px;">
                 ¡Bienvenido!
             </p>
             <p>

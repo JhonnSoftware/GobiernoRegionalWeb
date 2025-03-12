@@ -46,8 +46,8 @@
 
         <nav class="navigation">
             <ul class="menu">
-                <li><a href="#"> INICIO </a></li>
-                <li><a href=""> INFORMACION <br> INSTITUCIONAL </a>
+                <li><a href="{{ url('index') }}"> INICIO </a></li>
+                <li><a href="#"> INFORMACION <br> INSTITUCIONAL </a>
                     <ul>
                         <li><a href="{{ url('mision_vision') }}">Mision y Vision</a></li>
                         <li><a href="{{ url('estructura_organica') }}">Estrutura Organica</a></li>
@@ -58,7 +58,7 @@
                                 <li><a href="{{ url('reglamento_interno_de_consejo_regional') }}">Reglamento Interno del Consejo Regional</a></li>
                                 <li><a href="{{ url('acuerdos_regionales') }}">Acuerdos Regionales</a></li>
                                 <li><a href="{{ url('actas_de_sesiones_ordinarias') }}">Actas de sesiones Ordinarias</a></li>
-                                <li><a href="{{ url('actas_de_sesiones_extraordinarias') }}">Acuerdos de sesiones Extraordinarias</a></li>
+                                <li><a href="{{ url('actas_de_sesiones_extraordinarias') }}">Actas de sesiones Extraordinarias</a></li>
                             </ul>
                         </li>
                         <li><a href="{{ url('consejo_de_coordinacion_regional') }}">Consejo de Coordinacion Regional</a></li>
@@ -67,7 +67,7 @@
                 </li>
                 <li><a href="#"> GERENCIAS <br> Y OFICINAS </a>
                     <ul>
-                        <li><a href="{{ url('gerencia_general_regional') }}">Gerencia General Reegional</a></li>
+                        <li><a href="{{ url('gerencia_general_regional') }}">Gerencia General Regional</a></li>
                         <li><a href="{{ url('gerencias_y_oficinas_regionales') }}">Gerencias y Oficinas Regionales</a></li>
                         <li><a href="{{ url('direcciones_regionales') }}">Directorio Regionales</a></li>
                         <li><a href="{{ url('procaduria_publica_regional') }}">procuraduria publica regional</a></li>
@@ -235,11 +235,11 @@
                 </li>
                 <li><a href="#"> SERVICIOS<br> EN LINEA </a>
                     <ul>
-                        <li><a href="http://sisdore.regionjunin.gob.pe:8080/convocatoria/">Oportunidades Laborales</a>
+                        <li><a href="{{ url('oportunidades_laborales') }}">Oportunidades Laborales</a>
                         </li>
-                        <li><a href="https://reclamos.servicios.gob.pe/?institution_id=57">Libro de reclamaciones</a>
+                        <li><a href="{{ url('libro_de_reclamaciones') }}">Libro de reclamaciones</a>
                         </li>
-                        <li><a href="http://sisdore.regionjunin.gob.pe:4949/denunciaSoborno/">Denuncia posibles actos de
+                        <li><a href="{{ url('denuncia_posibles_actos_de_soborno') }}">Denuncia posibles actos de
                                 soborno</a></li>
                         <li><a href="{{ url('contactanos') }}">Contactanos</a></li>
                     </ul>
@@ -394,9 +394,7 @@
     </article>
 
     <div class="noticia-principal">
-        <div class="card-fecha-main"><i class="bi bi-list"></i> Hace 2 semanas</div>
         <img src="img_NOTICIAS/noticia01.jpg" alt="" class="img-noticia-principal">
-        <div class="card-categoria-main"><i class="bi bi-list-ul"></i> Educación</div>
         <div class="contenido-noticia">
             <h2 class="ultima-noticia">Ultimo Momento</h2>
             <h1 class="titulo-noticia-principal">🔵🟠🟢 MESA TÉCNICA PARA NOMBRAMIENTO DE DOCENTES</h1>
@@ -580,7 +578,6 @@
             });
         });
     </script>
-
 
     <!-- TRANSMICIONES EN VIVO -->
 
@@ -888,7 +885,7 @@
             style="background-color: #000; color: #fff;display: block;width: 40px;height: 40px;border-radius: 50%;text-align: center;line-height: 40px;margin: 8px auto;transition:box-shadow .3s, transform 0.4s;;box-shadow: 0px 3px 10px rgba(0,0,0,.25)"><i
                 class="fa-brands fa-tiktok" style="margin: 12px;"></i></a>
         <a href="https://www.facebook.com/GReJunin" target="_blank" class="social-icon facebook"
-            style="background-color: #3b5998;color: #fff;display: block;width: 40px;height: 40px;border-radius: 50%;text-align: center;line-height: 40px;margin: 8px auto;transition:box-shadow .3s, transform 0.4s;;box-shadow: 0px 3px 10px rgba(0,0,0,.25)"><i
+            style="background-color: #1b63ff;color: #fff;display: block;width: 40px;height: 40px;border-radius: 50%;text-align: center;line-height: 40px;margin: 8px auto;transition:box-shadow .3s, transform 0.4s;;box-shadow: 0px 3px 10px rgba(0,0,0,.25)"><i
                 class="fa-brands fa-facebook-f" style="margin: 12px;"></i></a>
         <a href="https://www.instagram.com/gobregion.junin" target="_blank" class="social-icon instagram"
             style="background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);box-shadow: 0px 3px 10px rgba(0,0,0,.25);color: #fff;display: block;width: 40px;height: 40px;border-radius: 50%;text-align: center;line-height: 40px;margin: 8px auto;transition:box-shadow .3s, transform 0.4s;;box-shadow: 0px 3px 10px rgba(0,0,0,.25)"><i

@@ -244,8 +244,8 @@
 
         <nav class="navigation">
             <ul class="menu">
-                <li><a href="#"> INICIO </a></li>
-                <li><a href=""> INFORMACION <br> INSTITUCIONAL </a>
+                <li><a href="{{ url('index') }}"> INICIO </a></li>
+                <li><a href="#"> INFORMACION <br> INSTITUCIONAL </a>
                     <ul>
                         <li><a href="{{ url('mision_vision') }}">Mision y Vision</a></li>
                         <li><a href="{{ url('estructura_organica') }}">Estrutura Organica</a></li>
@@ -454,6 +454,7 @@
             </ul>
 
         </nav>
+
         <div class="brilogo2">
             <a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=10148">
                 <img src="images/portaltranspte.png" alt="portaltransferecia" style="margin-right: 10px;">
@@ -495,10 +496,7 @@
                             <i class="bi bi-list"></i> Hace 2 semanas
                         </div>
                         <img src="img_NOTICIAS/nueva_ugel.jpeg" alt="">
-                        <div class="card-categoria-01"
-                            style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
-                            <i class="bi bi-list-ul"></i> Educación
-                        </div>
+                        
                         <h2>NUEVA UGEL RÍO TAMBO ABRIRÁ SUS PUERTAS EL 11 DE FEBRERO</h2>
                         <p>Gobernador regional confirma fecha para iniciar operaciones:
                             Infraestructura edificada por el Gobierno Regional, beneficiará a más de 10 mil estudiantes
