@@ -70,7 +70,7 @@
         /*parte1 */
 
         .outer {
-            height: 150vh;
+            height: 200vh;
             background: #f2f2f2;
             display: flex;
             justify-content: center;
@@ -87,7 +87,7 @@
             align-items: center;
             /* Asegura que la imagen y el texto estén alineados */
             justify-content: start;
-            width: 500px;
+            width: 560px;
             /* Asegura un ancho uniforme */
             height: 270px;
             /* Ajusta según sea necesario */
@@ -124,6 +124,14 @@
             font-size: 20px;
             font-weight: bold;
         }
+        .content .details .title {
+            font-size: 15px;
+            font-weight: bold;
+            color: #1355B3;
+        }
+        .content .details .job {
+            font-weight: bold;
+        }
 
         .content .details p {
             font-size: 14px;
@@ -151,9 +159,12 @@
                 <div class="name">Consejero Regional Junin</div>
                 <div class="title">Presidente del Consejo Regional</div>
                 <div class="job">Rafael Anderson Gonzales Ureta</div>
-                <p>correo: rgonzalesu@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                rgonzalesu@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
+    
 
             </div>
 
@@ -166,9 +177,11 @@
                 <div class="name">Consejero Regional Chupaca</div>
 
                 <div class="job">Yoni Angel Balbin Peña</div>
-                <p>correo:ybalbin@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                ybalbin@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
 
             </div>
         </div>
@@ -180,10 +193,11 @@
                 <div class="name">Consejero Regional Yauli</div>
 
                 <div class="job">Luis Demetrio Basaldua Rodríguez</div>
-                <p>correo:lbasaldua@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
-
+                <strong>Correo:</strong>
+                lbasaldua@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
             </div>
         </div>
         <div class="content">
@@ -194,9 +208,11 @@
                 <div class="name">Consejero Regional Tarma</div>
 
                 <div class="job">Luis Fernando Morales Nieva</div>
-                <p>correo:lmorales@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                lmorales@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023  
 
             </div>
         </div>
@@ -206,11 +222,12 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Satipo</div>
-
                 <div class="job">Maribel Edith Valencia Mejía</div>
-                <p>correo: mvalencia@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                mvalencia@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
 
             </div>
         </div>
@@ -220,11 +237,12 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Satipo</div>
-
                 <div class="job">Maritza Lopez Cristina</div>
-                <p>correo: mlopez@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                mlopez@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
 
             </div>
         </div>
@@ -234,11 +252,13 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Chanchamayo</div>
-
                 <div class="job">Ismael Nicodemus Robles Cortéz</div>
-                <p>correo: irobles@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                irobles@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
+                
 
             </div>
         </div>
@@ -248,11 +268,12 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Chanchamayo</div>
-
                 <div class="job">Yoner Ambicho Aquino</div>
-                <p>correo: yambicho@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                yambicho@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
 
             </div>
         </div>
@@ -262,11 +283,12 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Jauja</div>
-
                 <div class="job">Hernan Rojas De La Cruz</div>
-                <p>correo: hrojas@regionjunin.gob.pe
-                    <br>inicio de cargo: 09/02/2024
-                </p>
+                <strong>Correo:</strong>
+                hrojas@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                09/02/2024
 
             </div>
         </div>
@@ -276,12 +298,12 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Huancayo</div>
-
                 <div class="job">Keli Flores Mas</div>
-                <p>correo: kflores@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
-
+                <strong>Correo:</strong>
+                kflores@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
             </div>
         </div>
         <div class="content">
@@ -290,11 +312,13 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Huancayo</div>
-
                 <div class="job">Lucero Beatriz Huamancaja Castillo</div>
-                <p>correo: lhuamancaja@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                lhuamancaja@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
+                
 
             </div>
         </div>
@@ -304,11 +328,12 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Huancayo</div>
-
                 <div class="job">Norma Lidia Valdivia Gutiérrez</div>
-                <p>correo: nvaldivia@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                nvaldivia@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
 
             </div>
         </div>
@@ -318,11 +343,13 @@
             </div>
             <div class="details">
                 <div class="name">Consejero Regional Concepcion</div>
-
                 <div class="job">Marí­a Martina Maldonado Doria</div>
-                <p>correo: mmaldonado@regionjunin.gob.pe
-                    <br>inicio de cargo: 01/01/2023
-                </p>
+                <strong>Correo:</strong>
+                mmaldonado@regionjunin.gob.pe
+                <br>
+                <strong>Inicio de cargo:</strong>
+                01/01/2023
+                
 
             </div>
         </div>
