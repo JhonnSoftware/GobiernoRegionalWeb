@@ -86,12 +86,6 @@
             color: #222;
         }
 
-        h2 {
-            font-size: 20px;
-            color: #333;
-            margin-top: 20px;
-        }
-
         p {
             font-size: 16px;
             line-height: 1.6;

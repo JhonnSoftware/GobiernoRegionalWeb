@@ -74,15 +74,15 @@
 
     <div class="container">
         <div class="logo">
-            <img src="images/GRJpages131454b5adec5558594d25ac994c3119d17a09.jpg" alt="Huamanga Nuestra Identidad">
+            <img src="images/GRJpages131454b5adec5558594d25ac994c3119d17a09.jpg" alt="Huamanga Nuestra Identidad" style="width: 400px; height: 400px;">
         </div>
         <div class="divider"></div>
         <div class="mensaje">
             <h2 style="font-weight:bold; color:#1256b0; font-size:30px;">ECO. ROY TOMAS GONZALES MAYTA</h2>
-            <p>
+            <p style="text-align: justify;">
                 La Gerencia General Regional es el órgano ejecutivo del Gobierno Regional, responsable de coordinar, dirigir, controlar y supervisar a las Gerencias Regionales y órganos desconcentrados, según corresponda, en las materias de su competencia. Está a cargo de un Gerente General Regional designado por la Presidencia Regional, siendo el responsable administrativo por los actos que ejecuta en el ejercicio de sus funciones y por los que suscribe conjuntamente con el Gobernador Regional.
             </p>
-            <p>
+            <p style="text-align: justify;">
                 Funciones:
                 1. Dirigir, coordinar y supervisar las actividades administrativas de los órganos y/o unidades orgánicas del Gobierno Regional, que se encuentran bajo su dependencia jerárquica.<br>
                 2. Coordinar, monitorear y supervisar la formulación del Plan de Desarrollo Regional Concertado y el Presupuesto Participativo, elevándolo al Gobernador Regional para su aprobación por el Consejo Regional.<br>
@@ -104,7 +104,7 @@
                 17. Definir indicadores de gestión que permitan evaluar el avance que se logre en el desempeño de la unidad orgánica, así como efectuar su seguimiento y, en función a dichos resultados reevaluar y proponer modificaciones a los objetivos, políticas y estrategias establecidas si fuera necesario.<br>
                 18. Las demás atribuciones y funciones que le sean asignadas de acuerdo a Ley.<br>
                 -->
-                Ver Mas..
+                <span  style="color: #ff6804;">Ver Mas..</span>
             </p>
             
         
