@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 
-@section('title', 'Mision y Vision')
+@section('title', 'Formato para acceso a la infromacion publica')
 
 @section('contenido-principal')
 

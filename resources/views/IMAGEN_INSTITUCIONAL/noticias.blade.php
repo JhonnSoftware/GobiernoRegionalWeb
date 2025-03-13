@@ -157,12 +157,12 @@
                         <p style="font-family: 'Times New Roman', serif; color:#5c5c5c;">La región Junín se consolida como referente
                             nacional en desarrollo social con la presentación de dos iniciativas de impacto: el Proyecto Educativo
                             Regional (PER) y Yachay (Aprende)...</p>
-                        <a href="" class="btn btn-custom" style="background-color: black; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
+                        <a href="" class="btn btn-custom" style="background-color: #10329e; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
                     </div>
                 </div>  
             </div>
             <div class="col-md-4 d-flex">
-                <div class="blog-card w-100">
+                <div class="blog-card w-100" style="border-radius: 0;">
                     <a href="link2.html">
                         <img src="images/1740152226_IMG_8244 (2).jpg" style="height: 400px; width: 450px;" alt="Blog Image">
                     </a>
@@ -171,12 +171,12 @@
                         <p style="font-size: 12px; color: #ff6700;"><i class="bi bi-list"></i> Hace 2 semanas / Obras / Educación</p>
                         <h1 style="font-size: 24px; font-family: 'prueba-01';">GERENTES DEL GRJ PRESENTAN PLAN 2025</h1>
                         <p style="font-family: 'Times New Roman', serif; color:#5c5c5c;">Los gerentes y directores del Gobierno Regional Junín (GRJ) expusieron los planes estratégicos para el 2025, destacando su compromiso con mantener el liderazgo en la ejecución del gasto público...</p>
-                        <a href="" class="btn btn-custom" style="background-color: black; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
+                        <a href="" class="btn btn-custom" style="background-color: #10329e; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 d-flex">
-                <div class="blog-card w-100">
+                <div class="blog-card w-100" style="border-radius: 0;">
                     <a href="link3.html">
                         <img src="images/1740151071_DSC_5617 (1).jpg" style="height: 400px; width: 450px;" alt="Blog Image">
                     </a>
@@ -185,7 +185,7 @@
                         <p style="font-size: 12px; color: #ff6700;"><i class="bi bi-list"></i> Hace 2 semanas / Obras / Educación</p>
                         <h1 style="font-size: 24px; font-family: 'prueba-01';">GRJ: MODERNIZACION DEL CENTRO DE SALUD DE JUPAY</h1>
                         <p style="font-family: 'Times New Roman', serif; color:#5c5c5c;">El Gobernador Regional Zósimo Cárdenas dispuso mejoras importantes en el Centro de Salud Justicia, Paz y Vida (Jupavi), con la reciente inauguración de nuevos ambientes destinados al área de Recursos Humanos, Estadísticas....</p>
-                        <a href="" class="btn btn-custom" style="background-color: black; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
+                        <a href="" class="btn btn-custom" style="background-color: #10329e; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
@@ -199,7 +199,7 @@
                         <p style="font-size: 12px; color: #ff6700;"><i class="bi bi-list"></i> Hace 2 semanas / Obras / Educación</p>
                         <h1 style="font-size: 24px; font-family: 'prueba-01';">GRJ:EMPIEZA LA GRAN CONSTRUCCION DEL TUPAC</h1>
                         <p style="font-family: 'Times New Roman', serif; color:#5c5c5c;">"En gestiones anteriores demolían los colegios sin garantizar las clases de los estudiantes, como ocurrió en el colegio Castilla. Ahora es diferente: primero implementamos un plan de contingencia que...</p>
-                        <a href="" class="btn btn-custom" style="background-color: black; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
+                        <a href="" class="btn btn-custom" style="background-color: #10329e; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
                     </div>
                 </div>  
             </div>
@@ -213,7 +213,7 @@
                         <p style="font-size: 12px; color: #ff6700;"><i class="bi bi-list"></i> Hace 2 semanas / Obras / Educación</p>
                         <h1 style="font-size: 24px; font-family: 'prueba-01';">GRJ IMPULSA EDUCACION INTERACTIVA PARA NIÑOS</h1>
                         <p style="font-family: 'Times New Roman', serif; color:#5c5c5c;">En el marco de su compromiso con la educación y el desarrollo tecnológico de los poblados más alejadas, el gobernador Zósimo Cárdenas visitó la escuela del poblado de Huacamayo...</p>
-                        <a href="" class="btn btn-custom" style="background-color: black; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
+                        <a href="" class="btn btn-custom" style="background-color: #10329e; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
                     </div>
                 </div>  
             </div>
@@ -227,7 +227,7 @@
                         <p style="font-size: 12px; color: #ff6700;"><i class="bi bi-list"></i> Hace 2 semanas / Obras / Educación</p>
                         <h1 style="font-size: 24px; font-family: 'prueba-01';">GRJ ANUNCIA CONSTRUCCION DE CETPRO EN LA OROYA</h1>
                         <p style="font-family: 'Times New Roman', serif; color:#5c5c5c;">A favor de tener jóvenes que amplíen el mercado laboral, se han iniciado las gestiones para la construcción de un Centro de Educación Técnico-Productiva (Cetpro) en la provincia de Yauli La Oroya.)...</p>
-                        <a href="" class="btn btn-custom" style="background-color: black; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
+                        <a href="" class="btn btn-custom" style="background-color: #10329e; color: white; margin-right: 200px; padding: 2px 20px; border-radius: 0px;">Leer más <i class="fas fa-plus"></i></a>
                     </div>
                 </div>  
             </div>

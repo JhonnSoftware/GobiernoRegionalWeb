@@ -548,7 +548,6 @@
         </div>
     </div>
 
-
     <div class="noticias-footer">
         <a href="https://www.regionjunin.gob.pe/lista_noticias/">TODAS LAS NOTICIAS</a>
     </div>

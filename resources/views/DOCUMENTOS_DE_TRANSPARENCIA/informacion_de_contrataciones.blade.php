@@ -48,6 +48,6 @@
         <h1>INFORMACION DE <br> CONTRATACIONES Y ADQUISICIONES</h1>
     </div>
     <div class="iframe-container">
-        <iframe src="https://www.transparencia.gob.pe/" frameborder="0"></iframe>
+        <iframe src="https://www.transparencia.gob.pe/contrataciones/pte_transparencia_contrataciones.aspx?id_entidad=10148&id_tema=34&ver=" frameborder="0"></iframe>
     </div>
 @endsection

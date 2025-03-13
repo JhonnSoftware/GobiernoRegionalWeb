@@ -495,6 +495,12 @@
                             style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
                             <i class="bi bi-list"></i> Hace 2 semanas
                         </div>
+                        
+                    
+                        <div class="card-categoria-01"
+                            style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
+                            <i class="bi bi-list-ul"></i> Obras
+                        </div>
                         <img src="img_NOTICIAS/nueva_ugel.jpeg" alt="">
                         
                         <h2>NUEVA UGEL RÍO TAMBO ABRIRÁ SUS PUERTAS EL 11 DE FEBRERO</h2>

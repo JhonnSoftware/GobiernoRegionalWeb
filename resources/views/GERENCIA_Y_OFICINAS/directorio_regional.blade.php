@@ -27,6 +27,76 @@
             font-family: 'Panton Narrow Black Italic', sans-serif;
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
+
+        .table {
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        thead tr {
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+        }
+        tbody tr:last-child td {
+            border-bottom-left-radius: 12px;
+            border-bottom-right-radius: 12px;
+        }
+
+        .custom-table {
+            border-collapse: separate;
+            border-spacing: 0 10px;
+            width: 100%;
+        }
+        .custom-table thead {
+            background-color: #c7d6f3;
+            color: #000;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+            overflow: hidden;
+        }
+        .custom-table th, .custom-table td {
+            padding: 12px;
+            background: white;
+            border: none;
+        }
+        .custom-table thead th:first-child {
+            border-top-left-radius: 12px;
+        }
+        .custom-table thead th:last-child {
+            border-top-right-radius: 12px;
+        }
+        .custom-table tbody tr {
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+        }
+        .custom-table tbody tr td:first-child {
+            border-top-left-radius: 12px;
+            border-bottom-left-radius: 12px;
+        }
+        .custom-table tbody tr td:last-child {
+            border-top-right-radius: 12px;
+            border-bottom-right-radius: 12px;
+        }
+        .profile-img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .icon-btn {
+            border: none;
+            background: none;
+            color: #000;
+            font-size: 18px;
+        }
+
+        .custom-header {
+            background-color: #ff6700 !important;
+            color: white !important;
+        }
+        .custom-header th {
+            background-color: #ff6700 !important;
+            color: white !important;
+        }
     </style>
     <div class="banner">
         <h1>DIRECTORIO REGIONAL</h1>
@@ -34,7 +104,7 @@
 
     <div class="container mt-5">
         <table class="table custom-table">
-            <thead>
+            <thead class="custom-header">
                 <tr>
                     <th>DEPENDENCIA</th>
                     <th>REPRESENTANTE</th>

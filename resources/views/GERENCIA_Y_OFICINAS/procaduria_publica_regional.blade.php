@@ -46,7 +46,7 @@
         }
 
         .sidebar h2 {
-            color: #e91e63;
+            color: #ff6700;
             font-size: 20px;
         }
 
@@ -69,7 +69,7 @@
         }
 
         .sidebar ul li a:hover {
-            color: #e91e63;
+            color: #ff6700;
         }
 
         .content {
@@ -107,11 +107,12 @@
             padding-left: 20px;
             position: relative;
             margin-bottom: 8px;
+            text-align: justify;
         }
 
         .functions li::before {
             content: "•";
-            color: #e91e63;
+            color: #ff6700;
             font-size: 20px;
             position: absolute;
             left: 0;
@@ -119,15 +120,15 @@
         }
 
         .fa-map-marker-alt {
-            color: #e91e63;
+            color: #ff6700;
             margin-right: 5px;
         }
 
         .divider {
-                    width: 2px;
-                    background-color: #ccc;
-                    height: 500px;
-                    margin: 0 60px;
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
         }
     </style>
 
@@ -138,8 +139,8 @@
     <div class="container">
         <main class="content">
 
-            <h1>ABOG. FRANZ EVER PAZCE CONTRERAS(e)</h1>
-            <h5>fpazce@regionjunin.gob.pe</h5>
+            <h1 style="font-weight: bold; color:#1436a1; font-size:30px;">ABOG. FRANZ EVER PAZCE CONTRERAS(e)</h1>
+            <h5 style="font-weight: bold;">fpazce@regionjunin.gob.pe</h5>
             <p>ARTÍCULO 30º.- Procuraduría Pública Regional La  Procuraduría  Pública  Regional  
                 ejercita  la  representación  y  defensa  en  los  procesos  y procedimientos en  
                 los que el Gobierno Regional  Junín actúe como demandante, demandado, denunciante, 
