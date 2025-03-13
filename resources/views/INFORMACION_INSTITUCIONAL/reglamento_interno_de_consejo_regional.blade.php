@@ -94,8 +94,6 @@
             margin-left: 15px;
             transform: rotate(180deg);
         }
-
-
         .filter-container {
             display: flex;
             align-items: center;
@@ -155,7 +153,7 @@
     </style>
 
     <div class="banner">
-        <h1>DECLARACIONES JURADAS DE <br>BIENES Y RUTAS</h1>
+        <h1>REGLAMENTO INTERNO<br>DE CONSEJO</h1>
     </div>
 
     <div class="container mt-4">
@@ -198,8 +196,8 @@
                     <span class="event-title">Reglamento Interno de Consejo 2024 - VIGENTE</span><br>
                     <small>11.8 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -208,8 +206,8 @@
                     <span class="event-title">Reglamento Interno de Consejo 2014</span><br>
                     <small>455.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -218,8 +216,8 @@
                     <span class="event-title">Reglamento Interno de Consejo 2012</span><br>
                     <small>430 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -228,8 +226,8 @@
                     <span class="event-title">Reglamento Interno de Consejo 2011</span><br>
                     <small>638.9 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
         </div>
         

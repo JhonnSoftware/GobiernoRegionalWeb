@@ -198,8 +198,8 @@
                     <span class="event-title">Acta Nº 08 Sesión Extraordinaria del 29 de Diciembre 2023</span><br>
                     <small>2.9 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -208,8 +208,8 @@
                     <span class="event-title">Acta N° 10 de Sesión Extraordinaria Virtual 30 de Junio de 2021</span><br>
                     <small>10.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -218,8 +218,8 @@
                     <span class="event-title">Acta N° 09 de Sesión Extraordinaria Virtual 25 de Junio de 2021</span><br>
                     <small>11 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -228,8 +228,8 @@
                     <span class="event-title">Acta N° 08 de Sesión Extraordinaria Virtual 21 de Mayo de 2021</span><br>
                     <small>4.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -238,8 +238,8 @@
                     <span class="event-title">Acta N° 07 de Sesión Extraordinaria Virtual 11 de Mayo de 2021</span><br>
                     <small>2.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div><div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
                 <div class="event-info">
@@ -247,8 +247,8 @@
                     <span class="event-title">Acta N° 05 de Sesión Extraordinaria Virtual 29 de Marzo de 2021</span><br>
                     <small>6.7 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -257,8 +257,8 @@
                     <span class="event-title">Acta N° 04 de Sesión Extraordinaria Virtual 18 de Marzo de 2021</span><br>
                     <small>1.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -267,8 +267,8 @@
                     <span class="event-title">Acta N° 03 de Sesión Extraordinaria Virtual 11 de Febrero de 2021</span><br>
                     <small>18.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -277,8 +277,8 @@
                     <span class="event-title">Acta N° 01 de Sesión Extraordinaria Virtual 04 de Enero de 2021</span><br>
                     <small>12.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -287,8 +287,8 @@
                     <span class="event-title">Acta N° 14 de Sesión Extraordinaria Virtual 18 de Diciembre de 2020</span><br>
                     <small>983.3 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
         </div>
 

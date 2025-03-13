@@ -78,7 +78,7 @@
         </div>
         <div class="divider"></div>
         <div class="mensaje">
-            <h2>ECO. ROY TOMAS GONZALES MAYTA</h2>
+            <h2 style="font-weight:bold; color:#1256b0; font-size:30px;">ECO. ROY TOMAS GONZALES MAYTA</h2>
             <p>
                 La Gerencia General Regional es el órgano ejecutivo del Gobierno Regional, responsable de coordinar, dirigir, controlar y supervisar a las Gerencias Regionales y órganos desconcentrados, según corresponda, en las materias de su competencia. Está a cargo de un Gerente General Regional designado por la Presidencia Regional, siendo el responsable administrativo por los actos que ejecuta en el ejercicio de sus funciones y por los que suscribe conjuntamente con el Gobernador Regional.
             </p>
@@ -88,6 +88,7 @@
                 2. Coordinar, monitorear y supervisar la formulación del Plan de Desarrollo Regional Concertado y el Presupuesto Participativo, elevándolo al Gobernador Regional para su aprobación por el Consejo Regional.<br>
                 3. Supervisar, monitorear y evaluar la ejecución de los programas y proyectos regionales, incluidos en el Plan de Desarrollo Regional Concertado, Estratégico Institucional y Operativo Institucional del Gobierno Regional Junín.<br>
                 4. Supervisar y coordinar con las unidades orgánicas competentes, la ejecución de los recursos presupuestales  del Gobierno Regional.<br>
+                <!--
                 5. Efectuar la supervisión, vigilancia y verificación de los actos y resultados de la gestión pública del Gobierno Regional Junín.<br>
                 6. Informar periódicamente al Gobernador Regional las acciones de carácter administrativo y financiero del Gobierno Regional Junín.<br>
                 7. Monitorear la ejecución y supervisión de la aplicación de las normas técnicas y administrativas de nivel nacional que tengan implicancia en el desarrollo regional.<br>
@@ -102,6 +103,8 @@
                 16. Proponer al Gobernador Regional políticas y estrategias para impulsar el desarrollo regional.<br>
                 17. Definir indicadores de gestión que permitan evaluar el avance que se logre en el desempeño de la unidad orgánica, así como efectuar su seguimiento y, en función a dichos resultados reevaluar y proponer modificaciones a los objetivos, políticas y estrategias establecidas si fuera necesario.<br>
                 18. Las demás atribuciones y funciones que le sean asignadas de acuerdo a Ley.<br>
+                -->
+                Ver Mas..
             </p>
             
         

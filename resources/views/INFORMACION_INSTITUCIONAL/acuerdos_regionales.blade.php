@@ -198,8 +198,8 @@
                     <span class="event-title">ACUERDO REGIONAL N303-2024-GRJ-CR</span><br>
                     <small>105.8 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -208,8 +208,8 @@
                     <span class="event-title">ACUERDO REGIONAL N302-2024-GRJ-CR</span><br>
                     <small>95.3 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -218,8 +218,8 @@
                     <span class="event-title">ACUERDO REGIONAL N301-2024-GRJ-CR</span><br>
                     <small>115.4 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -228,8 +228,8 @@
                     <span class="event-title">ACUERDO REGIONAL N300-2024-GRJ-CR</span><br>
                     <small>98.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -238,8 +238,8 @@
                     <span class="event-title">ACUERDO REGIONAL N299-2024-GRJ-CR</span><br>
                     <small>117.6 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div><div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
                 <div class="event-info">
@@ -247,8 +247,8 @@
                     <span class="event-title">ACUERDO REGIONAL N298-2024-GRJ-CR</span><br>
                     <small>100.1 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -257,8 +257,8 @@
                     <span class="event-title">ACUERDO REGIONAL N297-2024-GRJ-CR</span><br>
                     <small>105.8 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -267,8 +267,8 @@
                     <span class="event-title">ACUERDO REGIONAL N296-2024-GRJ-CR</span><br>
                     <small>104.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -277,8 +277,8 @@
                     <span class="event-title">ACUERDO REGIONAL N295-2024-GRJ-CR</span><br>
                     <small>94.4 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -287,8 +287,8 @@
                     <span class="event-title">ACUERDO REGIONAL N294-2024-GRJ-CR</span><br>
                     <small>119.4 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1256b0;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1256b0;"></a>
             </div>
         </div>
 

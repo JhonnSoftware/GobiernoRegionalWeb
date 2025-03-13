@@ -45,7 +45,7 @@
         }
 
         .sidebar h2 {
-            color: #e91e63;
+            color: #ff6801;
             font-size: 20px;
         }
 
@@ -110,7 +110,7 @@
 
         .functions li::before {
             content: "•";
-            color: #e91e63;
+            color: #ff6801;
             font-size: 20px;
             position: absolute;
             left: 0;
@@ -118,7 +118,7 @@
         }
 
         .fa-map-marker-alt {
-            color: #e91e63;
+            color: #ff6801;
             margin-right: 5px;
         }
 
@@ -137,8 +137,9 @@
     <div class="container">
         <main class="content">
 
-            <h1>¿QUÉ ES UN CONSEJO DE COORDINACIÓN REGIONAL?</h1>
-            <p>El Consejo de Coordinación Regional, es un Órgano consultivo y de coordinación del Gobierno Regional con las
+            <h1 style="font-weight:bold; color:#1256b0; font-size:35px;">¿QUÉ ES UN CONSEJO DE COORDINACIÓN REGIONAL?</h1>
+            <p>
+                El Consejo de Coordinación Regional, es un Órgano consultivo y de coordinación del Gobierno Regional con las
                 Municipalidades. Está integrado por los Alcaldes Provinciales y por los representantes de la sociedad Civil,
                 con las funciones y atribuciones que la señala la presente Ley.
 
@@ -162,7 +163,8 @@
                 Sociedad Civil.
 
                 El Consejo de Coordinación Regional tiene por función emitir opinión consultiva sobre (Ley Nº 27902, Ley que
-                modifica la Ley Orgánica de Gobiernos Regionales Nº 27867):</p>
+                modifica la Ley Orgánica de Gobiernos Regionales Nº 27867):
+            </p>
 
             <ul class="functions">
                 <li>El Plan Anual y el Presupuesto Participativo Anual.</li>
@@ -172,7 +174,7 @@
                 <li>Otras que le encargue o solicite el Consejo Regional.</li>
             </ul>
 
-            <h2>QUIENES INTEGRAN EL CCR</h2>
+            <h2 style="font-weight:bold; color:#1256b0; font-size:25px;">QUIENES INTEGRAN EL CCR</h2>
             <p>Está integrado por autoridades regionales, autoridades provinciales y la sociedad civil. ( 60% Autoridades:
                 Presidente Regional y Alcaldes Provinciales y 40 % Sociedad Civil ). Compuesto de la siguiente manera:</p>
         </main>
