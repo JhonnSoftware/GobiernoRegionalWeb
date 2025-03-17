@@ -198,8 +198,8 @@
                     <span class="event-title">Decreto Regional N.° 000005-2024-GRJ/GR</span><br>
                     <small>1.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="mt-3">
@@ -210,8 +210,8 @@
                     <span class="event-title">Decreto Regional N.° 000004-2024-GRJ/GR</span><br>
                     <small>912.2 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -220,8 +220,8 @@
                     <span class="event-title">Decreto Regional N.° 000003-2024-GRJ/GR</span><br>
                     <small>2.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -230,8 +230,8 @@
                     <span class="event-title">Decreto Regional N.° 000002-2024-GRJ/GR</span><br>
                     <small>1.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -240,8 +240,8 @@
                     <span class="event-title">Decreto Regional N.° 000001-2024-GRJ/GR</span><br>
                     <small>2.9 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -250,8 +250,8 @@
                     <span class="event-title">Decreto Regional N.° 000008-2023-GRJ/GR</span><br>
                     <small>1.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -260,8 +260,8 @@
                     <span class="event-title">Decreto Regional N.° 000007-2023-GRJ/GR</span><br>
                     <small>107.5 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -270,8 +270,8 @@
                     <span class="event-title">Decreto Regional N.° 000004-2023-GRJ/GR</span><br>
                     <small>1.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -280,8 +280,8 @@
                     <span class="event-title">Decreto Regional N.° 000002-2023-GRJ/GR</span><br>
                     <small>18.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -290,8 +290,8 @@
                     <span class="event-title">Decreto Regional N.° 000004-2022-GRJ/GR</span><br>
                     <small>1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
     </div>

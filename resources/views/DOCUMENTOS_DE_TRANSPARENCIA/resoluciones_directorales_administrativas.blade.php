@@ -198,8 +198,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 227-2025-GR-JUNIN-ORAF</span><br>
                     <small>546.1 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -208,8 +208,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 226-2025-GR-JUNIN-ORAF</span><br>
                     <small>522 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -218,8 +218,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 225-2025-GR-JUNIN-ORAF</span><br>
                     <small>549.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -228,8 +228,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 224-2025-GR-JUNIN-ORAF</span><br>
                     <small>545.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -238,8 +238,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 223-2025-GR-JUNIN-ORAF</span><br>
                     <small>554 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -248,8 +248,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 222-2025-GR-JUNIN-ORAF</span><br>
                     <small>1.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -258,8 +258,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 221-2025-GR-JUNIN-ORAF</span><br>
                     <small>956.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -268,8 +268,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 220-2025-GR-JUNIN-ORAF</span><br>
                     <small>1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -278,8 +278,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 219-2025-GR-JUNIN-ORAF</span><br>
                     <small>856.5 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -288,8 +288,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 218-2025-GR-JUNIN-ORAF</span><br>
                     <small>878 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
     </div>

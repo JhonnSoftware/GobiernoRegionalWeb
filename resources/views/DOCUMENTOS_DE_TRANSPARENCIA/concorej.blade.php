@@ -198,8 +198,8 @@
                     <span class="event-title">RESULTADOS FINALES DEL PROCESO DE INSCRIPCIÓN CCR 2023 - 2024</span><br>
                     <small>520.6 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
 
@@ -213,8 +213,8 @@
                         COORDINACIÓN REGIONAL PARA EL PERIODO 2023 - 202</span><br>
                     <small>2.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="mt-3">
@@ -225,8 +225,8 @@
                     <span class="event-title">RESULTADOS DEL PROCESO DE INSCRIPCIÓN -ANEXO 1</span><br>
                     <small>311.8 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
     
@@ -240,8 +240,8 @@
                         CONSEJO DE COORDINACIÓN REGIONAL PARA EL PERIODO 2023 - 2024</span><br>
                     <small>211.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -250,8 +250,8 @@
                     <span class="event-title">REQUISITOS</span><br>
                     <small>118.1 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -260,8 +260,8 @@
                     <span class="event-title">FICHA DE INSCRIPCIÓN 2023</span><br>
                     <small>277.1 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -270,8 +270,8 @@
                     <span class="event-title">DECRETO REGIONAL 001-2023</span><br>
                     <small>388.5 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -280,8 +280,8 @@
                     <span class="event-title">Padrón electoral del CCR</span><br>
                     <small>417.5 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -290,8 +290,8 @@
                     <span class="event-title">RESULTADOS FINALES DEL PROCESO DE INSCRIPCIÓN</span><br>
                     <small>205.2 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -300,8 +300,8 @@
                     <span class="event-title">Resultados de Proceso de Inscripcion</span><br>
                     <small>206.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
 

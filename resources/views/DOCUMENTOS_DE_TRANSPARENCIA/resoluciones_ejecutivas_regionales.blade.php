@@ -198,8 +198,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 074-2025-GRJ/GR</span><br>
                     <small>16.5 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -208,8 +208,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 073-2025-GRJ/GR</span><br>
                     <small>758.5 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -218,8 +218,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 072-2025-GRJ/GR</span><br>
                     <small>802.2 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -228,8 +228,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 067-2025-GRJ/GR</span><br>
                     <small>3.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -238,8 +238,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 057-2025-GRJ/GR</span><br>
                     <small>529.7 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -248,8 +248,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 070-2025-GRJ/GR</span><br>
                     <small>1.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -258,8 +258,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 069-2025-GRJ/GR</span><br>
                     <small>956.4 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -268,8 +268,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 068-2025-GRJ/GR</span><br>
                     <small>430.2 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -278,8 +278,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 056-2025-GRJ/GR</span><br>
                     <small>753.6 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -288,8 +288,8 @@
                     <span class="event-title">RESOLUCIÓN EJECUTIVA REGIONAL Nº 064-2025-GRJ/GR</span><br>
                     <small>604.3 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
     </div>

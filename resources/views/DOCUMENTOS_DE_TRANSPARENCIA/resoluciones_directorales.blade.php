@@ -198,8 +198,8 @@
                     <span class="event-title">Resolución Directoral N° 224-2020-GRJ/GRDE/DREM/DR</span><br>
                     <small>11.5 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -208,8 +208,8 @@
                     <span class="event-title">Resolución Directoral N° 069-2020-GRJ/GRDE/DREM/DR</span><br>
                     <small>2.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -218,8 +218,8 @@
                     <span class="event-title">Resolución Directoral N°107 -2020-DRSJ/OEGDRH</span><br>
                     <small>592.8 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -228,8 +228,8 @@
                     <span class="event-title">Resolución Directoral N° 336-2019-GRJ/GRDE/DREM/DR</span><br>
                     <small>1.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -238,8 +238,8 @@
                     <span class="event-title">RESOLUCION DIRECTORAL ADMINISTRATIVA N° 102-2019-GRJ/ORAF</span><br>
                     <small>3.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -248,8 +248,8 @@
                     <span class="event-title">Resolución Directoral N°114 -2019-DRSJ/OEGDRH</span><br>
                     <small>1.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -258,8 +258,8 @@
                     <span class="event-title">Resolución Directoral N°933 -2017-DRSJ/OEGDRH</span><br>
                     <small>392.9 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -268,8 +268,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N°005-2017-GRJ/AR</span><br>
                     <small>548.1 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
     </div>

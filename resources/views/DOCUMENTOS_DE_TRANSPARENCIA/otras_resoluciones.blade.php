@@ -198,8 +198,8 @@
                     <span class="event-title">RESOLUCIÓN SUBGERENCIAL REGIONAL DE ESTUDIOS N001-2024-GR-JUNIN-GRI-SGE</span><br>
                     <small>2.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -213,8 +213,8 @@
                     <span class="event-title">RESOLUCIÓN SUBDIRECTORIAL ADMINISTRATIVA FINANCIERA N001-2024-GRJ-ORAF-OAF</span><br>
                     <small>2.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -228,8 +228,8 @@
                     <span class="event-title">Resolucion Directoral N°256-2020-ANA-AAA-X MANTARO</span><br>
                     <small>1.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -243,8 +243,8 @@
                     <span class="event-title">DIRECTIVA GENERAL N002-2024-GRJ-SG</span><br>
                     <small>3.9 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -253,8 +253,8 @@
                     <span class="event-title">RESOLUCION DE SECRETARIA GENERAL N° 001-2020-GRJ/SG</span><br>
                     <small>1.7 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -263,8 +263,8 @@
                     <span class="event-title">Resolucion de Secretaria General N°002-2019-GRJ/SG</span><br>
                     <small>2.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -273,8 +273,8 @@
                     <span class="event-title">Resolucion de Secretaria General N°001-2019-GRJ/SG</span><br>
                     <small>2.7 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -288,8 +288,8 @@
                     <span class="event-title">Resolución de Procuraduría Publica Regional N° 001-2021-GRJ/PPR</span><br>
                     <small>2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -298,8 +298,8 @@
                     <span class="event-title">Resolución de Procuraduria Pública Regional N°001-2020-GRJ/PPR</span><br>
                     <small>2.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -308,8 +308,8 @@
                     <span class="event-title">RESOLUCION DE PROCURADURIA REGIONAL N°001-2019-GRJ-PPR</span><br>
                     <small>1.7 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -323,8 +323,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORIAL ADMINISTRATIVA N0001-2024-GRJ-GRDS-DRVCS</span><br>
                     <small>2.9 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -338,8 +338,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORIAL REGIONAL DE AGRICULTURA N°691-2024-GRJ-DRA-DR</span><br>
                     <small>2.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -348,8 +348,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORIAL REGIONAL DE AGRICULTURA N°436-2024-GRJ-DRA-DR</span><br>
                     <small>5.5 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -358,8 +358,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORIAL REGIONAL DE AGRICULTURA N°386-2024-GRJ-DRA-DR</span><br>
                     <small>4.8 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -368,8 +368,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORIAL REGIONAL DE AGRICULTURA N°383-2024-GRJ-DRA-DR</span><br>
                     <small>1.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -378,8 +378,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORIAL REGIONAL DE AGRICULTURA N323-2024-GRJ-DRA-DR</span><br>
                     <small>7.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -388,8 +388,8 @@
                     <span class="event-title">RESOLUCION DIRECTORIAL REGIONAL DE AGRICULTURA Nº314-2024-GRJ-DRA/DR</span><br>
                     <small>6.7 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -403,8 +403,8 @@
                     <span class="event-title">RESOLUCIÓN DE LA COMISIÓN AD-HOC-ÓRGANO SANCIONADOR N° 429-2024-GRJ-CAHOS</span><br>
                     <small>1.9 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -413,8 +413,8 @@
                     <span class="event-title">Resolución N°002-2017-Comisión AD-HOC de Procedimiento Sancionador</span><br>
                     <small>859.8 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -423,8 +423,8 @@
                     <span class="event-title">Resolución N°001-2017-Comisión AD-HOC de Procedimiento Sancionador</span><br>
                     <small>659.3 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -438,8 +438,8 @@
                     <span class="event-title">Resolución N°080-2016-Consejo Nacional de Calificación de Victimas de Accidentes, Actos de Terrorismo o Narcotráfico</span><br>
                     <small>4.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -453,8 +453,8 @@
                     <span class="event-title">RESOLUCIÓN SUB GERENCIAL DE PRESUPUESTO Y TRIBUTACION N°001-2020-GRJ/GRPPAT/SGPT</span><br>
                     <small>1.5 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -463,8 +463,8 @@
                     <span class="event-title">Resolución Sub Gerencial de Presupuesto y Tributación N°001-2019-GRJ/GRPPAT/SGPT</span><br>
                     <small>1.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -478,8 +478,8 @@
                     <span class="event-title">RESOLUCION SUB GERENCIAL DE SUPERVISIÓN Y LIQUIDACIÓN DE OBRAS N01-2024-GR-JUNIN-GRI-SGLO</span><br>
                     <small>2.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -488,8 +488,8 @@
                     <span class="event-title">RESOLUCIÓN SUB GERENCIAL DE OBRAS N°001-2019-GRJ/GRI/SGO</span><br>
                     <small>4.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -503,8 +503,8 @@
                     <span class="event-title">Resolución Sub Directoral Administrativa N°001-2019-GRJ/ORAF/OGP</span><br>
                     <small>1.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -518,8 +518,8 @@
                     <span class="event-title">RESOLUCION POR MUTUO ACUERDO DEL CONVENIO DE ASIGNACIÓN POR DESEMPEÑO CAD ENTRE EL MIDIS, MEF Y GRJ</span><br>
                     <small>471.8 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -534,8 +534,8 @@
                         N°001-2019-GRJ/GRPPAT</span><br>
                     <small>3.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -549,8 +549,8 @@
                     <span class="event-title">Resolucion Directoral N°0334-2019-GRJ-DRSJ-DSVM/URHH</span><br>
                     <small>504 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -559,8 +559,8 @@
                     <span class="event-title">Resolucion Directoral N°0333-2019-GRJ-DRSJ-DSVM/URHH</span><br>
                     <small>533.6 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white" style="padding:20px;"></i></div>
@@ -569,8 +569,8 @@
                     <span class="event-title">Resolucion Directoral N°0332-2019-GRJ-DRSJ-DSVM/URHH</span><br>
                     <small>533.2 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -584,8 +584,8 @@
                     <span class="event-title">RESOLUCIÓN ADMINISTRATIVA RA Nº D000462-MIDAGRI-SERFOR-ATFFS-SELVA CENTRAL</span><br>
                     <small>2.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="mt-3">
@@ -596,8 +596,8 @@
                     <span class="event-title">RESOLUCION DE LA COMISION AD-HOC- ORGANO SANCIONADOR N°001-2025-GR-JUNIN/CAHOS</span><br>
                     <small>1.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
     </div>

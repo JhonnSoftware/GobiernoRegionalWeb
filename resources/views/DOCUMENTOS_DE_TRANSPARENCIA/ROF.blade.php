@@ -203,8 +203,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2023 (VIGENTE) - ORDENANZA REGIONAL Nº385-2023-GRJ/CR</span><br>
                     <small>8.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -218,8 +218,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2021 (MODIFICADO) - ORDENANZA REGIONAL Nº357-2021-GRJ/CR</span><br>
                     <small>14.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -228,8 +228,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2021 - ORDENANZA REGIONAL Nº344-2021-GRJ/CR</span><br>
                     <small>27.8 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -238,8 +238,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2019 - ORDENANZA REGIONAL Nº304-2019-GRJ/CR</span><br>
                     <small>23.7 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -248,8 +248,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2016 - ORDENANZA REGIONAL Nº248-2016-GRJ/CR</span><br>
                     <small>16.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -258,8 +258,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2008 - ORDENANZA REGIONAL Nº087-2008-GRJ/CR</span><br>
                     <small>1.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -268,8 +268,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2003 - ORDENANZA REGIONAL Nº002-2003-GRJ/CR</span><br>
                     <small>9.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -283,8 +283,8 @@
                     <span class="event-title">ROF-Dirección Regional de la Producción (Vigente hasta la fecha)</span><br>
                     <small>14.2 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -293,8 +293,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2021 - ORDENANZA REGIONAL Nº344-2021-GRJ/CR</span><br>
                     <small>27.8 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -303,8 +303,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2019 - ORDENANZA REGIONAL Nº304-2019-GRJ/CR</span><br>
                     <small>23.7 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -313,8 +313,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2016 - ORDENANZA REGIONAL Nº248-2016-GRJ/CR</span><br>
                     <small>16.1 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -323,8 +323,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2008 - ORDENANZA REGIONAL Nº087-2008-GRJ/CR</span><br>
                     <small>1.3 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -333,8 +333,8 @@
                     <span class="event-title">ROF - SEDE REGIONAL JUNIN 2003 - ORDENANZA REGIONAL Nº002-2003-GRJ/CR</span><br>
                     <small>9.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
         </div>
     </div>

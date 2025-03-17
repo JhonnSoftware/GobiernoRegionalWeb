@@ -192,8 +192,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N° 001-2024-GRJ-GGR-ORDITI</span><br>
                     <small>1.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
     
             <div class="event-card">
@@ -203,8 +203,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N° 002-2024-GRJ-GGR-ORDITI</span><br>
                     <small>1.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
     
             <div class="event-card">
@@ -214,8 +214,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N° 003-2024-GRJ-GGR-ORDITI</span><br>
                     <small>2.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
     
             <div class="event-card">
@@ -225,8 +225,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N° 004-2024-GRJ-GGR-ORDITI</span><br>
                     <small>2.6 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -235,8 +235,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N° 005-2024-GRJ-GGR-ORDITI</span><br>
                     <small>986.9 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -245,8 +245,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N° 006-2024-GRJ-GGR-ORDITI</span><br>
                     <small>718.5 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -255,8 +255,8 @@
                     <span class="event-title">RESOLUCIÓN DIRECTORAL N° 007-2024-GRJ-GGR-ORDITI</span><br>
                     <small>176.4 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -270,8 +270,8 @@
                     <span class="event-title">Aviso de Sinceramiento</span><br>
                     <small>118.5 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
         </div>
         <div class="header-alert text-center">
@@ -285,8 +285,8 @@
                     <span class="event-title">MAPRO (Vigente hasta la fecha)</span><br>
                     <small>4.4 MB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
             
         </div>
@@ -301,8 +301,8 @@
                     <span class="event-title">Norma que aprueba el MAPRO</span><br>
                     <small>494.9 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
         </div>
     
@@ -317,8 +317,8 @@
                     <span class="event-title">Flujograma del Proceso de Adquisicion de Bienes y Contrataciones de Servicios</span><br>
                     <small>494.9 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -327,8 +327,8 @@
                     <span class="event-title">Procedimiento de Adquision de Bienes y Contratación de Servicios</span><br>
                     <small>83 KB</small>
                 </div>
-                <a href="" class="bi bi-download fs-3 me-3" style="color: #ff6700;"></a>
-                <a href="" class="bi bi-folder fs-3" style="color: #ff6700;"></a>
+                <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3 ;"></a>
+                <a href="" class="bi bi-folder fs-3" style="color: #1356b3 ;"></a>
             </div>
         </div>
     </div>
