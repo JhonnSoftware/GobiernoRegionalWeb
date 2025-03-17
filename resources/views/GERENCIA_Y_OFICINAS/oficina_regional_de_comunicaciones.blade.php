@@ -10,7 +10,7 @@
             width: 100%;
             height: 340px;
             background: linear-gradient(to left, rgba(204, 204, 204, 0.4), rgba(0, 14, 139, 0.9)),
-            url('images/Gobierno_Regional_Junin.jpg') no-repeat;
+                url('images/Gobierno_Regional_Junin.jpg') no-repeat;
             background-size: cover;
             background-position: 50% 35%;
             display: flex;
@@ -29,17 +29,24 @@
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
 
-        
         .container {
             display: flex;
             align-items: center;
             justify-content: center;
-            max-width: 1000px;
+            max-width: 1200px;
             margin: 50px auto;
             background: #fff;
-            padding: 20px;
+            padding: 80px;
         }
-         .sidebar {
+
+        .divider {
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
+        }
+
+        .sidebar {
             align-self: flex-start;
             width: 30%;
             background: #fff;
@@ -47,7 +54,7 @@
         }
 
         .sidebar h2 {
-            color: #ff6700;
+            color: #ff6801;
             font-size: 20px;
         }
 
@@ -70,20 +77,7 @@
         }
 
         .sidebar ul li a:hover {
-            color: #ff6700;
-        }
-
-        .logo img {
-            width: 400px;
-            height: 550px;
-            border-radius: 15px;
-        }
-
-        .divider {
-            width: 2px;
-            background-color: #ccc;
-            height: 500px;
-            margin: 0 10px;
+            color: #ff6801;
         }
 
         .mensaje {
@@ -100,16 +94,27 @@
             color: #333;
             line-height: 1.6;
         }
+
+        .divider {
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
+        }
+
+        /*prueba*/
         .contenedor-mv {
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 10px; /* Espaciado entre Misión y Visión */
-            max-width: 1000px;
+            gap: 10px;
+            max-width: 1200px;
             margin: 50px auto;
         }
-        .container1, .container2 {
-            flex: 1; /* Ambos ocupan el mismo ancho */
+
+        .container1,
+        .container2 {
+            flex: 1;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -118,11 +123,13 @@
             height: 400px;
             text-align: center;
         }
+
         .container1 {
-            background: #ff660047;
+            background: #ff6701af;
         }
+
         .container2 {
-            background: #12b3605f;
+            background: #1155b488;
         }
     </style>
 
@@ -132,8 +139,8 @@
 
     <div class="container">
         <div class="mensaje">
-            <h2>LIC. FLOR BEHTSI ASPARREN BROCOS</h2>
-            <p>
+            <h2 style="font-weight:bold; color:#1256b0; text-align: center;">LIC. FLOR BEHTSI ASPARREN BROCOS</h2>
+            <p style="font-weight: bold; font-size: 19px; color: #ff6700; text-align: center;">
                 fasparren@regionjunin.gob.pe
             </p>
             <p>
@@ -178,14 +185,14 @@
         <div class="container2">
             <div class="texto">
                 <h2>VISIÓN</h2>
-                <p>“Aspiramos ser la mejor oficina regional de comunicaciones a nivel regional que este a la altura de los requerimientos más exigentes de los ciudadanos y unidades orgánicas para manejar una buena comunicación y entendimiento. ”</p>
+                <p style="text-align: justify; margin: 0 30px;">“Aspiramos ser la mejor oficina regional de comunicaciones a nivel regional que este a la altura de los requerimientos más exigentes de los ciudadanos y unidades orgánicas para manejar una buena comunicación y entendimiento. ”</p>
             </div>
             <img src="images/visionicon.png"style="width: 30%; height:  40%;">
         </div>
         <div class="container1">
             <div class="texto">
                 <h2>MISIÓN</h2>
-                <p>“Nuestro trabajo en comunicaciones facilitara el logro de los objetivos de las unidades orgánicas para mantener debidamente informa a la ciudadanía además generar espacios a través de programas, proyectos y actividades para difundir el avance de la gestión regional.”</p>  
+                <p style="text-align: justify; margin: 0 30px;">“Nuestro trabajo en comunicaciones facilitara el logro de los objetivos de las unidades orgánicas para mantener debidamente informa a la ciudadanía además generar espacios a través de programas, proyectos y actividades para difundir el avance de la gestión regional.”</p>  
             </div>
             <img src="images/misionicon.png" style="width: 45%; height:  45%;">
         </div>

@@ -93,55 +93,57 @@
     </style>
 
     <div class="banner">
-        <h1>VIDEOS</h1>
+        <h1>TRANSMICIONES</h1>
     </div>
 
     <div class="header-alert text-center">
-        <strong>VIDEOS RECIENTES DE NUESTRO CANAL OFICIAL DE YOUTUBE</strong><br>
+        <strong>TRANSMICIONES RECIENTES DE NUESTRA PAGINA DE FACEBOOK</strong><br>
     </div>
 
     <div class="container">
         <div class="row g-3">
             <div class="col-md-4">
                 <div class="card">
-                    <iframe src="https://www.youtube.com/embed/knJAwhkFNAo" allowfullscreen></iframe>
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100066497738582/videos/9298964023548329" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <iframe src="https://www.youtube.com/embed/1_EzIX5uBP8" allowfullscreen></iframe>
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100066497738582/videos/951106187180200" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <iframe src="https://www.youtube.com/embed/w_KnCdfYONY" allowfullscreen></iframe>
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100066497738582/videos/505588319041003" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <iframe src="https://www.youtube.com/embed/28F3Ug0mqLE" allowfullscreen></iframe>
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100066497738582/videos/1290156088720234" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <iframe src="https://www.youtube.com/embed/QRi8ETL0JwY" allowfullscreen></iframe>
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100066497738582/videos/614363418088380" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <iframe src="https://www.youtube.com/embed/T39QTzy-3hU" allowfullscreen></iframe>
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/100066497738582/videos/1169688731204113" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
     </div>
 
     <div class="header-alert text-center">
-        <strong>PARA VER EL RESTO DE NUESTROS VIDEOS, VISITE NUESTRO CANAL EN YOUTUBE</strong><br>
+        <strong>PARA VER EL RESTO DE LAS TRANSMICIONES, VISITE NUESTRO PAGINA DE FACEBOOK</strong><br>
     </div>
 
     <!-- Cuadro con el logo de YouTube con enlace -->
-    <a href="https://www.youtube.com/@gob.regionjunin" target="_blank" class="youtube-box" style="background: #cf2227">
-        <img src="images/youtube_logo.png" alt="YouTube" style="width: 150px; height: 150px;">
-    </a>
+    <div style="display: flex; justify-content: center; align-items: center; margin: -50px;">
+        <a href="https://www.facebook.com/GReJunin" target="_blank" class="facebook-box">
+            <img src="images/facebook_logo.png" alt="Facebook" style="width: 350px; height: 350px;">
+        </a>
+    </div>
 
 @endsection

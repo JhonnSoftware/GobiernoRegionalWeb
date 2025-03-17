@@ -133,6 +133,7 @@
         bottom: -1.5rem;
         opacity: 0;
         pointer-events: none;
+        text-decoration: none;
         transition: transform .4s, opacity .4s;
         }
 

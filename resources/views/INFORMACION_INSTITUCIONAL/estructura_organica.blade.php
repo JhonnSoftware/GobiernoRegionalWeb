@@ -44,49 +44,24 @@
     <div class="banner">
         <h1>ESTRUCTURA ORGANICA</h1>
     </div>
-    <div class="pdf-container mt-5">
-        <iframe class="pdf-viewer" src="pdf/GRJ-1954154fe1cf95944f7d0b2814d8f5268a9d3c.pdf" frameborder="0"></iframe>
-    </div>
-    <div class="container mt-5" style="display: flex; align-content: center; justify-content: center;">
-        <div class="card shadow" style="width: 1100px;">
-            <div class="card-body" style="background: rgb(216, 216, 216);">
-                <table class="table table-hover align-middle">
-                    <thead class="table-dark">
-                        <tr>
-                            <th scope="col">Tipo</th>
-                            <th scope="col">Nombre</th>
-                            <th scope="col" class="text-center">Descargar</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @php
-                            $pdfs = [
-                                ['name' => 'Estructura Orgánica', 'size' => '1.4 MB', 'date' => '30/05/2023', 'path' => 'pdfs/estructura_organica.pdf'],
-                                ['name' => 'Reglamento Interno', 'size' => '2.1 MB', 'date' => '15/06/2023', 'path' => 'pdfs/reglamento_interno.pdf'],
-                                ['name' => 'Manual de Procedimientos', 'size' => '3.5 MB', 'date' => '10/07/2023', 'path' => 'pdfs/manual_procedimientos.pdf']
-                            ];
-                        @endphp
 
-                        @foreach ($pdfs as $pdf)
-                            <tr>
-                                <td>
-                                    <img src="{{ asset('images/pdf-icon.png') }}" alt="PDF" class="me-2" width="24" height="24">
-                                    PDF
-                                </td>
-                                <td>
-                                    <strong>{{ $pdf['name'] }}</strong>
-                                    <p class="text-muted small mb-0">{{ $pdf['date'] }} — {{ $pdf['size'] }}</p>
-                                </td>
-                                <td class="text-center">
-                                    <a href="{{ asset($pdf['path']) }}" target="_blank" class="btn btn-outline-primary btn-sm">
-                                        <i class="bi bi-download"></i> Descargar
-                                    </a>
-                                </td>
-                            </tr>
-                        @endforeach
-                    </tbody>
-                </table>
+    <div class="d-flex justify-content-center mt-5 ">
+        <div style="width: 1200px; min-width: 1200px;">
+            <iframe class="w-100" src="pdf/GRJ-1954154fe1cf95944f7d0b2814d8f5268a9d3c.pdf" 
+                style="height: 600px; border-radius: 15px;"></iframe>
+        </div>
+    </div>
+
+    <div class="container mt-4 d-flex justify-content-center">
+        <div class="d-flex align-items-center border p-3 rounded shadow-sm" 
+            style="width: 1200px; min-width: 1200px;">
+            <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF Icon" width="40" class="me-3">
+            <div class="flex-grow-1">
+                <p class="mb-1 fw-bold">Estructura Orgánica</p>
+                <a href="pdf/GRJ-1954154fe1cf95944f7d0b2814d8f5268a9d3c.pdf" class="text-decoration-none fw-semibold" download style="color: #1255b3;">Descargar PDF</a>
             </div>
         </div>
     </div>
+
+    
 @endsection

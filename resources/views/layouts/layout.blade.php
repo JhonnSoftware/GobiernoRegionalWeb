@@ -435,7 +435,7 @@
                     <ul>
                         <li><a href="{{ url('oportunidades_laborales') }}">Oportunidades Laborales</a>
                         </li>
-                        <li><a href="{{ url('libro_de_reclamaciones') }}">Libro de reclamaciones</a>
+                        <li><a href="https://reclamos.servicios.gob.pe/">Libro de reclamaciones</a>
                         </li>
                         <li><a href="{{ url('denuncia_posibles_actos_de_soborno') }}">Denuncia posibles actos de
                                 soborno</a></li>
@@ -447,6 +447,7 @@
                         <li><a href="{{ url('manual_identidad_corporativa') }}">Manualde identidad coorporativa</a></li>
                         <li><a href="{{ url('noticias') }}">Noticias</a></li>
                         <li><a href="{{ url('reproducciones') }}">Videos</a></li>
+                        <li><a href="{{ url('transmiciones') }}">Transmiciones</a></li>
                         <li><a href="{{ url('galerias_fotograficas') }}">Galerias Fotograficas</a></li>
                     </ul>
                 </li>

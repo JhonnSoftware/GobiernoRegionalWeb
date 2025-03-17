@@ -30,12 +30,19 @@
 
         .container {
             display: flex;
-            align-items:center;
+            align-items: center;
             justify-content: center;
-            max-width: 1000px;
+            max-width: 1200px;
             margin: 50px auto;
             background: #fff;
-            padding: 20px;
+            padding: 80px;
+        }
+        
+        .divider {
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
         }
         .sidebar {
             align-self: flex-start;
@@ -68,7 +75,7 @@
         }
 
         .sidebar ul li a:hover {
-            color: #e91e63;
+            color: #ff6801;
         }
 
         .content {
@@ -76,25 +83,14 @@
             padding: 20px;
         }
 
-        .content p{
+        .content p {
             text-align: justify;
-        }
-
-        h1 {
-            font-size: 26px;
-            color: #222;
-        }
-
-        h2 {
-            font-size: 20px;
-            color: #333;
-            margin-top: 20px;
         }
 
         p {
             font-size: 16px;
             line-height: 1.6;
-            color: #555;
+            color: #333;
         }
 
         .functions {
@@ -122,12 +118,6 @@
             margin-right: 5px;
         }
 
-        .divider {
-                    width: 2px;
-                    background-color: #ccc;
-                    height: 500px;
-                    margin: 0 60px;
-        }
     </style>
     <div class="banner">
         <h1>CONSEJO DE COORDINACION<br>REGIONAL</h1>
@@ -137,7 +127,7 @@
     <div class="container">
         <main class="content">
 
-            <h1 style="font-weight:bold; color:#1256b0; font-size:35px;">¿QUÉ ES UN CONSEJO DE COORDINACIÓN REGIONAL?</h1>
+            <h1 style="font-weight:bold; color:#1256b0; font-size:35px; text-align:center;">¿QUÉ ES UN CONSEJO DE COORDINACIÓN REGIONAL?</h1>
             <p>
                 El Consejo de Coordinación Regional, es un Órgano consultivo y de coordinación del Gobierno Regional con las
                 Municipalidades. Está integrado por los Alcaldes Provinciales y por los representantes de la sociedad Civil,

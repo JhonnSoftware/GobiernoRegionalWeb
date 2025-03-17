@@ -10,7 +10,7 @@
             width: 100%;
             height: 340px;
             background: linear-gradient(to left, rgba(204, 204, 204, 0.4), rgba(0, 14, 139, 0.9)),
-            url('images/Gobierno_Regional_Junin.jpg') no-repeat;
+                url('images/Gobierno_Regional_Junin.jpg') no-repeat;
             background-size: cover;
             background-position: 50% 35%;
             display: flex;
@@ -33,12 +33,19 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            max-width: 1000px;
+            max-width: 1200px;
             margin: 50px auto;
             background: #fff;
-            padding: 20px;
+            padding: 80px;
         }
-         .sidebar {
+
+        .divider {
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
+        }
+        .sidebar {
             align-self: flex-start;
             width: 30%;
             background: #fff;
@@ -46,7 +53,7 @@
         }
 
         .sidebar h2 {
-            color: #ff6700;
+            color: #ff6801;
             font-size: 20px;
         }
 
@@ -69,20 +76,7 @@
         }
 
         .sidebar ul li a:hover {
-            color: #ff6700;
-        }
-
-        .logo img {
-            width: 400px;
-            height: 550px;
-            border-radius: 15px;
-        }
-
-        .divider {
-            width: 2px;
-            background-color: #ccc;
-            height: 500px;
-            margin: 0 10px;
+            color: #ff6801;
         }
 
         .mensaje {
@@ -99,7 +93,14 @@
             color: #333;
             line-height: 1.6;
         }
-        
+
+        .divider {
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
+        }
+
     </style>
 
     <div class="banner">
@@ -108,15 +109,15 @@
 
     <div class="container">
         <div class="mensaje">
-            <h2>ING. MIGUEL ANGEL RIVERA PORRAS</h2>
-            <p>
+            <h2 style="font-weight:bold; color:#1256b0; text-align: center;">ING. MIGUEL ANGEL RIVERA PORRAS</h2>
+            <p style="font-weight: bold; font-size: 19px; color: #ff6700; text-align: center;">
                 mrivera@regionjunin.gob.pe
             </p>
-            <p>
+            <p style="text-align: justify;">
                 La Gerencia Regional de Desarrollo Económico está encargada de conducir las acciones específicas regionales en materia de industria, comercio, turismo, artesanía, pesquería, minería, energía e hidrocarburos, pequeña y microempresa y agricultura promoviendo las exportaciones, la promoción de la inversión privada, la productividad y competitividad regional.         
             </p>
             <h3>Funciones</h3>
-                <ul>
+                <ul style="text-align: justify;">
                     <li>Formular, ejecutar y evaluar, los planes y políticas en materia de desarrollo económico regional.</li>
                     <li>Participar en el Comité de Coordinación de Gerencia convocado por la Gobernación Regional.</li>
                     <li>Ejecutar los recursos financieros, logísticos, bienes y activos, optimizando las capacidades humanas necesarias para la gestión gerencial, con arreglo a la normatividad.</li>

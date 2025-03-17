@@ -48,6 +48,6 @@
         <h1>LIBRO DE RECLAMACIONES</h1>
     </div>
     <div class="iframe-container">
-        <iframe src="https://reclamos.servicios.gob.pe/?institution_id=108" frameborder="0"></iframe>
+        <iframe src="https://reclamos.servicios.gob.pe/" frameborder="0"></iframe>
     </div>
 @endsection

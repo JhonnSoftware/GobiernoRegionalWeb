@@ -278,9 +278,7 @@ Route::get('directorio_regional', function(){
 Route::get('oportunidades_laborales', function(){
     return view('SERVICIOS_EN_LINEA.oportunidades_laborales');
 });
-Route::get('libro_de_reclamaciones', function(){
-    return view('SERVICIOS_EN_LINEA.libro_de_reclamaciones');
-});
+
 Route::get('denuncia_posibles_actos_de_soborno', function(){
     return view('SERVICIOS_EN_LINEA.denuncia_posibles_actos_de_soborno');
 });
@@ -297,6 +295,9 @@ Route::get('noticias', function(){
 });
 Route::get('reproducciones', function(){
     return view('IMAGEN_INSTITUCIONAL.reproducciones');
+});
+Route::get('transmiciones', function(){
+    return view('IMAGEN_INSTITUCIONAL.transmiciones');
 });
 Route::get('galerias_fotograficas', function(){
     return view('IMAGEN_INSTITUCIONAL.galerias_fotograficas');

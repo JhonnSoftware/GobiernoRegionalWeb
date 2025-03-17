@@ -29,17 +29,22 @@
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
 
-
         .container {
             display: flex;
             align-items: center;
             justify-content: center;
-            max-width: 1000px;
+            max-width: 1200px;
             margin: 50px auto;
             background: #fff;
-            padding: 20px;
+            padding: 80px;
         }
 
+        .divider {
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
+        }
         .sidebar {
             align-self: flex-start;
             width: 30%;
@@ -48,7 +53,7 @@
         }
 
         .sidebar h2 {
-            color: #ff6700;
+            color: #ff6801;
             font-size: 20px;
         }
 
@@ -71,20 +76,7 @@
         }
 
         .sidebar ul li a:hover {
-            color: #ff6700;
-        }
-
-        .logo img {
-            width: 400px;
-            height: 550px;
-            border-radius: 15px;
-        }
-
-        .divider {
-            width: 2px;
-            background-color: #ccc;
-            height: 500px;
-            margin: 0 10px;
+            color: #ff6801;
         }
 
         .mensaje {
@@ -101,6 +93,13 @@
             color: #333;
             line-height: 1.6;
         }
+
+        .divider {
+            width: 2px;
+            background-color: #ccc;
+            height: 500px;
+            margin: 0 60px;
+        }
     </style>
 
     <div class="banner">
@@ -108,8 +107,8 @@
     </div>
     <div class="container">
         <div class="mensaje">
-            <h2>LIC. ELVIRO LUIS CALDERON YACHACHI </h2>
-            <p>ecalderon@regionjunin.gob.pe</p>
+            <h2 style="font-weight:bold; color:#1256b0; text-align: center;">LIC. ELVIRO LUIS CALDERON YACHACHI </h2>
+            <p style="font-weight: bold; font-size: 19px; color: #ff6700; text-align: center;">ecalderon@regionjunin.gob.pe</p>
             <p>
                 La Dirección Regional de Archivo está dirigida por un Director Regional, quien es designado por el
                 Gobernador Regional.

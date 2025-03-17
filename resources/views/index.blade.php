@@ -54,21 +54,27 @@
                         <li><a href="{{ url('gobernador_regional') }}">Gobernador Regional</a></li>
                         <li><a href="#">Consejo Regional</a>
                             <ul>
-                                <li><a href="{{ url('directorio_de_consejeros_regionales') }}">Directorio de consejeros Regionales</a></li>
-                                <li><a href="{{ url('reglamento_interno_de_consejo_regional') }}">Reglamento Interno del Consejo Regional</a></li>
+                                <li><a href="{{ url('directorio_de_consejeros_regionales') }}">Directorio de consejeros
+                                        Regionales</a></li>
+                                <li><a href="{{ url('reglamento_interno_de_consejo_regional') }}">Reglamento Interno del
+                                        Consejo Regional</a></li>
                                 <li><a href="{{ url('acuerdos_regionales') }}">Acuerdos Regionales</a></li>
-                                <li><a href="{{ url('actas_de_sesiones_ordinarias') }}">Actas de sesiones Ordinarias</a></li>
-                                <li><a href="{{ url('actas_de_sesiones_extraordinarias') }}">Actas de sesiones Extraordinarias</a></li>
+                                <li><a href="{{ url('actas_de_sesiones_ordinarias') }}">Actas de sesiones Ordinarias</a>
+                                </li>
+                                <li><a href="{{ url('actas_de_sesiones_extraordinarias') }}">Actas de sesiones
+                                        Extraordinarias</a></li>
                             </ul>
                         </li>
-                        <li><a href="{{ url('consejo_de_coordinacion_regional') }}">Consejo de Coordinacion Regional</a></li>
+                        <li><a href="{{ url('consejo_de_coordinacion_regional') }}">Consejo de Coordinacion Regional</a>
+                        </li>
                         <li><a href="{{ url('actividades_oficiales') }}">Actividades Oficiales</a></li>
                     </ul>
                 </li>
                 <li><a href="#"> GERENCIAS <br> Y OFICINAS </a>
                     <ul>
                         <li><a href="{{ url('gerencia_general_regional') }}">Gerencia General Regional</a></li>
-                        <li><a href="{{ url('gerencias_y_oficinas_regionales') }}">Gerencias y Oficinas Regionales</a></li>
+                        <li><a href="{{ url('gerencias_y_oficinas_regionales') }}">Gerencias y Oficinas Regionales</a>
+                        </li>
                         <li><a href="{{ url('direcciones_regionales') }}">Directorio Regionales</a></li>
                         <li><a href="{{ url('procaduria_publica_regional') }}">procuraduria publica regional</a></li>
                         <li><a href="{{ url('directorio_regional') }}">Directorio Regional</a></li>
@@ -100,76 +106,55 @@
                         </li>
                         <li><a href="#">Documentos de Gestion</a>
                             <ul>
-                                <li><a
-                                        href="{{ url('CAP') }}">CAP</a>
+                                <li><a href="{{ url('CAP') }}">CAP</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('MAPRO') }}">MAPRO</a>
+                                <li><a href="{{ url('MAPRO') }}">MAPRO</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('MOF') }}">MOF</a>
+                                <li><a href="{{ url('MOF') }}">MOF</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('PAC') }}">PAC</a>
+                                <li><a href="{{ url('PAC') }}">PAC</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('PAP') }}">PAP</a>
+                                <li><a href="{{ url('PAP') }}">PAP</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('PDRC') }}">PDRC</a>
+                                <li><a href="{{ url('PDRC') }}">PDRC</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('PEI') }}">PEI</a>
+                                <li><a href="{{ url('PEI') }}">PEI</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('POI') }}">POI</a>
+                                <li><a href="{{ url('POI') }}">POI</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('RIT') }}">RIT</a>
+                                <li><a href="{{ url('RIT') }}">RIT</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('ROF') }}">ROF</a>
+                                <li><a href="{{ url('ROF') }}">ROF</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('TUPA') }}">TUPA</a>
+                                <li><a href="{{ url('TUPA') }}">TUPA</a>
                                 </li>
                             </ul>
                         </li>
                         <li><a href="#">Normatividad Regional</a>
                             <ul>
-                                <li><a
-                                        href="{{ url('convenios_y_adendas') }}">Convenios
+                                <li><a href="{{ url('convenios_y_adendas') }}">Convenios
                                         y Adendas</a></li>
-                                <li><a
-                                        href="{{ url('contratos') }}">Contratos</a>
+                                <li><a href="{{ url('contratos') }}">Contratos</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('decretos_regionales') }}">Decretos
+                                <li><a href="{{ url('decretos_regionales') }}">Decretos
                                         Regionales</a></li>
-                                <li><a
-                                        href="{{ url('directivas_regionales') }}">Directivas
+                                <li><a href="{{ url('directivas_regionales') }}">Directivas
                                         Regionales</a></li>
-                                <li><a
-                                        href="{{ url('ordenanzas_regionales') }}">Ordenanzas
+                                <li><a href="{{ url('ordenanzas_regionales') }}">Ordenanzas
                                         Regionales</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Resoluciones Gerenciales</a>
                             <ul>
-                                <li><a
-                                        href="{{ url('resoluciones_gerencia_general_regional') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_gerencia_general_regional') }}">Resoluciones
                                         de Gerencia General Regional</a></li>
-                                <li><a
-                                        href="{{ url('resoluciones_secretaria_regional') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_secretaria_regional') }}">Resoluciones
                                         de Secretaria General</a></li>
-                                <li><a
-                                        href="{{ url('resoluciones_gerenciales_regionales_desarrollo_economico') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_gerenciales_regionales_desarrollo_economico') }}">Resoluciones
                                         gerenciales regionales de Desarrollo Economico</a></li>
-                                <li><a
-                                        href="{{ url('resoluciones_gerenciales_regionales_desarrollo_social') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_gerenciales_regionales_desarrollo_social') }}">Resoluciones
                                         gerenciales regionales de Desarrollo Social</a></li>
-                                <li><a
-                                        href="{{ url('resoluciones_gerenciales_regionales_infraestructura') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_gerenciales_regionales_infraestructura') }}">Resoluciones
                                         gerenciales regionales de Infraestructura</a></li>
                                 <li><a
                                         href="{{ url('resoluciones_gerenciales_regionales_recursos_naturales_gestion_medio_ambiente') }}">Resoluciones
@@ -182,52 +167,40 @@
                         </li>
                         <li><a href="#">Resoluciones Directorales</a>
                             <ul>
-                                <li><a
-                                        href="{{ url('resoluciones_directorales') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_directorales') }}">Resoluciones
                                         Directorales</a></li>
-                                <li><a
-                                        href="{{ url('resoluciones_directorales_administrativas') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_directorales_administrativas') }}">Resoluciones
                                         Directorales Adminisrativas</a></li>
-                                <li><a
-                                        href="{{ url('resoluciones_sub_directorales_administrativas') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_sub_directorales_administrativas') }}">Resoluciones
                                         Sub Directorales Administrativas</a></li>
                                 <li><a
                                         href="{{ url('resoluciones_directorales_oficina_regional_desarrollo_institucional_y_tecnologias_informacion') }}">Resoluciones
                                         Directorales de la oficina regional de desarrollo insitutcional y tecnologias de
                                         la informacion</a></li>
-                                <li><a
-                                        href="{{ url('resoluciones_ejecutivas_regionales') }}">Resoluciones
+                                <li><a href="{{ url('resoluciones_ejecutivas_regionales') }}">Resoluciones
                                         Ejecutivas Regionales</a></li>
                                 <li><a
                                         href="{{ url('resoluciones_directorales_direccion_regional_trabajo_promocion_empleo') }}">Resoluciones
                                         Directorales de la direccion regional de trabajo y pormocion del empleo</a></li>
-                                <li><a
-                                        href="{{ url('otras_resoluciones') }}">Otras
+                                <li><a href="{{ url('otras_resoluciones') }}">Otras
                                         Resoluciones</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Informacion Adicional</a>
                             <ul>
-                                <li><a
-                                        href="{{ url('audiencias_publicas') }}">Audencias
+                                <li><a href="{{ url('audiencias_publicas') }}">Audencias
                                         Publicas</a></li>
-                                <li><a
-                                        href="{{ url('concorej') }}">CONCOREJ</a>
+                                <li><a href="{{ url('concorej') }}">CONCOREJ</a>
                                 </li>
-                                <li><a
-                                        href="{{ url('declaraciones_juradas_bienes_y_rentas') }}">Declaraciones
+                                <li><a href="{{ url('declaraciones_juradas_bienes_y_rentas') }}">Declaraciones
                                         Juradas de Bienes y Rentas</a></li>
-                                <li><a
-                                        href="{{ url('informes_auditoria') }}">Informes
+                                <li><a href="{{ url('informes_auditoria') }}">Informes
                                         de Auditoria</a></li>
-                                <li><a
-                                        href="{{ url('memoria_anual') }}">Memoria
+                                <li><a href="{{ url('memoria_anual') }}">Memoria
                                         Anual</a></li>
-                                <li><a
-                                        href="{{ url('presupuesto_participativo') }}">Presupuesto
+                                <li><a href="{{ url('presupuesto_participativo') }}">Presupuesto
                                         Participativo</a></li>
-                                <li><a
-                                        href="{{ url('plan_de_prevencion_ante_desastres') }}">Plan
+                                <li><a href="{{ url('plan_de_prevencion_ante_desastres') }}">Plan
                                         de Prevencion ante desastres</a></li>
                             </ul>
                         </li>
@@ -237,7 +210,7 @@
                     <ul>
                         <li><a href="{{ url('oportunidades_laborales') }}">Oportunidades Laborales</a>
                         </li>
-                        <li><a href="{{ url('libro_de_reclamaciones') }}">Libro de reclamaciones</a>
+                        <li><a href="https://reclamos.servicios.gob.pe/">Libro de reclamaciones</a>
                         </li>
                         <li><a href="{{ url('denuncia_posibles_actos_de_soborno') }}">Denuncia posibles actos de
                                 soborno</a></li>
@@ -246,9 +219,11 @@
                 </li>
                 <li><a href="#"> IMAGEN <br> INSTITUCIONAL </a>
                     <ul>
-                        <li><a href="{{ url('manual_identidad_corporativa') }}">Manualde identidad coorporativa</a></li>
+                        <li><a href="{{ url('manual_identidad_corporativa') }}">Manualde identidad coorporativa</a>
+                        </li>
                         <li><a href="{{ url('noticias') }}">Noticias</a></li>
                         <li><a href="{{ url('reproducciones') }}">Videos</a></li>
+                        <li><a href="{{ url('transmiciones') }}">Transmiciones</a></li>
                         <li><a href="{{ url('galerias_fotograficas') }}">Galerias Fotograficas</a></li>
                     </ul>
                 </li>
@@ -264,8 +239,8 @@
         </div>
         <div class="britransmission">
             <a href="https://www.regionjunin.gob.pe/pagina/id/region_en_accion/">
-                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor"
-                    viewBox="0 0 24 24">
+                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="50" height="50"
+                    fill="currentColor" viewBox="0 0 24 24">
                     <path
                         d="M6 2c-1.10457 0-2 .89543-2 2v4c0 .55228.44772 1 1 1s1-.44772 1-1V4h12v7h-2c-.5523 0-1 .4477-1 1v2h-1c-.5523 0-1 .4477-1 1s.4477 1 1 1h5c.5523 0 1-.4477 1-1V3.85714C20 2.98529 19.3667 2 18.268 2H6Z" />
                     <path
@@ -340,7 +315,8 @@
             <p>CORREO</br>INSTITUCIONAL</p>
         </div>
         <div class="bributton-container">
-            <a href="https://observatorioviolenciajunin.pe/" class="circle-button"><i class="fa-solid fa-eye"></i></a>
+            <a href="https://observatorioviolenciajunin.pe/" class="circle-button"><i
+                    class="fa-solid fa-eye"></i></a>
             <p>OBSERVATORIO<br>REGIONAL<br>JUNIN</p>
         </div>
         <div class="bributton-container">
@@ -417,128 +393,147 @@
         <div class="noticias-swiper swiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="card">
-                        <div class="card-fecha-01"
-                            style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
-                            <i class="bi bi-list"></i> Hace 2 semanas
+                    <a href="#" style="text-decoration: none; padding:0px; border:none;">
+                        <div class="card">
+                            <div class="card-fecha-01"
+                                style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
+                                <i class="bi bi-list"></i> Hace 2 semanas
+                            </div>
+                            <img src="img_NOTICIAS/nueva_ugel.jpeg" alt="">
+                            <div class="card-categoria-01"
+                                style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
+                                <i class="bi bi-list-ul"></i> Educación
+                            </div>
+                            <h2>NUEVA UGEL RÍO TAMBO ABRIRÁ SUS PUERTAS EL 11 DE FEBRERO</h2>
+                            <p>Gobernador regional confirma fecha para iniciar operaciones:
+                                Infraestructura edificada por el Gobierno Regional, beneficiará a más de 10 mil
+                                estudiantes
+                                del VRAEM
+                                Con el objetivo de reforzar el seguimiento pedagógico a más de 10 mil niños y niñas de
+                                la
+                                zona del VRAEM, se anunció la inauguración de la nueva sede de la UGEL Río Tambo,
+                                programada
+                                para el próximo 11 de febrero. Esta infraestructura reemplazará a la antigua sede,
+                                destruida
+                                por un huaico en 2017, que desde entonces operaba en módulos prefabricados.
+                                El gobernador regional, Zósimo Cárdenas, confirmó la fecha durante una inspección
+                                inopinada
+                                al avance de la obra, acompañado por consejeros de la selva central. “Este proyecto
+                                esperado
+                                por años permitirá garantizar un mejor servicio educativo para la región. Ha llegado el
+                                momento de poner en marcha la UGEL Río Tambo”, destacó.
+                                El nuevo local optimizará el monitoreo educativo de 280 instituciones públicas, y
+                                contribuirá a mejorar la calidad educativa en una zona prioritaria. El director de la
+                                UGEL,
+                                Raúl Vidal Porras, subrayó la importancia de este avance para el futuro de las
+                                comunidades
+                                locales.
+                            </p>
                         </div>
-                        <img src="img_NOTICIAS/nueva_ugel.jpeg" alt="">
-                        <div class="card-categoria-01"
-                            style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
-                            <i class="bi bi-list-ul"></i> Educación
+                    </a>
+                </div>
+
+                <div class="swiper-slide">
+                    <a href="#" style="text-decoration: none; padding:0px; border:none;">
+                        <div class="card">
+                            <div class="card-fecha-02"
+                                style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
+                                <i class="bi bi-list"></i> Hace 2 semanas
+                            </div>
+                            <img src="img_NOTICIAS/defensa_riberena.jpeg" alt="">
+                            <div class="card-categoria-01"
+                                style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
+                                <i class="bi bi-list-ul"></i> Obras
+                            </div>
+                            <h2>ENTREGAN DEFENSA RIBEREÑA EN EL POBLADO DE CHALHUAPUQUIO</h2>
+                            <p>El gobernador regional de Junín, Zósimo Cárdenas, junto con el consejero Yoner Ambicho,
+                                inauguró la defensa ribereña en el poblado de Chalhuapuquio, distrito de San Ramón. Esta
+                                obra, destinada a proteger los sembríos y bienes de la población local, forma parte de los
+                                esfuerzos para mitigar los efectos de fenómenos naturales en la zona.
+                                Durante el evento, los pobladores aprovecharon la ocasión para plantear diversas solicitudes
+                                al mandatario regional, manifestando a la vez llegada a dicho poblado. En respuesta,
+                                Cárdenas anunció la próxima intervención en carreteras agrarias mediante el uso de
+                                maquinaria pesada, así como la entrega de 200 bolsas de cemento, en el marco de las acciones
+                                de descentralización en la selva central.
+                            </p>
                         </div>
-                        <h2>NUEVA UGEL RÍO TAMBO ABRIRÁ SUS PUERTAS EL 11 DE FEBRERO</h2>
-                        <p>Gobernador regional confirma fecha para iniciar operaciones:
-                            Infraestructura edificada por el Gobierno Regional, beneficiará a más de 10 mil estudiantes
-                            del VRAEM
-                            Con el objetivo de reforzar el seguimiento pedagógico a más de 10 mil niños y niñas de la
-                            zona del VRAEM, se anunció la inauguración de la nueva sede de la UGEL Río Tambo, programada
-                            para el próximo 11 de febrero. Esta infraestructura reemplazará a la antigua sede, destruida
-                            por un huaico en 2017, que desde entonces operaba en módulos prefabricados.
-                            El gobernador regional, Zósimo Cárdenas, confirmó la fecha durante una inspección inopinada
-                            al avance de la obra, acompañado por consejeros de la selva central. “Este proyecto esperado
-                            por años permitirá garantizar un mejor servicio educativo para la región. Ha llegado el
-                            momento de poner en marcha la UGEL Río Tambo”, destacó.
-                            El nuevo local optimizará el monitoreo educativo de 280 instituciones públicas, y
-                            contribuirá a mejorar la calidad educativa en una zona prioritaria. El director de la UGEL,
-                            Raúl Vidal Porras, subrayó la importancia de este avance para el futuro de las comunidades
-                            locales.
-                        </p>
-                    </div>
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <div class="card">
-                        <div class="card-fecha-02"
-                            style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
-                            <i class="bi bi-list"></i> Hace 2 semanas
+                    <a href="#" style="text-decoration: none; padding:0px; border:none;">
+                        <div class="card">
+                            <div class="card-fecha-03"
+                                style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
+                                <i class="bi bi-list"></i> Hace 2 semanas
+                            </div>
+                            <img src="img_NOTICIAS/vraem_contaran_nuevo_hospital.jpg" alt="">
+                            <div class="card-categoria-03"
+                                style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
+                                <i class="bi bi-list-ul"></i> Salud
+                            </div>
+                            <h2>55 MIL POBLADORES DEL VRAEM CONTARAN CON NUEVO HOSPITAL</h2>
+                            <p>Más de 55 mil habitantes del Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM) pronto tendrán
+                                acceso a atención médica de calidad con la próxima inauguración del Hospital de Pangoa. Este
+                                moderno centro de salud, será entregado durante el segundo semestre de este año, según
+                                confirmó el gobernador regional de Junín, Zósimo Cárdenas, durante una inspección en las
+                                instalaciones.
+                                El proyecto, iniciado en 2016, alcanza un avance del 90% y se encuentra en la fase final, a
+                                la espera de la instalación del equipamiento sanitario. Tras nueve años de espera, este
+                                hospital marcará un antes y un después para las familias satipeñas, acercándolas a servicios
+                                médicos públicos de calidad y garantizando una atención digna y oportuna.
+                            </p>
                         </div>
-                        <img src="img_NOTICIAS/defensa_riberena.jpeg" alt="">
-                        <div class="card-categoria-01"
-                            style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
-                            <i class="bi bi-list-ul"></i> Obras
-                        </div>
-                        <h2>ENTREGAN DEFENSA RIBEREÑA EN EL POBLADO DE CHALHUAPUQUIO</h2>
-                        <p>El gobernador regional de Junín, Zósimo Cárdenas, junto con el consejero Yoner Ambicho,
-                            inauguró la defensa ribereña en el poblado de Chalhuapuquio, distrito de San Ramón. Esta
-                            obra, destinada a proteger los sembríos y bienes de la población local, forma parte de los
-                            esfuerzos para mitigar los efectos de fenómenos naturales en la zona.
-                            Durante el evento, los pobladores aprovecharon la ocasión para plantear diversas solicitudes
-                            al mandatario regional, manifestando a la vez llegada a dicho poblado. En respuesta,
-                            Cárdenas anunció la próxima intervención en carreteras agrarias mediante el uso de
-                            maquinaria pesada, así como la entrega de 200 bolsas de cemento, en el marco de las acciones
-                            de descentralización en la selva central.
-                        </p>
-                    </div>
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <div class="card">
-                        <div class="card-fecha-03"
-                            style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
-                            <i class="bi bi-list"></i> Hace 2 semanas
+                    <a href="#" style="text-decoration: none; padding:0px; border:none;">
+                        <div class="card">
+                            <div class="card-fecha-04"
+                                style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
+                                <i class="bi bi-list"></i> Hace 2 semanas
+                            </div>
+                            <img src="img_NOTICIAS/supervisan_avance_puente_victoria.jpeg" alt="">
+                            <div class="card-categoria-04"
+                                style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
+                                <i class="bi bi-list-ul"></i> Obras
+                            </div>
+                            <h2>REVOLUCIÓN AGRARIA: SUPERVISAN AVANCE DE PUENTE VICTORIA</h2>
+                            <p>Con el objetivo de garantizar el cumplimiento de plazos, el gobernador Zósimo Cárdenas
+                                supervisó in situ el puente Victoria, en San Ramón. Esta infraestructura, esencial para la
+                                Revolución Agraria en la selva central, registra un avance del 90% en la construcción de sus
+                                estructuras en ambos estribos.
+                                La entrega del proyecto está programada para el segundo semestre de este año y su inversión
+                                total asciende a 24.1 millones de soles, impulsado de manera directa el sector agrario y
+                                turístico en selva central.
+                            </p>
                         </div>
-                        <img src="img_NOTICIAS/vraem_contaran_nuevo_hospital.jpg" alt="">
-                        <div class="card-categoria-03"
-                            style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
-                            <i class="bi bi-list-ul"></i> Salud
-                        </div>
-                        <h2>55 MIL POBLADORES DEL VRAEM CONTARAN CON NUEVO HOSPITAL</h2>
-                        <p>Más de 55 mil habitantes del Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM) pronto tendrán
-                            acceso a atención médica de calidad con la próxima inauguración del Hospital de Pangoa. Este
-                            moderno centro de salud, será entregado durante el segundo semestre de este año, según
-                            confirmó el gobernador regional de Junín, Zósimo Cárdenas, durante una inspección en las
-                            instalaciones.
-                            El proyecto, iniciado en 2016, alcanza un avance del 90% y se encuentra en la fase final, a
-                            la espera de la instalación del equipamiento sanitario. Tras nueve años de espera, este
-                            hospital marcará un antes y un después para las familias satipeñas, acercándolas a servicios
-                            médicos públicos de calidad y garantizando una atención digna y oportuna.
-                        </p>
-                    </div>
+                    </a>
                 </div>
                 <div class="swiper-slide">
-                    <div class="card">
-                        <div class="card-fecha-04"
-                            style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
-                            <i class="bi bi-list"></i> Hace 2 semanas
+                    <a href="#" style="text-decoration: none; padding:0px; border:none;">
+                        <div class="card">
+                            <div class="card-fecha-05"
+                                style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
+                                <i class="bi bi-list"></i> Hace 2 semanas
+                            </div>
+                            <img src="img_NOTICIAS/eliminan_criaderos_zancudos_exito.jpeg" alt="">
+                            <div class="card-categoria-05"
+                                style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
+                                <i class="bi bi-list-ul"></i> Salud
+                            </div>
+                            <h2>SELVA CENTRAL: ELIMINAN CRIADEROS DE ZANCUDOS CON ÉXITO</h2>
+                            <p>Con el objetivo de combatir el dengue en el distrito de San Ramón, el equipo técnico de la
+                                Zona Sanitaria, llevó a cabo una jornada exitosa de eliminación de criaderos de zancudos.
+                                Durante la intervención, se identificaron y destruyeron focos de reproducción del mosquito
+                                Aedes aegypti, responsable de la transmisión del dengue.
+                                Esta acción permitió intervenir en zonas críticas, eliminando depósitos de agua acumulada y
+                                sensibilizando a los vecinos sobre la importancia de la prevención. Sin embargo, desafíos
+                                como viviendas cerradas y algunos pobladores renuentes a colaborar limitaron parcialmente el
+                                alcance de la jornada. Ante ello, las autoridades reiteraron la necesidad de la colaboración
+                                comunitaria para mantener espacios libres de criaderos.
+                            </p>
                         </div>
-                        <img src="img_NOTICIAS/supervisan_avance_puente_victoria.jpeg" alt="">
-                        <div class="card-categoria-04"
-                            style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
-                            <i class="bi bi-list-ul"></i> Obras
-                        </div>
-                        <h2>REVOLUCIÓN AGRARIA: SUPERVISAN AVANCE DE PUENTE VICTORIA</h2>
-                        <p>Con el objetivo de garantizar el cumplimiento de plazos, el gobernador Zósimo Cárdenas
-                            supervisó in situ el puente Victoria, en San Ramón. Esta infraestructura, esencial para la
-                            Revolución Agraria en la selva central, registra un avance del 90% en la construcción de sus
-                            estructuras en ambos estribos.
-                            La entrega del proyecto está programada para el segundo semestre de este año y su inversión
-                            total asciende a 24.1 millones de soles, impulsado de manera directa el sector agrario y
-                            turístico en selva central.
-                        </p>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="card">
-                        <div class="card-fecha-05"
-                            style="position: absolute; top: 20px; left: 20px; background: #ef6610; color: white; padding: 5px 10px; font-size: 14px; border-radius: 15px; font-weight: bold;">
-                            <i class="bi bi-list"></i> Hace 2 semanas
-                        </div>
-                        <img src="img_NOTICIAS/eliminan_criaderos_zancudos_exito.jpeg" alt="">
-                        <div class="card-categoria-05"
-                            style="position: absolute; background: #036b37; bottom:150px; right: 10px; color: white; padding: 5px 15px; font-size: 18px; font-weight: bold;">
-                            <i class="bi bi-list-ul"></i> Salud
-                        </div>
-                        <h2>SELVA CENTRAL: ELIMINAN CRIADEROS DE ZANCUDOS CON ÉXITO</h2>
-                        <p>Con el objetivo de combatir el dengue en el distrito de San Ramón, el equipo técnico de la
-                            Zona Sanitaria, llevó a cabo una jornada exitosa de eliminación de criaderos de zancudos.
-                            Durante la intervención, se identificaron y destruyeron focos de reproducción del mosquito
-                            Aedes aegypti, responsable de la transmisión del dengue.
-                            Esta acción permitió intervenir en zonas críticas, eliminando depósitos de agua acumulada y
-                            sensibilizando a los vecinos sobre la importancia de la prevención. Sin embargo, desafíos
-                            como viviendas cerradas y algunos pobladores renuentes a colaborar limitaron parcialmente el
-                            alcance de la jornada. Ante ello, las autoridades reiteraron la necesidad de la colaboración
-                            comunitaria para mantener espacios libres de criaderos.
-                        </p>
-                    </div>
+                    </a>
                 </div>
             </div>
 
@@ -549,11 +544,11 @@
     </div>
 
     <div class="noticias-footer">
-        <a href="https://www.regionjunin.gob.pe/lista_noticias/">TODAS LAS NOTICIAS</a>
+        <a href="{{ url('noticias') }}">TODAS LAS NOTICIAS</a>
     </div>
 
     <script>
-        document.addEventListener("DOMContentLoaded", function () {
+        document.addEventListener("DOMContentLoaded", function() {
             const cards = document.querySelectorAll(".card");
             const tiempo = document.querySelector(".ultima-noticia");
             const noticiaPrincipalImg = document.querySelector(".img-noticia-principal");
@@ -561,7 +556,7 @@
             const noticiaPrincipalContenido = document.querySelector(".contenido-noticia-principal");
 
             cards.forEach(card => {
-                card.addEventListener("click", function () {
+                card.addEventListener("click", function() {
                     // Obtener datos de la tarjeta seleccionada
                     const imgSrc = card.querySelector("img").src;
                     const titulo = card.querySelector("h2").textContent;
@@ -678,7 +673,7 @@
     </div>
 
     <div class="btn-transmisiones">
-        <a href="https://www.youtube.com/@gob.regionjunin">VER TRANSMISIONES</a>
+        <a href="{{ url('transmiciones')}}">VER TRANSMISIONES</a>
     </div>
 
     <!-- VIDEOS INSTITUCIONALES -->
@@ -696,11 +691,13 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div id="videoCarousel" class="card-img bg-dark position-relative">
-                                <video id="videoPlayer" controls width="100%" height="380" controlsList="nodownload">
+                                <video id="videoPlayer" controls width="100%" height="380"
+                                    controlsList="nodownload">
                                     <source src="videos/video1.mp4" type="video/mp4">
                                     Tu navegador no es compatible con el vídeo de HTML5.
                                 </video>
-                                <button id="prevBtn" class="carousel-btn carousel-btn-prev" onclick="changeVideo(-1)">
+                                <button id="prevBtn" class="carousel-btn carousel-btn-prev"
+                                    onclick="changeVideo(-1)">
                                     < </button>
                                         <button id="nextBtn" class="carousel-btn carousel-btn-next"
                                             onclick="changeVideo(1)">></button>
@@ -709,7 +706,9 @@
                         <div class="col-lg-6 px-4 pt-3">
                             <div class="card-body">
                                 <h5 id="videoTitle" class="card-title mb-3 fw-bold">Lorem ipsum dolor sit amet</h5>
-                                <h5 id="videoDescription" style="color: rgb(112, 112, 112);">Lorem ipsum dolor sit amet
+                                <h5 id="videoDescription"
+                                    style="color: rgb(112, 112, 112); font-size: 20px; font-weight: normal; text-align:justify;"
+                                    class="mb-3">Lorem ipsum dolor sit amet
                                     consectetur...</h5>
                                 <h5 id="videoFecha" style="color: #183069;">05 de Abril de 2024</h5>
                             </div>
@@ -723,17 +722,18 @@
     <script>
         /*LISTA DE DATOS PARA LOS VIDEOS */
         const videosData = [{
-            src: 'videos/Manos a la Obra - Puente Cantuta.mp4',
-            title: '🔵🟠🟢 𝐄𝐬𝐭𝐞 𝟐𝟎𝟐𝟒 𝐥𝐚 𝐆𝐞𝐫𝐞𝐧𝐜𝐢𝐚 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐝𝐞 𝐑𝐞𝐜𝐮𝐫𝐬𝐨𝐬 𝐍𝐚𝐭𝐮𝐫𝐚𝐥𝐞𝐬 𝐲 𝐆𝐞𝐬𝐭𝐢𝐨́𝐧 𝐀𝐦𝐛𝐢𝐞𝐧𝐭𝐚𝐥 𝐜𝐨𝐧𝐬𝐨𝐥𝐢𝐝𝐨́ 𝐞𝐬𝐟𝐮𝐞𝐫𝐳𝐨𝐬 𝐜𝐥𝐚𝐯𝐞 𝐞𝐧 𝐥𝐚 𝐜𝐨𝐧𝐬𝐞𝐫𝐯𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐫𝐞𝐜𝐮𝐫𝐬𝐨𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐞𝐬',
-            description: 'Logramos conservar y fortalecer las áreas naturales protegidas, impulsar proyectos de reforestación y mejorar el control del medio ambiente a través de equipos de monitoreo ambiental. Además, avanzamos con el IOARR que consta la adquisición de equipos y herramientas para combatir los incendios forestales. Nuestro compromiso sigue firme en construir un futuro más verde y sostenible para todos. ¡Juntos, seguimos cuidando el medio ambiente!',
-            fecha: '#ElCambioLoHacemosTodos #GobiernoRegionalJunín #ZósimoCárdenas'
-        },
-        {
-            src: 'videos/video49.mp4',
-            title: '¡🔵🟠🟢 EDUCACIÓN PARA EL VRAEM!',
-            description: '🔵🟠🟢 🏫 El gobernador Zósimo Cárdenas entregó un nuevo módulo educativo en Pumabamba, Santo Domingo de Acobamba, beneficiando a niños de 3 a 5 años. Ya son 25 módulos entregados para fortalecer la educación en las zonas más vulnerables. ¡Comprometidos con el futuro!  ',
-            fecha: '#ElCambioLoHacemosTodos #GobiernoRegionalJunín #ZósimoCárdenas'
-        }];
+                src: 'videos/Manos a la Obra - Puente Cantuta.mp4',
+                title: '🔵🟠🟢 𝐄𝐬𝐭𝐞 𝟐𝟎𝟐𝟒 𝐥𝐚 𝐆𝐞𝐫𝐞𝐧𝐜𝐢𝐚 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐝𝐞 𝐑𝐞𝐜𝐮𝐫𝐬𝐨𝐬 𝐍𝐚𝐭𝐮𝐫𝐚𝐥𝐞𝐬 𝐲 𝐆𝐞𝐬𝐭𝐢𝐨́𝐧 𝐀𝐦𝐛𝐢𝐞𝐧𝐭𝐚𝐥 𝐜𝐨𝐧𝐬𝐨𝐥𝐢𝐝𝐨́ 𝐞𝐬𝐟𝐮𝐞𝐫𝐳𝐨𝐬 𝐜𝐥𝐚𝐯𝐞 𝐞𝐧 𝐥𝐚 𝐜𝐨𝐧𝐬𝐞𝐫𝐯𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐫𝐞𝐜𝐮𝐫𝐬𝐨𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐞𝐬',
+                description: 'Logramos conservar y fortalecer las áreas naturales protegidas, impulsar proyectos de reforestación y mejorar el control del medio ambiente a través de equipos de monitoreo ambiental. Además, avanzamos con el IOARR que consta la adquisición de equipos y herramientas para combatir los incendios forestales. Nuestro compromiso sigue firme en construir un futuro más verde y sostenible para todos. ¡Juntos, seguimos cuidando el medio ambiente!',
+                fecha: '#ElCambioLoHacemosTodos #GobiernoRegionalJunín #ZósimoCárdenas'
+            },
+            {
+                src: 'videos/video49.mp4',
+                title: '¡🔵🟠🟢 EDUCACIÓN PARA EL VRAEM!',
+                description: '🔵🟠🟢 🏫 El gobernador Zósimo Cárdenas entregó un nuevo módulo educativo en Pumabamba, Santo Domingo de Acobamba, beneficiando a niños de 3 a 5 años. Ya son 25 módulos entregados para fortalecer la educación en las zonas más vulnerables. ¡Comprometidos con el futuro!  ',
+                fecha: '#ElCambioLoHacemosTodos #GobiernoRegionalJunín #ZósimoCárdenas'
+            }
+        ];
 
         let currentIndex = 0;
 
@@ -746,7 +746,12 @@
                 currentIndex = 0;
             }
 
-            const { src, title, description, fecha } = videosData[currentIndex];
+            const {
+                src,
+                title,
+                description,
+                fecha
+            } = videosData[currentIndex];
 
             const videoPlayer = document.getElementById('videoPlayer');
             videoPlayer.src = src;
@@ -763,7 +768,12 @@
         }
 
         window.onload = () => {
-            const { src, title, description, fecha } = videosData[currentIndex];
+            const {
+                src,
+                title,
+                description,
+                fecha
+            } = videosData[currentIndex];
 
             const videoPlayer = document.getElementById('videoPlayer');
             videoPlayer.src = src;
@@ -821,23 +831,39 @@
     </div>
 
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             $('#inst-02').owlCarousel({
                 items: 6,
                 loop: true,
                 autoplay: true,
-                autoplaySpeed: 5000,  // Velocidad de transición
+                autoplaySpeed: 5000, // Velocidad de transición
                 autoplayTimeout: 8000, // Tiempo entre transiciones
-                autoplayHoverPause: true,  // Pausar cuando se pase el ratón
+                autoplayHoverPause: true, // Pausar cuando se pase el ratón
                 nav: false,
                 dots: false,
-                smartSpeed: 5000,  // Velocidad de transición
+                smartSpeed: 5000, // Velocidad de transición
                 responsive: {
-                    0: { items: 1, margin: 20 },  /* Más separación en celulares */
-                    480: { items: 2, margin: 20 },
-                    768: { items: 3, margin: 25 },
-                    1024: { items: 4, margin: 30 },
-                    1200: { items: 6, margin: 30 } /* Espaciado normal en PC */
+                    0: {
+                        items: 1,
+                        margin: 20
+                    },
+                    /* Más separación en celulares */
+                    480: {
+                        items: 2,
+                        margin: 20
+                    },
+                    768: {
+                        items: 3,
+                        margin: 25
+                    },
+                    1024: {
+                        items: 4,
+                        margin: 30
+                    },
+                    1200: {
+                        items: 6,
+                        margin: 30
+                    } /* Espaciado normal en PC */
                 }
             });
         });
@@ -901,14 +927,14 @@
     <script>
         let jQuery370 = $.noConflict(true);
 
-        jQuery370(document).ready(function ($) {
+        jQuery370(document).ready(function($) {
 
-            $('.social-icon').hover(function () {
+            $('.social-icon').hover(function() {
                 $(this).css({
                     'box-shadow': 'none',
                     'transform': 'rotate(360deg) scale(1.1)'
                 })
-            }, function () {
+            }, function() {
                 $(this).css({
                     'box-shadow': 'box-shadow: 0px 3px 10px rgba(0,0,0,.25)',
                     'transform': 'rotate(0deg) scale(1)'
@@ -924,9 +950,9 @@
                     'display': 'block'
                 });
 
-                $('.nav-item.dropdown').hover(function () {
+                $('.nav-item.dropdown').hover(function() {
                     $(this).find('.menu-hov').stop(true, true).delay(100).fadeIn(200);
-                }, function () {
+                }, function() {
                     $(this).find('.menu-hov').stop(true, true).delay(100).fadeOut(200);
                 });
 
@@ -938,7 +964,7 @@
                 });
 
 
-                $('.nav-link.dropdown-toggle').hover(function () {
+                $('.nav-link.dropdown-toggle').hover(function() {
 
                     $(this).css({
                         /*'font-weight': '500',*/
@@ -946,7 +972,7 @@
                         'border-top': '3px solid rgb(255, 103, 0)'
 
                     });
-                }, function () {
+                }, function() {
 
                     $(this).css({
                         /*'font-weight': '400',*/
@@ -955,13 +981,13 @@
                     });
                 });
 
-                $('.dropdown-item').hover(function () {
+                $('.dropdown-item').hover(function() {
 
                     $(this).css({
                         'background-color': '#ff6700',
 
                     });
-                }, function () {
+                }, function() {
 
                     $(this).css({
                         'background-color': '#fff',
@@ -970,12 +996,12 @@
                 });
 
                 /* Asegura que la clase se mantenga mientras el cursor esté sobre el dropdown*/
-                $(".dropdown-menu.menu-hov").hover(function () {
+                $(".dropdown-menu.menu-hov").hover(function() {
                     $(this).parent().css({
                         'border-top': '3px solid rgb(255, 103, 0)'
                     });
 
-                }, function () {
+                }, function() {
                     $(this).parent().css({
 
                         'border-top': '3px solid transparent'
@@ -986,7 +1012,7 @@
                 /*Floating Header */
                 var altura = $('#subheader header').offset().top;
 
-                $(window).on('scroll', function () {
+                $(window).on('scroll', function() {
                     if ($(window).scrollTop() > altura) {
                         $('#subheader header').css({
                             'position': 'fixed',
