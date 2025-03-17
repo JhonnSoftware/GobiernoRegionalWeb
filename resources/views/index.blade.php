@@ -142,6 +142,8 @@
                                         Regionales</a></li>
                                 <li><a href="{{ url('ordenanzas_regionales') }}">Ordenanzas
                                         Regionales</a></li>
+                                <li><a href="{{ url('resoluciones_ejecutivas_regionales') }}">Resoluciones
+                                        Ejecutivas Regionales</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Resoluciones Gerenciales</a>
@@ -177,8 +179,6 @@
                                         href="{{ url('resoluciones_directorales_oficina_regional_desarrollo_institucional_y_tecnologias_informacion') }}">Resoluciones
                                         Directorales de la oficina regional de desarrollo insitutcional y tecnologias de
                                         la informacion</a></li>
-                                <li><a href="{{ url('resoluciones_ejecutivas_regionales') }}">Resoluciones
-                                        Ejecutivas Regionales</a></li>
                                 <li><a
                                         href="{{ url('resoluciones_directorales_direccion_regional_trabajo_promocion_empleo') }}">Resoluciones
                                         Directorales de la direccion regional de trabajo y pormocion del empleo</a></li>
@@ -790,7 +790,7 @@
     </script>
 
     <div class="btn-ver-mas">
-        <a href="https://www.youtube.com/@gob.regionjunin">VER MÁS</a>
+        <a href="{{ url('transmiciones') }}">VER MÁS</a>
     </div>
 
     <!--- ENLACES DE ESTADO  -->
