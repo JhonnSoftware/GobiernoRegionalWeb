@@ -143,9 +143,9 @@
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.445351155178!2d-75.209673285607!3d-12.067256791450032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x910e965d2279b0af%3A0xa7bfe3c8a85a1b7a!2sGobierno%20Regional%20de%20Jun%C3%ADn!5e0!3m2!1ses-419!2spe!4v1673642332105!5m2!1ses-419!2spe">
                 </iframe>
             </div>
-            <h1 class="mt-5" style="font-weight: bold; color:#12329f;">SEDE - Av. Huancavelica & Jr. Lima</h1>
+            <h1 class="mt-5" style="font-weight: bold; color:#12329f;">SEDE - Av. Huancavelica N° 488</h1>
             <p>
-                <span style="font-weight: bold;">Dirección:</span> Av. Huancavelica & Jr. Lima<br>
+                <span style="font-weight: bold;">Dirección:</span> Av. Huancavelica N° 488 <br>
                 <span style="font-weight: bold;">Horario de Atención:</span> <br>
                 Lunes a viernes de 08:00 a 13:00 horas y de 14:30 a 17:30 hora
             </p>

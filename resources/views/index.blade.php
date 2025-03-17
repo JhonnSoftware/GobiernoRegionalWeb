@@ -884,7 +884,7 @@
             referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="info-float">
             <p><b>Dirección Sede Principal:</b> Jr. Loreto N° 363, Huancayo</p>
-            <p><b>Dirección Sede Huancavelica:</b> Av. Huancavelica y Lima N° ... , Huancayo</p>
+            <p><b>Dirección Sede Huancavelica:</b> Av. Huancavelica N° 488, Huancayo</p>
             <p><b>Oficina de Enlace en Lima:</b> Jirón Gregorio Paredes N° 316 <br>
                 Lima Cercado - Teléfono: (01)3723753</p>
             <p>Horario de Atención: Lunes a Viernes de 08:00 a 13:00 horas <br> y de 14:30 a 17:30 horas.</p>
