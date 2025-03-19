@@ -1,12 +1,15 @@
 <?php
 
-
 use Illuminate\Support\Facades\Route;
 
 /* ============ INICIO ==============*/
 Route::get('index', function(){
     return view('index');
 });
+    Route::get('obras_en_progreso', function(){
+        return view('INICIO.obras_en_progreso');
+    });
+
 /* ============ INFORMACION INSTITUCIONAL ==============*/
 Route::get('mision_vision', function(){
     return view('INFORMACION_INSTITUCIONAL.mision_vision');

@@ -75,7 +75,7 @@
                         <li><a href="{{ url('gerencia_general_regional') }}">Gerencia General Regional</a></li>
                         <li><a href="{{ url('gerencias_y_oficinas_regionales') }}">Gerencias y Oficinas Regionales</a>
                         </li>
-                        <li><a href="{{ url('direcciones_regionales') }}">Directorio Regionales</a></li>
+                        <li><a href="{{ url('direcciones_regionales') }}">Direcciones Regionales</a></li>
                         <li><a href="{{ url('procaduria_publica_regional') }}">procuraduria publica regional</a></li>
                         <li><a href="{{ url('directorio_regional') }}">Directorio Regional</a></li>
                     </ul>
@@ -325,7 +325,7 @@
             <p>PROGRAMA DE<br>VOLUNTARIADO-MIMP</p>
         </div>
         <div class="bributton-container">
-            <a href="https://www.regionjunin.gob.pe/ver_documento/id/GRJ-151752dcec04f8f970c75b8c424352b43d5447.pdf/"
+            <a href="{{ url('obras_en_progreso') }}"
                 class="circle-button"><i class="fa-solid fa-oil-well"></i></a>
             <p>OBRAS EN<br>PROGRESO</p>
         </div>

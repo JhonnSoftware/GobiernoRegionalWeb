@@ -1,8 +1,9 @@
 @extends('layouts.layout')
-@section('title', 'Manual de identidad coorporativa')
+
+@section('title', 'Obras en Progreso')
+
 @section('contenido-principal')
     <style>
-        
         .banner {
             position: relative;
             width: 100%;
@@ -26,7 +27,16 @@
             font-family: 'Panton Narrow Black Italic', sans-serif;
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
-        
+
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            max-width: 1000px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+        }
         .pdf-container{
             display: flex;
             justify-content: center;
@@ -38,16 +48,13 @@
             height: 1000px;
             border-radius: 15px;
         }
-        
     </style>
-
     <div class="banner">
-        <h1>MANUAL DE IDENTIDAD<br>COORPORATIVA</h1>
+        <h1>REGLAMENTO DE FUNCIONAMIENTO DEL<br>SISTEMA DE INFORMACIÓN AMBIENTAL<br>REGIONAL JUNÍN - SIAR JUNÍN</h1>
     </div>
-
     <div class="d-flex justify-content-center mt-5 ">
         <div style="width: 1200px; min-width: 1200px;">
-            <iframe class="w-100" src="pdf/GRJ-21021780dfdc31535a5facafcbde6ce43529ad.pdf" 
+            <iframe class="w-100" src="pdf/GRJ-151752dcec04f8f970c75b8c424352b43d5447.pdf" 
                 style="height: 600px; border-radius: 15px;"></iframe>
         </div>
     </div>
@@ -57,8 +64,8 @@
             style="width: 1200px; min-width: 1200px;">
             <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF Icon" width="40" class="me-3">
             <div class="flex-grow-1">
-                <p class="mb-1 fw-bold">Manual de Identidad Cooporativa</p>
-                <a href="pdf/GRJ-21021780dfdc31535a5facafcbde6ce43529ad.pdf" class="text-decoration-none fw-semibold" download style="color: #1255b3;">Descargar PDF</a>
+                <p class="mb-1 fw-bold">Reglamento de Funcionamiento del Sistema de Información Ambiental Regional Junín - SIAR JUNÍN</p>
+                <a href="pdf/GRJ-151752dcec04f8f970c75b8c424352b43d5447.pdf" class="text-decoration-none fw-semibold" download style="color: #1255b3;">Descargar PDF</a>
             </div>
         </div>
     </div>

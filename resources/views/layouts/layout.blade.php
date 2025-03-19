@@ -31,6 +31,7 @@
 
 <body>
     <style>
+        
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -234,6 +235,7 @@
             background-color: #12b460d2;
         }
     </style>
+    <div class="main-container">
 
     <header class="header" id="mainMenu">
         <div class="brilogo" style="display: flex;">
@@ -745,6 +747,7 @@
             style="background-color: #000;color: #fff;display: block;width: 40px;height: 40px;border-radius: 50%;text-align: center;line-height: 40px;margin: 8px auto;transition:box-shadow .3s, transform 0.4s;;box-shadow: 0px 3px 10px rgba(0,0,0,.25)"><i
                 class="fa-brands fa-x-twitter" style="margin: 12px;"></i></a>
     </div>
+</div>
     <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
     <script>
         let jQuery370 = $.noConflict(true);
