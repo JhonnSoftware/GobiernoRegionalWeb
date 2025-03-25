@@ -1,39 +1,64 @@
 @extends('layouts.layout')
 
 
-@section('title', 'Directorio Regional')
+@section('title', 'POI')
 
 
 @section('contenido-principal')
-   
+
     <style>
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+        }
+
+        /* Cuando se activa la clase .visible, la animación se ejecuta */
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
         .banner {
             position: relative;
             width: 100%;
             height: 340px;
-            background: linear-gradient(to left, rgba(204, 204, 204, 0.4), rgba(0, 14, 139, 0.9)),
-            url('images/Gobierno_Regional_Junin.jpg') no-repeat;
+            background: linear-gradient(to left, rgba(56, 56, 56, 0.4), rgba(0, 14, 139, 0.9)),
+                url('images/Gobierno_Regional_Junin.jpg') no-repeat;
             background-size: cover;
             background-position: 50% 35%;
             display: flex;
             align-items: center;
-            justify-content: start;
-            padding-left: 20px;
+            justify-content: center;
+            /* Centra el contenido horizontalmente */
+            text-align: center;
         }
 
-
         .banner h1 {
+            position: relative;
             color: #fff;
             font-size: 50px;
             font-weight: bold;
-            margin-left: 180px;
             margin-top: 50px;
             font-family: 'Panton Narrow Black Italic', sans-serif;
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+            font-size: 55px;
+        }
+
+        .banner h1::after {
+            content: "";
+            display: block;
+            width: 160px;
+            /* Ancho de la línea */
+            height: 5px;
+            /* Grosor de la línea */
+            background-color: #ff6700;
+            margin: 10px auto 0;
+            /* Espaciado y centrado */
         }
 
 
-        .container-pag{
+        .container-pag {
             width: 100%;
             height: 100vh;
             background: linear-gradient(45deg, #410358, #4700bc);
@@ -43,17 +68,18 @@
         }
 
 
-        .pag{
+        .pag {
             display: flex;
             align-content: center;
             justify-content: center;
         }
 
 
-        .link-ul{
+        .link-ul {
             margin: 20px 30px;
         }
-        .link-ul .link-li{
+
+        .link-ul .link-li {
             display: inline-block;
             width: 45px;
             height: 45px;
@@ -68,7 +94,7 @@
         }
 
 
-        .link-li.active{
+        .link-li.active {
             color: #fff;
             background-image: linear-gradient(#ff6700, #ff6700);
             background-repeat: no-repeat;
@@ -76,7 +102,8 @@
         }
 
 
-        .btn1, .btn2{
+        .btn1,
+        .btn2 {
             display: inline-flex;
             align-items: center;
             font-size: 18px;
@@ -89,11 +116,12 @@
         }
 
 
-        .btn1 img{
+        .btn1 img {
             width: 24px;
             margin-right: 15px;
         }
-        .btn2 img{
+
+        .btn2 img {
             width: 24px;
             margin-left: 15px;
             transform: rotate(180deg);
@@ -106,20 +134,27 @@
             gap: 20px;
             flex-wrap: wrap;
         }
+
         .filter-group {
             display: flex;
             flex-direction: column;
         }
+
         .input-group-text {
             background-color: #fff;
         }
-        .input-group{
+
+        .input-group {
             width: 420px;
         }
+
         .input-group .form-control {
-            padding: 12px 16px; /* Más alto y con más espacio lateral */
-            font-size: 16px; /* Para que el texto se vea bien con más padding */
+            padding: 12px 16px;
+            /* Más alto y con más espacio lateral */
+            font-size: 16px;
+            /* Para que el texto se vea bien con más padding */
         }
+
         .header-alert {
             background-color: #ff6700;
             color: white;
@@ -127,6 +162,7 @@
             border-radius: 10px;
             font-size: 16px;
         }
+
         .event-card {
             display: flex;
             align-items: center;
@@ -136,6 +172,7 @@
             margin-bottom: 10px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
+
         .event-icon {
             background: #ff6700;
             color: white;
@@ -148,9 +185,11 @@
             font-size: 24px;
             margin-right: 15px;
         }
+
         .event-info {
             flex-grow: 1;
         }
+
         .event-title {
             font-weight: bold;
             color: #ff6700;
@@ -158,12 +197,12 @@
     </style>
 
 
-    <div class="banner">
+    <div class="banner fade-in">
         <h1>PLAN OPERATIVO<br>INSTITUCIONAL (POI)</h1>
     </div>
 
 
-    <div class="container mt-4">
+    <div class="container mt-4 fade-in">
         <div class="filter-container">
             <!-- Filtro por fecha -->
             <div class="filter-group">
@@ -179,7 +218,7 @@
                     </div>
                 </div>
             </div>
-   
+
             <!-- Filtro por palabra clave -->
             <div class="filter-group">
                 <label class="fw-bold">Filtrar por palabra clave</label>
@@ -190,12 +229,12 @@
             </div>
         </div>
     </div>
-   
-    <div class="container mt-4">
+
+    <div class="container mt-4 fade-in">
         <div class="header-alert text-center">
             <strong>PLAN OPERATIVO INSTITUCIONAL MULTIANUAL 2025 - 2027</strong><br>
         </div>
-   
+
         <div class="mt-3">
             <div class="event-card">
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
@@ -217,7 +256,7 @@
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
                 <a href="" class="bi bi-folder fs-3" style="color: #1356b3;"></a>
             </div>
-           
+
         </div>
 
 
@@ -279,7 +318,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>31/03/2023</small><br>
-                    <span class="event-title">REPORTE_ANUAL_DE_SEGUIMIENTO_DEL_PLAN_OPERATIVO_INSTITUCIONAL_2022-8</span><br>
+                    <span
+                        class="event-title">REPORTE_ANUAL_DE_SEGUIMIENTO_DEL_PLAN_OPERATIVO_INSTITUCIONAL_2022-8</span><br>
                     <small>106 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -303,7 +343,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>30/09/2022</small><br>
-                    <span class="event-title">Informe de Evaluación de Implementación del POI 2022 - I Semestre - Pliego</span><br>
+                    <span class="event-title">Informe de Evaluación de Implementación del POI 2022 - I Semestre -
+                        Pliego</span><br>
                     <small>7.5 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -329,7 +370,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>19/08/2021</small><br>
-                    <span class="event-title">Equipo Tecnico responsable de desarrollar el Plan Operativo Institucional (POI) 2022-2024</span><br>
+                    <span class="event-title">Equipo Tecnico responsable de desarrollar el Plan Operativo Institucional
+                        (POI) 2022-2024</span><br>
                     <small>3.8 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -374,7 +416,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>12/05/2022</small><br>
-                    <span class="event-title">REPORTE DE SEGUIMIENTO PLAN OPERATIVO INSTITUCIONAL 2021-PLIEGO 450 GORE JUNÍN</span><br>
+                    <span class="event-title">REPORTE DE SEGUIMIENTO PLAN OPERATIVO INSTITUCIONAL 2021-PLIEGO 450 GORE
+                        JUNÍN</span><br>
                     <small></small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -386,7 +429,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>12/05/2022</small><br>
-                    <span class="event-title">REPORTE DE SEGUIMIENTO PLAN OPERATIVO INSTITUCIONAL 2021 - UE 818 SEDE CENTRAL</span><br>
+                    <span class="event-title">REPORTE DE SEGUIMIENTO PLAN OPERATIVO INSTITUCIONAL 2021 - UE 818 SEDE
+                        CENTRAL</span><br>
                     <small>12.9 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -398,7 +442,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>18/11/2021</small><br>
-                    <span class="event-title">INFORME DE EVALUACION DE IMPLEMENTACION DEL POI-I SEMESTRE - UE 818 SEDE CENTRAL</span><br>
+                    <span class="event-title">INFORME DE EVALUACION DE IMPLEMENTACION DEL POI-I SEMESTRE - UE 818 SEDE
+                        CENTRAL</span><br>
                     <small>4.9 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -410,7 +455,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>03/08/2021</small><br>
-                    <span class="event-title">REPORTE DE SEGUIMIENTO DEL PLAN OPERATIVO INSTITUCIONAL 2021 – I SEMESTRE DEL PLIEGO 450</span><br>
+                    <span class="event-title">REPORTE DE SEGUIMIENTO DEL PLAN OPERATIVO INSTITUCIONAL 2021 – I SEMESTRE DEL
+                        PLIEGO 450</span><br>
                     <small>20.9 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -422,7 +468,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>18/09/2020</small><br>
-                    <span class="event-title">Equipo Tecnico responsable de desarrollar el Plan Operativo Institucional (POI) 2021-2023</span><br>
+                    <span class="event-title">Equipo Tecnico responsable de desarrollar el Plan Operativo Institucional
+                        (POI) 2021-2023</span><br>
                     <small>3.4 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -497,7 +544,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>28/02/2019</small><br>
-                    <span class="event-title">Equipo Tecnico responsable de desarrollar el Plan Operativo Institucional (POI) 2020-2022</span><br>
+                    <span class="event-title">Equipo Tecnico responsable de desarrollar el Plan Operativo Institucional
+                        (POI) 2020-2022</span><br>
                     <small>2.9 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -512,7 +560,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>12/04/2021</small><br>
-                    <span class="event-title">INFORME DE EVALUACION DE IMPLEMENTACION POI - PLIEGO 450 GORE JUNIN</span><br>
+                    <span class="event-title">INFORME DE EVALUACION DE IMPLEMENTACION POI - PLIEGO 450 GORE
+                        JUNIN</span><br>
                     <small>21.8 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -547,7 +596,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>12/03/2020</small><br>
-                    <span class="event-title">Informe de Evaluacion de implementación del POI - IV Trimestre 2019</span><br>
+                    <span class="event-title">Informe de Evaluacion de implementación del POI - IV Trimestre
+                        2019</span><br>
                     <small>33.6 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -567,7 +617,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>14/11/2019</small><br>
-                    <span class="event-title">Informe de Evaluacion de implementación del POI - III Trimestre 2019</span><br>
+                    <span class="event-title">Informe de Evaluacion de implementación del POI - III Trimestre
+                        2019</span><br>
                     <small>63.8 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -577,7 +628,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>14/11/2019</small><br>
-                    <span class="event-title">Informe de Evaluacion de implementación del POI -I Y II Trimestre 2019</span><br>
+                    <span class="event-title">Informe de Evaluacion de implementación del POI -I Y II Trimestre
+                        2019</span><br>
                     <small>56.7 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -727,7 +779,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>16/01/2018 </small><br>
-                    <span class="event-title">Evaluacion del Plan Operativo Institucional POI - III y IV Trimestre 2017</span><br>
+                    <span class="event-title">Evaluacion del Plan Operativo Institucional POI - III y IV Trimestre
+                        2017</span><br>
                     <small>38.9 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -737,7 +790,8 @@
                 <div class="event-icon"><i class="fa-solid fa-file-pdf text-white"></i></div>
                 <div class="event-info">
                     <small>26/10/2017</small><br>
-                    <span class="event-title">Evaluacion del Plan Operativo Institucional POI - I y II Trimestre 2017</span><br>
+                    <span class="event-title">Evaluacion del Plan Operativo Institucional POI - I y II Trimestre
+                        2017</span><br>
                     <small>55.6 MB</small>
                 </div>
                 <a href="" class="bi bi-download fs-3 me-3" style="color: #1356b3;"></a>
@@ -1030,8 +1084,8 @@
             </div>
         </div>
     </div>
-   
-    <div class="pag">
+
+    <div class="pag fade-in">
         <div class="pagination">
             <button class="btn1" onclick="backBtn()"> <img src="images/arrow.png" alt=""> Volver</button>
             <ul class="link-ul">
@@ -1046,7 +1100,6 @@
         </div>
     </div>
 
-
     <script>
         let link = document.getElementsByClassName("link-li");
 
@@ -1054,8 +1107,8 @@
         let curentValue = 1;
 
 
-        function activeLink(){
-            for(l of link){
+        function activeLink() {
+            for (l of link) {
                 l.classList.remove("active");
             }
             event.target.classList.add("active");
@@ -1063,32 +1116,38 @@
         }
 
 
-        function backBtn(){
-            if(currentValue > 1){
-                for(l of link){
+        function backBtn() {
+            if (currentValue > 1) {
+                for (l of link) {
                     l.classList.remove("active");
                 }
                 currentValue--;
-                link[currentValue-1].classList.add("active");
+                link[currentValue - 1].classList.add("active");
             }
         }
 
 
-        function nextBtn(){
-            if(currentValue < 6){
-                for(l of link){
+        function nextBtn() {
+            if (currentValue < 6) {
+                for (l of link) {
                     l.classList.remove("active");
                 }
                 currentValue++;
-                link[currentValue-1].classList.add("active");
+                link[currentValue - 1].classList.add("active");
             }
         }
-
-
     </script>
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Seleccionamos todos los elementos que queremos animar
+            let elements = document.querySelectorAll('.fade-in');
 
+            elements.forEach((element, index) => {
+                setTimeout(() => {
+                    element.classList.add('visible');
+                }, index * 300); // Agrega un pequeño retraso entre elementos
+            });
+        });
+    </script>
 @endsection
-
-
-

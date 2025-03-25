@@ -2,6 +2,18 @@
 @section('title', 'Manual de identidad coorporativa')
 @section('contenido-principal')
     <style>
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+        }
+
+        /* Cuando se activa la clase .visible, la animación se ejecuta */
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
         .banner {
             position: relative;
             width: 100%;
