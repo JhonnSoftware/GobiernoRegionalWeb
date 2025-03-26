@@ -393,7 +393,7 @@
         </div>
     </div>
     
-    <div class="pag">
+    <div class="pag fade-in">
         <div class="pagination">
             <button class="btn1" onclick="backBtn()"> <img src="images/arrow.png" alt=""> Volver</button>
             <ul class="link-ul">

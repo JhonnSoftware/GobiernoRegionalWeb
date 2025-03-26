@@ -175,11 +175,11 @@
         }
     </style>
 
-    <div class="banner">
+    <div class="banner fade-in">
         <h1>AUDIENCIAS PUBLICAS</h1>
     </div>
 
-    <div class="container mt-4">
+    <div class="container mt-4 fade-in">
         <div class="filter-container">
             <!-- Filtro por fecha -->
             <div class="filter-group">
@@ -207,7 +207,7 @@
         </div>
     </div>
    
-    <div class="container mt-4">
+    <div class="container mt-4 fade-in">
         <div class="header-alert text-center">
             <strong>AUDIENCIA REGIONAL 2024</strong><br>
         </div>
@@ -691,7 +691,7 @@
         </div>
     </div>
    
-    <div class="pag">
+    <div class="pag fade-in">
         <div class="pagination">
             <button class="btn1" onclick="backBtn()"> <img src="images/arrow.png" alt=""> Volver</button>
             <ul class="link-ul">
@@ -744,6 +744,18 @@
         }
 
 
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Seleccionamos todos los elementos que queremos animar
+            let elements = document.querySelectorAll('.fade-in');
+        
+            elements.forEach((element, index) => {
+                setTimeout(() => {
+                    element.classList.add('visible');
+                }, index * 300); // Agrega un pequeño retraso entre elementos
+            });
+        });
     </script>
 @endsection
 

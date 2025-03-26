@@ -162,11 +162,10 @@
     </div>
 
     <!-- Cuadro con el logo de YouTube con enlace -->
-    <div style="display: flex; justify-content: center; align-items: center; margin: -50px;">
-        <a href="https://www.facebook.com/GReJunin" target="_blank" class="facebook-box">
-            <img src="images/facebook_logo.png" alt="Facebook" style="width: 350px; height: 350px;">
-        </a>
-    </div>
+
+    <a href="https://www.facebook.com/GReJunin" target="_blank" class="youtube-box" style="background: #fff; border:#ff6700">
+        <img src="images/logo.png" alt="YouTube" style="width: 150px; height: 150px;">
+    </a>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             // Seleccionamos todos los elementos que queremos animar

@@ -162,8 +162,8 @@
     </div>
 
     <!-- Cuadro con el logo de YouTube con enlace -->
-    <a href="https://www.youtube.com/@gob.regionjunin" target="_blank" class="youtube-box" style="background: #cf2227">
-        <img src="images/youtube_logo.png" alt="YouTube" style="width: 150px; height: 150px;">
+    <a href="https://www.youtube.com/@gob.regionjunin" target="_blank" class="youtube-box" style="background: #fff; border:#ff6700">
+        <img src="images/logo.png" alt="YouTube" style="width: 150px; height: 150px;">
     </a>
     <script>
         document.addEventListener("DOMContentLoaded", function () {

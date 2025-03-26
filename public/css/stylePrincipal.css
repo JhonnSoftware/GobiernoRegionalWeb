@@ -13,6 +13,11 @@
 }
 
 @font-face {
+    font-family: "Loew Regular";
+    src: url("fonts/Loew-Regular.otf");
+}
+
+@font-face {
     font-family: "Loew-Bold";
     src: url("fonts/Loew-Bold.otf");
 }
@@ -543,7 +548,6 @@ article {
 }
 
 .contenido-noticia-principal {
-    max-height: 250px;
     overflow-y: auto;
     text-align: justify;
 }

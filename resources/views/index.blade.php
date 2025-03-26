@@ -35,7 +35,10 @@
             font-family: "Loew-Bold";
             src: url("fonts/Loew-Bold.otf");
         }
-        
+        @font-face {
+            font-family: "Loew Regular";
+            src: url("fonts/Loew-Regular.otf");
+        }
     </style>
     <!-- NAVEGACION -->
     <header class="header" id="mainMenu">
@@ -382,7 +385,7 @@
         <div class="contenido-noticia">
             <h2 class="ultima-noticia">Ultimo Momento</h2>
             <h1 class="titulo-noticia-principal" style="color: #1154b2; font-size:30px; ">🔵🟠🟢 MESA TÉCNICA PARA NOMBRAMIENTO DE DOCENTES</h1>
-            <p class="contenido-noticia-principal" style="max-height: 450px;">
+            <p class="contenido-noticia-principal" style="max-height: 340px; font-family: 'Loew Regular'; font-size: 20px;">
                 Este lunes 20 se tendrá primeras coordinaciones para lograr derechos laborales de educadores
                 En respuesta a las demandas de docentes que solicitan su nombramiento, el Gobierno Regional Junín (GRJ)
                 anunció la conformación de una mesa técnica que iniciará su labor este lunes 20 de enero, buscando dar
@@ -715,7 +718,7 @@
                             <div class="card-body">
                                 <h5 id="videoTitle" class="card-title mb-3 fw-bold" style="font-family: 'Loew-Bold'; color:#1355b3; font-size:25px;">Lorem ipsum dolor sit amet</h5>
                                 <h5 id="videoDescription"
-                                    style="color: rgb(112, 112, 112); font-size: 20px; font-weight: normal; text-align:justify;"
+                                    style="color: rgb(112, 112, 112); font-family: 'Loew Regular'; font-size: 20px; font-weight: normal; text-align:justify; "
                                     class="mb-3">Lorem ipsum dolor sit amet
                                     consectetur...</h5>
                                 <h5 id="videoFecha" style="color: #183069;">05 de Abril de 2024</h5>
