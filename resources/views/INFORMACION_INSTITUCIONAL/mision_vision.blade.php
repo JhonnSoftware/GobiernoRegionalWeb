@@ -152,15 +152,18 @@
     </div>
 
     <div class="container fade-in">
-        <div class="logo">
-            <img src="images/logo_gore.png" style="width: 200px; height: 50%; margin-right:10px;">
-        </div>
+
         <div class="texto" style="margin: 0 20px; width: 500px">
-            <h2 style="text-align: center; font-size:25px; font-weight:bold;">GOBIERNO REGIONAL JUNIN</h2>
-            <p style="text-align: justify;">El Gobierno Regional Junín Promueve y Conduce el Desarrollo Integral de la Región, con competitividad,
+            <h2 style="text-align: center; font-size:25px; font-weight:bold; margin-bottom:20px;">GOBIERNO REGIONAL JUNIN</h2>
+            <div class="logo" style="display: flex; justify-content: center; align-items: center;">
+                <img src="images/logo_gore.png" style="width: 400px; height: 50%; margin-bottom:40px;">
+            </div>
+            
+            <p style="text-align: justify; font-size:20px;">El Gobierno Regional Junín Promueve y Conduce el Desarrollo Integral de la Región, con competitividad,
                 Enfoque de Cambio Climático y Gestión de Riesgos, Derechos e Igualdad de Oportunidad en el Marco de la
                 Modernización del Estado”</p>
         </div>
+
         <div class="divider"></div>
         <aside class="sidebar">
             <h2>Atención al cuidadano</h2>

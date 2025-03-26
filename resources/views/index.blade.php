@@ -30,6 +30,13 @@
 </head>
 
 <body>
+    <style>
+        @font-face {
+            font-family: "Loew-Bold";
+            src: url("fonts/Loew-Bold.otf");
+        }
+        
+    </style>
     <!-- NAVEGACION -->
     <header class="header" id="mainMenu">
         <div class="brilogo" style="display: flex;">
@@ -374,8 +381,8 @@
         <img src="img_NOTICIAS/noticia01.jpg" alt="" class="img-noticia-principal">
         <div class="contenido-noticia">
             <h2 class="ultima-noticia">Ultimo Momento</h2>
-            <h1 class="titulo-noticia-principal">🔵🟠🟢 MESA TÉCNICA PARA NOMBRAMIENTO DE DOCENTES</h1>
-            <p class="contenido-noticia-principal">
+            <h1 class="titulo-noticia-principal" style="color: #1154b2; font-size:30px; ">🔵🟠🟢 MESA TÉCNICA PARA NOMBRAMIENTO DE DOCENTES</h1>
+            <p class="contenido-noticia-principal" style="max-height: 450px;">
                 Este lunes 20 se tendrá primeras coordinaciones para lograr derechos laborales de educadores
                 En respuesta a las demandas de docentes que solicitan su nombramiento, el Gobierno Regional Junín (GRJ)
                 anunció la conformación de una mesa técnica que iniciará su labor este lunes 20 de enero, buscando dar
@@ -706,7 +713,7 @@
                         </div>
                         <div class="col-lg-6 px-4 pt-3">
                             <div class="card-body">
-                                <h5 id="videoTitle" class="card-title mb-3 fw-bold">Lorem ipsum dolor sit amet</h5>
+                                <h5 id="videoTitle" class="card-title mb-3 fw-bold" style="font-family: 'Loew-Bold'; color:#1355b3; font-size:25px;">Lorem ipsum dolor sit amet</h5>
                                 <h5 id="videoDescription"
                                     style="color: rgb(112, 112, 112); font-size: 20px; font-weight: normal; text-align:justify;"
                                     class="mb-3">Lorem ipsum dolor sit amet
@@ -724,7 +731,7 @@
         /*LISTA DE DATOS PARA LOS VIDEOS */
         const videosData = [{
                 src: 'videos/Manos a la Obra - Puente Cantuta.mp4',
-                title: '🔵🟠🟢 𝐄𝐬𝐭𝐞 𝟐𝟎𝟐𝟒 𝐥𝐚 𝐆𝐞𝐫𝐞𝐧𝐜𝐢𝐚 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐝𝐞 𝐑𝐞𝐜𝐮𝐫𝐬𝐨𝐬 𝐍𝐚𝐭𝐮𝐫𝐚𝐥𝐞𝐬 𝐲 𝐆𝐞𝐬𝐭𝐢𝐨́𝐧 𝐀𝐦𝐛𝐢𝐞𝐧𝐭𝐚𝐥 𝐜𝐨𝐧𝐬𝐨𝐥𝐢𝐝𝐨́ 𝐞𝐬𝐟𝐮𝐞𝐫𝐳𝐨𝐬 𝐜𝐥𝐚𝐯𝐞 𝐞𝐧 𝐥𝐚 𝐜𝐨𝐧𝐬𝐞𝐫𝐯𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐥𝐨𝐬 𝐫𝐞𝐜𝐮𝐫𝐬𝐨𝐬 𝐧𝐚𝐭𝐮𝐫𝐚𝐥𝐞𝐬',
+                title: '🔵🟠🟢 Este 2024 la Gerencia Regional de Recursos Naturales y Gestion Ambien consolidó esfuerzos clave en la conservación de los recursos naturales',
                 description: 'Logramos conservar y fortalecer las áreas naturales protegidas, impulsar proyectos de reforestación y mejorar el control del medio ambiente a través de equipos de monitoreo ambiental. Además, avanzamos con el IOARR que consta la adquisición de equipos y herramientas para combatir los incendios forestales. Nuestro compromiso sigue firme en construir un futuro más verde y sostenible para todos. ¡Juntos, seguimos cuidando el medio ambiente!',
                 fecha: '#ElCambioLoHacemosTodos #GobiernoRegionalJunín #ZósimoCárdenas'
             },
