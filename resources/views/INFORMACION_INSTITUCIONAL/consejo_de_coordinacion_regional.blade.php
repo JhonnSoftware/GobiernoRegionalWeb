@@ -190,7 +190,7 @@
             <p>Está integrado por autoridades regionales, autoridades provinciales y la sociedad civil. ( 60% Autoridades:
                 Presidente Regional y Alcaldes Provinciales y 40 % Sociedad Civil ). Compuesto de la siguiente manera:</p>
         </main>
-        <div class="divider"></div>
+        <div class="divider" style="width: 2px; background-color: #ccc; height: 800px; margin: 0 60px;"></div>
         <aside class="sidebar">
             <h2>Atención al cuidadano</h2>
             <ul>

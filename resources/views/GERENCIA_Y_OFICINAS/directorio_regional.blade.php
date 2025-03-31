@@ -239,8 +239,8 @@
                 </tr>
                 <tr>
                     <td>OFICINA DE ABASTECIMIENTOS Y SERVICIOS AUXILIARES</td>
-                    <td>ING. ELMER BUJAICO CCOICCA</td>
-                    <td>ebujaico@regionjunin.gob.pe</td>
+                    <td>C.P.C JUAN CARLOS RAMOS DOMINGUEZ</td>
+                    <td></td>
                     <td>1701</td>
                 </tr>
                 <tr>
@@ -323,8 +323,8 @@
                 </tr>
                 <tr>
                     <td>DIRECCION REGIONAL DE PRODUCCIÓN</td>
-                    <td>ING. RODOLFO JAIME ORTÍZ ZUASNABAR</td>
-                    <td>rortiz@regionjunin.gob.pe</td>
+                    <td>ING. RONALD GENARO MARIÑO OBREGON</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -335,13 +335,13 @@
                 </tr>
                 <tr>
                     <td>DIRECCIÓN REGIONAL DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO</td>
-                    <td>ING. EDUARDO ANTONIO TINTAYA FLORES</td>
-                    <td>etintaya@regionjunin.gob.pe</td>
+                    <td>ING. PABEL CAMAYO CERRON</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO</td>
-                    <td>ARQUEOL. JULIO ABANTO LLAQUE</td>
+                    <td>LIC. JULIO HUMBERTO ABANTO LLAQUE</td>
                     <td>jabanto@regionjunin.gob.pe</td>
                     <td></td>
                 </tr>
@@ -365,13 +365,13 @@
                 </tr>
                 <tr>
                     <td>DIRECCIÓN REGIONAL DE EDUCACIÓN</td>
-                    <td>MG. OMAR LUIS TOVALINO CORDOVA</td>
-                    <td>otovalinoi@regionjunin.gob.pe</td>
+                    <td>ECON. MEDARNO SEVERO GOMEZ MIGUEL</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>DIRECCIÓN REGIONAL DE SALUD</td>
-                    <td>MC. CHRISTIAN DANY MATAMOROS VERA</td>
+                    <td>LIC. CLIFOR CURIPACO LOPEZ</td>
                     <td>cmatamoros@regionjunin.gob.pe</td>
                     <td></td>
                 </tr>
@@ -379,6 +379,75 @@
                     <td>DIRECCIÓN DE ARCHIVO REGIONAL</td>
                     <td>LIC. ELVIRO LUIS CALDERON YACHACHI </td>
                     <td>ecalderon@regionjunin.gob.pe</td>
+                    <td></td>
+                </tr>
+
+
+
+                <tr>
+                    <td>DIRECCIÓN DE LA ALDEA INFANTIL "EL ROSARIO"</td>
+                    <td>FLOR DE MARIA ESTHER TORRES</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR GENERAL DEL HOSPITAL REGIONAL DE MEDICINA TROPICAL "JULIO CESAR DEMARINI"</td>
+                    <td>M.C. MAXIMO RAFAEL POMAYAY VILCHEZ</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR GENERAL DEL INSTITUTO REGIONAL DE ENFERMEDADES NEOPLASICAS DEL CENTRO</td>
+                    <td>M.C. PABLO RODRIGUEZ RUIZ</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED SALUD JAUJA</td>
+                    <td>C.D. JORGE OSORES SANCHEZ</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED SALUD VALLE DEL MANTARO</td>
+                    <td>C.D. NANCY LUZ BAQUERIZO INGA</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED SALUD CHUPACA</td>
+                    <td>M.C. LIZ SAMANIEGO CHAVEZ</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED SALUD PICHANAKI</td>
+                    <td>M.C. DANIEL NEHEMIAS HUAMANI SOLANO</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED INTEGRADA DE SALUD CHANCHAMAYO</td>
+                    <td>M.C. FERNANDO RAUL POLANCO HINOSTROZA</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED INTEGRADA DE SALUD TARMA</td>
+                    <td>C.D. ALDO DENNYS TINEO VELITA</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED INTEGRADA DE SALUD DE SAN MARTIN DE PANGOA</td>
+                    <td>OBST. RUTH ROSMERY CALDERON HUAMAN</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>DIRECTOR EJECUTIVO DE LA RED INTEGRADA DE SALUD DE SATIPO</td>
+                    <td>PSICOL. RUDY RENZO ARAUJO HINOSTROZA</td>
+                    <td></td>
                     <td></td>
                 </tr>
             </tbody>

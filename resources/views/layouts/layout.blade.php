@@ -416,7 +416,7 @@
                     <ul>
                         <li><a href="{{ url('oportunidades_laborales') }}">Oportunidades Laborales</a>
                         </li>
-                        <li><a href="https://reclamos.servicios.gob.pe/">Libro de reclamaciones</a>
+                        <li><a href="https://reclamos.servicios.gob.pe/" target="_blank">Libro de reclamaciones</a>
                         </li>
                         <li><a href="{{ url('denuncia_posibles_actos_de_soborno') }}">Denuncia posibles actos de
                                 soborno</a></li>

@@ -60,6 +60,7 @@
             background: #fff;
             padding: 80px;
         }
+
         .sidebar {
             align-self: flex-start;
             width: 30%;
@@ -191,7 +192,7 @@
             </ul>
             
         </main>
-        <div class="divider"></div>
+        <div class="divider" style="width: 2px; background-color: #ccc; height: 1000px; margin: 0 60px;"></div>
         <aside class="sidebar">
             <h2>Atención al cuidadano</h2>
             <ul>
