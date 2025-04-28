@@ -11,7 +11,6 @@
             transition: opacity 0.8s ease-out, transform 0.8s ease-out;
         }
 
-        /* Cuando se activa la clase .visible, la animación se ejecuta */
         .fade-in.visible {
             opacity: 1;
             transform: translateY(0);
@@ -27,7 +26,7 @@
             background-position: 50% 35%;
             display: flex;
             align-items: center;
-            justify-content: center; /* Centra el contenido horizontalmente */
+            justify-content: center;
             text-align: center;
         }
 
@@ -44,10 +43,10 @@
         .banner h1::after {
             content: "";
             display: block;
-            width: 160px; /* Ancho de la línea */
-            height: 5px;  /* Grosor de la línea */
+            width: 160px;
+            height: 5px;
             background-color: #ff6700;
-            margin: 10px auto 0; /* Espaciado y centrado */
+            margin: 10px auto 0;
         }
 
         .container {
@@ -141,19 +140,82 @@
     </style>
 
     <div class="banner fade-in">
-        <h1>PORTALES PROVINCIALES</h1>
+        <h1>PORTALES PROVINCIALES DE LA <br> REGIÓN JUNÍN</h1>
     </div>
 
     <div class="container fade-in">
+
         <div class="mensaje">
-            
+            <img src="images/Division_Politica_de_Junin.jpg" alt="Descripción de la imagen" style="max-width: 100%; height: auto;">
+
+            <!-- Tabla debajo de la imagen -->
+            <div class="table-responsive mt-4">
+                <table class="table table-striped table-bordered">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>#</th>
+                            <th>Municipalidad Provincial</th>
+                            <th>Dirección Web</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Provincia de Chanchamayo</td>
+                            <td><a href="http://www.munichanchamayo.gob.pe" target="_blank">www.munichanchamayo.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Provincia de Chupaca</td>
+                            <td><a href="http://www.munichupaca.gob.pe" target="_blank">www.munichupaca.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Provincia de Concepción</td>
+                            <td><a href="http://www.municoncepcion.gob.pe" target="_blank">www.municoncepcion.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Provincia de Huancayo</td>
+                            <td><a href="http://www.munihuancayo.gob.pe" target="_blank">www.munihuancayo.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Provincia de Jauja</td>
+                            <td><a href="http://www.munijauja.gob.pe" target="_blank">www.munijauja.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Provincia de Junín</td>
+                            <td><a href="http://www.munijunin.gob.pe" target="_blank">www.munijunin.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Provincia de Satipo</td>
+                            <td><a href="http://www.munisatipo.gob.pe" target="_blank">www.munisatipo.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>Provincia de Tarma</td>
+                            <td><a href="http://www.munitarma.gob.pe" target="_blank">www.munitarma.gob.pe</a></td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>Provincia de Yauli La Oroya</td>
+                            <td><a href="http://www.muniyauli-yauli.gob.pe" target="_blank">www.muniyauli-yauli.gob.pe</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
+
         <div class="divider" style="width: 2px; background-color: #ccc; height: 1000px; margin: 0 60px;"></div>
+
         <aside class="sidebar">
             <h2>Atención al cuidadano</h2>
             <ul>
                 <li><a href="http://sisdore.regionjunin.gob.pe:8080/accesoinformacion/"> <i class="ri-file-list-3-line"></i>
-                        Solicitud electronica de acceso a la informacion publica</a></li>
+                        Solicitud electrónica de acceso a la información pública</a></li>
                 <li><a href="https://reclamos.servicios.gob.pe/?institution_id=57"> <i class="ri-contacts-book-2-line"></i>
                         Libro de reclamaciones</a></li>
                 <li><a href="https://www.regionjunin.gob.pe/pagina/id/portales_provinciales_de_la_region_junin/"> <i
@@ -164,16 +226,14 @@
         </aside>
 
     </div>
-   
+
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-            // Seleccionamos todos los elementos que queremos animar
             let elements = document.querySelectorAll('.fade-in');
-        
             elements.forEach((element, index) => {
                 setTimeout(() => {
                     element.classList.add('visible');
-                }, index * 300); // Agrega un pequeño retraso entre elementos
+                }, index * 300);
             });
         });
     </script>

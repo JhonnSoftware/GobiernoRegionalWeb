@@ -199,10 +199,10 @@
                 <li><a href="http://sisdore.regionjunin.gob.pe:8080/accesoinformacion/">Solicitud electronica de acceso a la
                         informacion publica</a></li>
                 <li><a href="https://reclamos.servicios.gob.pe/?institution_id=57">Libro de reclamaciones</a></li>
-                <li><a href="https://www.regionjunin.gob.pe/pagina/id/portales_provinciales_de_la_region_junin/">Portales
-                        Provinciales</a></li>
-                <li><a href="https://www.regionjunin.gob.pe/pagina/id/portales_regionales/">Portales de las Direcciones
-                        Regionales</a></li>
+                <li><a href="{{ url('portales_provinciales') }}">Portales
+                    Provinciales</a></li>
+            <li><a href="{{ url('portales_direcciones_regionales') }}">Portales de las Direcciones
+                    Regionales</a></li>
             </ul>
         </aside>
     </div>

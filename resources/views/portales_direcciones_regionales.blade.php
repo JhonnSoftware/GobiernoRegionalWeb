@@ -109,7 +109,7 @@
             line-height: 1.6;
         }
 
-        /*prueba*/
+        /prueba/
         .contenedor-mv {
             display: flex;
             justify-content: center;
@@ -147,6 +147,73 @@
     <div class="container fade-in">
         <div class="mensaje">
            <!-- a=AQUI PONES TU CODIGO AMOR ;3 -->
+           
+            <div class="foto1" style="display: flex; justify-content: center; align-items: center;">
+                <img src="images/1629126128_grj.jpg" style="width: 400px; height: 50%; margin-bottom:40px;">
+            </div>
+            
+            <table class="table custom-table">
+                <thead class="custom-header">
+                    <tr>
+                        <th>N°</th>
+                        <th>Portal</th>
+                        <th>Direccion web</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>DIRECCIÓN REGIONAL DE AGRICULTURA</td>
+                        <td><a href="https://www.agrojunin.gob.pe/" target="_blank">https://www.agrojunin.gob.pe/</a></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>DIRECCIÓN REGIONAL DE ENERGIA Y MINAS</td>
+                        <td><a href="https://www.gob.pe/regionjunin-drem" target="_blank">https://www.gob.pe/regionjunin-drem</a></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>DIRECCIÓN REGIONAL DE PRODUCCIÓN</td>
+                        <td><a href="https://www.facebook.com/people/Direcci%C3%B3n-Regional-de-la-Producci%C3%B3n-Jun%C3%ADn-Sitio-Oficial/61556326447745/" target="_blank">https://www.facebook.com/people/Direccion-Regional-de-la-Produccion-Junin</a></td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO</td>
+                        <td><a href="https://www.facebook.com/dirceturjuninoficial/?locale=es_LA" target="_blank">https://www.facebook.com/dirceturjuninoficial/?locale=es_LA</a></td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>DIRECCIÓN REGIONAL DE EDUCACIÓN</td>
+                        <td><a href="https://drej.edu.pe/" target="_blank">https://drej.edu.pe/</a></td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>DIRECCIÓN REGIONAL DE TRABAJO Y PROMOCIÓN DEL EMPLEO</td>
+                        <td><a href="https://www.facebook.com/TrabajoJuninOficial/?locale=es_LA" target="_blank">https://www.facebook.com/TrabajoJuninOficial/?locale=es_LA</a></td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>DIRECCIÓN REGIONAL DE SALUD</td>
+                        <td><a href="https://www.diresajunin.gob.pe/" target="_blank">https://www.diresajunin.gob.pe/</a></td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>DIRECCIÓN REGIONAL DE TRANSPORTES Y COMUNICACIONES</td>
+                        <td><a href="https://drtcjunin.gob.pe/" target="_blank">https://drtcjunin.gob.pe/</a></td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>DIRECCIÓN REGIONAL DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO</td>
+                        <td><a href="https://www.facebook.com/DRVCSJ/?locale=es_LA" target="_blank">https://www.facebook.com/DRVCSJ/?locale=es_LA</a></td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>DIRECCIÓN REGIONAL DE ARCHIVO</td>
+                        <td><a href="https://www.facebook.com/arjhyo/?locale=es_LA" target="_blank">https://www.facebook.com/arjhyo/?locale=es_LA   </a></td>
+                    </tr>
+                </tbody>
+            </table>
+        
         </div>
         <div class="divider" style="width: 2px; background-color: #ccc; height: 1000px; margin: 0 60px;"></div>
         <aside class="sidebar">
