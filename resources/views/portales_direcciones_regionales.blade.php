@@ -146,8 +146,7 @@
 
     <div class="container fade-in">
         <div class="mensaje">
-           <!-- a=AQUI PONES TU CODIGO AMOR ;3 -->
-           
+          
             <div class="foto1" style="display: flex; justify-content: center; align-items: center;">
                 <img src="images/1629126128_grj.jpg" style="width: 400px; height: 50%; margin-bottom:40px;">
             </div>
