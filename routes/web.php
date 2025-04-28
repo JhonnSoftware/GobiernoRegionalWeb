@@ -8,6 +8,13 @@ Route::get('/login', [AuthController::class, 'showLogin'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 
+Route::get('portales_provinciales', function(){
+    return view('portales_provinciales');
+});
+
+Route::get('portales_direcciones_regionales', function(){
+    return view('portales_direcciones_regionales');
+});
 
 /* ============ INICIO ==============*/
 Route::get('index', function(){
@@ -16,6 +23,7 @@ Route::get('index', function(){
     Route::get('obras_en_progreso', function(){
         return view('INICIO.obras_en_progreso');
     });
+
 
 /* ============ INFORMACION INSTITUCIONAL ==============*/
 Route::get('mision_vision', function(){
